@@ -1,0 +1,2 @@
+Invoice ID	Date	Code	Description	Qty	Sell	Subtotal
+I-153419	1/12/14	SD001717-CR-L	Comfort Soft S/S, CR, L	-1.00	18.99	-18.99

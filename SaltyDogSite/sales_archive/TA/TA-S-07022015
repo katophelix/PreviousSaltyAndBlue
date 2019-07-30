@@ -1,0 +1,532 @@
+Code	Qty	Total Sell	Date	Description	Color	Color - Long	Cost	Family	Invoice ID	Product ID	Sell	Size	Store ID	User	Station	Posted Date
+SD3413C-Orange-XL	-1.00	-22.00	7/2/15	Triblend S/S, Orange, XL	Orange		4.59	T-Shirt	I-53501	P-7069	22.00	XL	The Salty Dog - HHI, SC	Sarah N.	Tanger 2	7/2/15
+SD3413C-Navy-XL	-1.00	-22.00	7/2/15	Triblend S/S, Navy, XL	Navy		4.59	T-Shirt	I-53501	P-3438	22.00	XL	The Salty Dog - HHI, SC	Sarah N.	Tanger 2	7/2/15
+SD0882L-HP-XL	1.00	15.00	7/2/15	Tank Top - Women's, HP, XL	HP		3.13	T-Shirt	I-53502	P-7214	15.00	XL	The Salty Dog - HHI, SC	Sarah N.	Tanger 2	7/2/15
+SD005180-DM-L	1.00	17.00	7/2/15	Hanes Beefy S/S, DM, L	DM		3.03	T-Shirt	I-53502	P-3424	17.00	L	The Salty Dog - HHI, SC	Sarah N.	Tanger 2	7/2/15
+SD33099-VL-XL	1.00	19.00	7/2/15	Women's Comfort Soft V-Neck, VL, XL	VL	Violet	4.40	T-Shirt	I-53503	P-7472	19.00	XL	The Salty Dog - HHI, SC	Sarah N.	Tanger 2	7/2/15
+SD00832SM-Blue-S	1.00	0.50	7/2/15	Sticker - Heart - Small, Blue, S	Blue		0.28	Product	I-53504	P-7544	0.50	S	The Salty Dog - HHI, SC	Sarah N.	Tanger 2	7/2/15
+SD00832SM-Blue-S	1.00	0.50	7/2/15	Sticker - Heart - Small, Blue, S	Blue		0.28	Product	I-53504	P-7544	0.50	S	The Salty Dog - HHI, SC	Sarah N.	Tanger 2	7/2/15
+SD0882L-WH-M	1.00	15.00	7/2/15	Tank Top - Women's, WH, M	WH		2.63	T-Shirt	I-53505	P-7212	15.00	M	The Salty Dog - HHI, SC	Sarah N.	Tanger 2	7/2/15
+SD001717-RC-L	1.00	19.00	7/2/15	Comfort Soft S/S, RC, L	Royal Caribbean		4.25	T-Shirt	I-53506	P-3160	19.00	L	The Salty Dog - HHI, SC	Sarah N.	Tanger 2	7/2/15
+689076894371	1.00	3.99	7/2/15	Note Pad - Cube	Cube		1.93	Product	I-53507	P-2256	3.99	3 x 3 inch	The Salty Dog - HHI, SC	Sarah N.	Tanger 2	7/2/15
+8498420745	1.00	2.99	7/2/15	Golf Ball - White	White		0.96	Product	I-53508	P-2004	2.99		The Salty Dog - HHI, SC	Sarah N.	Tanger 2	7/2/15
+CW05250-JD-M	1.00	12.00	7/2/15	Color of the Week, Jade, M	JD	Jade	2.60	T-Shirt	I-53508	P-7731	12.00	M	The Salty Dog - HHI, SC	Sarah N.	Tanger 2	7/2/15
+SP5180PD-RE-L	1.00	12.00	7/2/15	Patriot Dog S/S, RE, L	Red		3.39	T-Shirt	I-53509	P-3407	12.00	L	The Salty Dog - HHI, SC	Sarah N.	Tanger 2	7/2/15
+CW05250-JD-S	1.00	12.00	7/2/15	Color of the Week, Jade, S	JD	Jade	2.60	T-Shirt	I-53509	P-7730	12.00	S	The Salty Dog - HHI, SC	Sarah N.	Tanger 2	7/2/15
+BW6901SFC-CH-L	1.00	12.00	7/2/15	BW Sailfish Chart S/S, CH, L	CH		2.85	Bluewater	I-53510	P-6916	12.00	L	The Salty Dog - HHI, SC	Sarah N.	Tanger 2	7/2/15
+BW5180SF1C-WH-M	1.00	10.00	7/2/15	BW Sailfish S/S, WH, M	White		3.22	Bluewater	I-53510	P-1188	10.00	M	The Salty Dog - HHI, SC	Sarah N.	Tanger 2	7/2/15
+SD001717-BU-L	1.00	19.00	7/2/15	Comfort Soft S/S, BU, L	Butter		4.15	T-Shirt	I-53511	P-3153	19.00	L	The Salty Dog - HHI, SC	Sarah N.	Tanger 2	7/2/15
+BW5180SF1C-RE-XL	1.00	10.00	7/2/15	BW Sailfish S/S, RE, XL	Red		3.32	Bluewater	I-53512	P-1200	10.00	XL	The Salty Dog - HHI, SC	Sarah N.	Tanger 2	7/2/15
+SP5180PD-RE-XL	1.00	12.00	7/2/15	Patriot Dog S/S, RE, XL	Red		3.39	T-Shirt	I-53512	P-3408	12.00	XL	The Salty Dog - HHI, SC	Sarah N.	Tanger 2	7/2/15
+BW5186SF1C-LW-S	1.00	17.00	7/2/15	BW Sailfish L/S, LW, S	Steel		6.69	Bluewater	I-53512	P-1107	17.00	S	The Salty Dog - HHI, SC	Sarah N.	Tanger 2	7/2/15
+SP5180PD-NY-XL	1.00	12.00	7/2/15	Patriot Dog S/S, NY, XL	Navy		3.41	T-Shirt	I-53512	P-3288	12.00	XL	The Salty Dog - HHI, SC	Sarah N.	Tanger 2	7/2/15
+BW5180TU-WH-L	1.00	12.00	7/2/15	BW Tuna S/S, WH, L	White		2.89	Bluewater	I-53513	P-1174	12.00	L	The Salty Dog - HHI, SC	Sarah N.	Tanger3	7/2/15
+BW5180SK-DM-2X	1.00	12.00	7/2/15	BW Shark S/S, DM, 2X	Denim		5.18	Bluewater	I-53513	P-1155	12.00	2X	The Salty Dog - HHI, SC	Sarah N.	Tanger3	7/2/15
+SD005180-PS-3X	1.00	17.00	7/2/15	Hanes Beefy S/S, PS, 3X	Pink		6.01	T-Shirt	I-53514	P-3339	17.00	3X	The Salty Dog - HHI, SC	Sarah N.	Tanger 2	7/2/15
+SD00F260-LW-L	1.00	24.00	7/2/15	Sweatshirt-Adult Crew, LW, L (20% OFF Sweatshirts)	Light Steel		7.25	Sweatshirt	I-53514	P-2791	24.00	L	The Salty Dog - HHI, SC	Sarah N.	Tanger 2	7/2/15
+SD8872HZ-BK-S	1.00	28.80	7/2/15	Hooded-Full Zip, BK, S (20% OFF Sweatshirts)	Black		12.16	Sweatshirt	I-53514	P-2877	28.80	S	The Salty Dog - HHI, SC	Sarah N.	Tanger 2	7/2/15
+742258250003	1.00	13.00	7/2/15	Calendar - HHI			6.50	Product	I-53515	P-2190	13.00		The Salty Dog - HHI, SC	Sarah N.	Tanger 2	7/2/15
+SD003607-Cobalt-M	1.00	18.00	7/2/15	V-Neck S/S Junior Fit,, Cobalt, M	Cobalt		3.09	T-Shirt	I-53516	P-3942	18.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00B100-PI-6M	1.00	13.00	7/2/15	Infant Romper, PI, 3-6M	PI		3.98	Infant / Toddler	I-53517	P-1572	13.00	3-6M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD1000TD-TD-M	1.00	20.00	7/2/15	Tie-Dye S/S, TD, M	Tie Dye		4.25	T-Shirt	I-53518	P-3300	20.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD005180-BK-XL	1.00	17.00	7/2/15	Hanes Beefy S/S, BK, XL	Black		3.13	T-Shirt	I-53518	P-3245	17.00	XL	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD005180-RO-M	1.00	17.00	7/2/15	Hanes Beefy S/S, RO, M	Royal		3.00	T-Shirt	I-53518	P-3212	17.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD1000TD-TD-M	1.00	20.00	7/2/15	Tie-Dye S/S, TD, M	Tie Dye		4.25	T-Shirt	I-53518	P-3300	20.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SP5380PD-NY-XS	1.00	12.00	7/2/15	Youth Patriot Dog S/S, NY, XS	Navy		3.02	Specialty Prints	I-53519	P-2716	12.00	XS	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD003301-NY-3T	1.00	13.00	7/2/15	Toddler T S/S, NY, 3T	NY		1.97	Infant / Toddler	I-53519	P-1601	13.00	3T	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD3413C-Green-M	1.00	22.00	7/2/15	Triblend S/S, Green, M	Green		4.59	T-Shirt	I-53519	P-3433	22.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD3413C-Purple-L	1.00	22.00	7/2/15	Triblend S/S, Purple, L	Purple		4.59	T-Shirt	I-53519	P-3446	22.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00070NY	1.00	2.99	7/2/15	Can Holder - Navy	Navy		0.83	Product	I-53519	P-2037	2.99	OSFA	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00070NY	1.00	2.99	7/2/15	Can Holder - Navy	Navy		0.83	Product	I-53519	P-2037	2.99	OSFA	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD005180-PR-L	1.00	17.00	7/2/15	Hanes Beefy S/S, PR, L	Purple		3.36	T-Shirt	I-53520	P-3230	17.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD3413C-Orange-L	1.00	22.00	7/2/15	Triblend S/S, Orange, L	Orange		4.59	T-Shirt	I-53520	P-7072	22.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00T252-NY/WH-XL	1.00	25.00	7/2/15	Dri-Balance S/S-Mesh, NY/WH, XL	Navy/White		11.00	T-Shirt	I-53520	P-3180	25.00	XL	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD0C8008CL	1.00	6.29	7/2/15	Wineglass - Clear - Classic (10% OFF Drinkware)	Classic		1.67	Product	I-53520	P-2061	6.29		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD0C8008CL	1.00	6.29	7/2/15	Wineglass - Clear - Classic (10% OFF Drinkware)	Classic		1.67	Product	I-53520	P-2061	6.29		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD0C8008CL	1.00	6.29	7/2/15	Wineglass - Clear - Classic (10% OFF Drinkware)	Classic		1.67	Product	I-53520	P-2061	6.29		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD0C8008CL	1.00	6.29	7/2/15	Wineglass - Clear - Classic (10% OFF Drinkware)	Classic		1.67	Product	I-53520	P-2061	6.29		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDJKDOGBKSM	1.00	9.99	7/2/15	Jake Stuffed Dog - Small	Black		4.76	Product	I-53521	P-2338	9.99	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDY66WT2- Azalea - Youth	1.00	12.99	7/2/15	Visor - Azalea - Youth	Azalea		5.00	Hat	I-53522	P-1561	12.99	Youth	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD006014-CR-XL	1.00	22.00	7/2/15	Comfort Soft L/S, CR, XL	Crimson		6.69	T-Shirt	I-53522	P-2986	22.00	XL	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SP5180PD-RE-XL	1.00	12.00	7/2/15	Patriot Dog S/S, RE, XL	Red		3.39	T-Shirt	I-53522	P-3408	12.00	XL	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD3413C-Purple-XL	1.00	22.00	7/2/15	Triblend S/S, Purple, XL	Purple		4.59	T-Shirt	I-53522	P-3448	22.00	XL	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+858961710083	1.00	12.99	7/2/15	Toy - Peanut Chipmunk			7.12	Pet	I-53522	P-1965	12.99		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SP5180PD-RE-XL	1.00	12.00	7/2/15	Patriot Dog S/S, RE, XL	Red		3.39	T-Shirt	I-53522	P-3408	12.00	XL	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD006014-PP-XL	1.00	22.00	7/2/15	Comfort Soft L/S, PP, XL	Pepper		6.88	T-Shirt	I-53522	P-2990	22.00	XL	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD003588-GA-M	1.00	19.00	7/2/15	Women's L/S, GA, M	GA		5.23	T-Shirt	I-53523	P-3807	19.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD0M1276ON	1.00	6.99	7/2/15	Bistro Mug - Orange - 16 oz	Orange		2.49	Product	I-53524	P-2058	6.99	16 oz	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+689076894579	1.00	4.99	7/2/15	Coffee Mug - White - 15 oz	White		1.42	Product	I-53524	P-2055	4.99	15 oz	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDSAUCE-RB-6OZ	1.00	4.99	7/2/15	Buffalo Sauce, RB, 6OZ	Red Buffalo		2.99	Product	I-53524	P-2131	4.99	6OZ	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDSJS6OZ	1.00	7.00	7/2/15	Jake Shake - 6 oz			3.01	Product	I-53524	P-2104	7.00	6 oz	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDYY47MT-Khaki-Youth	1.00	14.00	7/2/15	Hat - Youth 5-12 - Khaki	Khaki		5.00	Hat	I-53524	P-1559	14.00	Youth	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDJKDOGBKSM	1.00	9.99	7/2/15	Jake Stuffed Dog - Small	Black		4.76	Product	I-53524	P-2338	9.99	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD002202SD	2.00	2.26	7/2/15	Party Cup - White (10% OFF Drinkware)	White		0.30	Product	I-53525	P-2065	1.13	16 oz	The Salty Dog - HHI, SC	Sarah N.	Tanger3	7/2/15
+SD002202RE	2.00	2.26	7/2/15	Party Cup - Red (10% OFF Drinkware)	Red		0.29	Product	I-53525	P-2064	1.13	16 oz	The Salty Dog - HHI, SC	Sarah N.	Tanger3	7/2/15
+SP5180RC-DM-L	1.00	15.00	7/2/15	Racer Dog S/S, DM, L	DM		3.39	Specialty Prints	I-53526	P-7010	15.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD0TAFFYASBG	1.00	6.99	7/2/15	Taffy - Assorted - 12 oz	Assorted		1.85	Product	I-53526	P-2101	6.99	12 oz	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00T252-NY/WH-L	1.00	25.00	7/2/15	Dri-Balance S/S-Mesh, NY/WH, L	Navy/White		11.00	T-Shirt	I-53526	P-3177	25.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SP5180GJ-DY-M	1.00	15.00	7/2/15	Gentleman Jake, DY, M	DY		3.22	Specialty	I-53526	P-2442	15.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDETBTSB-CH-M	1.00	17.00	7/2/15	Bamboo S/S, CH, M	CH		7.04	T-Shirt	I-53526	P-7274	17.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD001717-BU-M	1.00	19.00	7/2/15	Comfort Soft S/S, BU, M	Butter		4.17	T-Shirt	I-53527	P-3143	19.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+70330600065	1.00	2.50	7/2/15	Lighter - SD - Navy/Red			0.95	Product	I-53528	P-2209	2.50		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD0015277BL	1.00	9.99	7/2/15	Playground Ball - Blue	Blue		5.41	Product	I-53528	P-1991	9.99		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD003902-RA-L	1.00	8.00	7/2/15	Doggie Shirt - Raspberry - L	Raspberry		2.98	Pet	I-53528	P-1910	8.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SP3480-TE-S	1.00	15.00	7/2/15	Tank Top - Dog Days of Summer, TE, S	TE		3.79	Specialty	I-53528	P-7243	15.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD03401-Light Blue-6M	1.00	13.00	7/2/15	Infant Tee - Light Blue, 6M	Light Blue		1.97	T-Shirt	I-53528	P-3621	13.00	6M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD06210-Gray-L/XL	1.00	17.99	7/2/15	Hat - Flexfit¬ - Flat Bill, Gray, L/XL	Gray		5.63	Hat	I-53528	P-1487	17.99	L/XL	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SP1717R2-CL-2X	1.00	16.00	7/2/15	Racer Dog 2 S/S, CL, 2X	Celedon		5.56	Specialty Prints	I-53528	P-6827	16.00	2X	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00DFDWH	1.00	3.99	7/2/15	Dog Bowl - White - Plastic	White		1.15	Pet	I-53528	P-1753	3.99	OSFA	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD003588-HP-M	1.00	19.00	7/2/15	Women's L/S, HP, M	Hot Pink		5.28	T-Shirt	I-53529	P-3782	19.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD000775-PS-S	1.00	5.00	7/2/15	Bandana - Small - Pink	Pale Pink		0.50	Specialty Items	I-53529	P-2487	5.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+70330600065	1.00	2.50	7/2/15	Lighter - SD - Navy/Red			0.95	Product	I-53529	P-2209	2.50		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00255-Blue-OSFA	1.00	2.50	7/2/15	Poker Chip, Blue	Blue	Blue	0.85	Product	I-53529	P-7474	2.50	OSFA	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00255-Red-OSFA	1.00	2.50	7/2/15	Poker Chip, Red	Red	Red	0.85	Product	I-53529	P-7476	2.50	OSFA	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD006014-PP-L	1.00	22.00	7/2/15	Comfort Soft L/S, PP, L	Pepper		6.72	T-Shirt	I-53529	P-2985	22.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+CWLAT6901-AP-XL	1.00	10.00	7/2/15	Color of the Week, AP, XL	AP		2.84	T-Shirt	I-53530	P-3470	10.00	XL	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+CWG5000-2145C-M	1.00	10.00	7/2/15	Color of the Week, Neon Blue, M	2145C	Neon Blue	1.76	T-Shirt	I-53531	P-7720	10.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+CWLAT6901-AP-XL	1.00	10.00	7/2/15	Color of the Week, AP, XL	AP		2.84	T-Shirt	I-53531	P-3470	10.00	XL	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDDOGGIE5	1.00	5.00	7/2/15	Doggie Deal			0.00	Markdowns	I-53531	P-1004	5.00		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDDOGGIE5	1.00	5.00	7/2/15	Doggie Deal			0.00	Markdowns	I-53531	P-1004	5.00		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+CWLAT6901-AP-XL	1.00	10.00	7/2/15	Color of the Week, AP, XL	AP		2.84	T-Shirt	I-53531	P-3470	10.00	XL	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDDOGGIE10	1.00	10.00	7/2/15	Doggie Deal			0.00	Markdowns	I-53532	P-1001	10.00		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+BW5190SF4C-WH-S	1.00	12.00	7/2/15	BW Pocket Sailfish 4C S/S, WH, S	White		4.25	Bluewater	I-53533	P-1135	12.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00PCJ	1.00	0.50	7/2/15	Postcard - Jake			0.13	Product	I-53533	P-2274	0.50	6.5x4.5	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDK45CA4 - White - Adult	1.00	16.99	7/2/15	Hat - Women's Fit - White - Adult	White		5.76	Hat	I-53534	P-1514	16.99	Adult	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDK45CA4 - Black - Adult	1.00	16.99	7/2/15	Hat - Women's Fit - Black - Adult	Black		7.24	Hat	I-53534	P-1510	16.99	Adult	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SP5180LG-GN-2X	1.00	15.00	7/2/15	Lager Dog S/S, GN, 2X	Gold Nugget		5.76	T-Shirt	I-53535	P-3731	15.00	2X	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SP1717R2-CL-2X	1.00	16.00	7/2/15	Racer Dog 2 S/S, CL, 2X	Celedon		5.56	Specialty Prints	I-53535	P-6827	16.00	2X	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00255-Red-OSFA	1.00	2.50	7/2/15	Poker Chip, Red	Red	Red	0.85	Product	I-53535	P-7476	2.50	OSFA	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD005180-WH-L	1.00	10.00	7/2/15	Hanes Beefy S/S, WH, L	White		2.80	T-Shirt	I-53536	P-1074	10.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD0TAFFYASBG	1.00	6.99	7/2/15	Taffy - Assorted - 12 oz	Assorted		1.85	Product	I-53537	P-2101	6.99	12 oz	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD9018DD-NY-M	1.00	14.00	7/2/15	Youth Dog Did It S/S, NY, M	Navy		3.82	T-Shirt	I-53537	P-4064	14.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD0TAFFYASBG	1.00	6.99	7/2/15	Taffy - Assorted - 12 oz	Assorted		1.85	Product	I-53537	P-2101	6.99	12 oz	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDDOGGIE5	1.00	5.00	7/2/15	Doggie Deal			0.00	Markdowns	I-53538	P-1004	5.00		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDDOGGIE5	1.00	5.00	7/2/15	Doggie Deal			0.00	Markdowns	I-53538	P-1004	5.00		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDIPAD-TD-Mini	1.00	15.00	7/2/15	Salty Dog Ipad Case, TD, Mini	Tie Dye		4.25	Product	I-53538	P-2244	15.00	Mini	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDIPAD-TD-Mini	1.00	15.00	7/2/15	Salty Dog Ipad Case, TD, Mini	Tie Dye		4.25	Product	I-53539	P-2244	15.00	Mini	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDAUTODCHH	1.00	3.99	7/2/15	Magnet - Auto Decal - HH			1.50	Product	I-53539	P-6861	3.99		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00900JR-Assorted-Youth	2.00	9.98	7/2/15	Neon Sunglasses, Assorted, Youth	Assorted		0.81	Product	I-53539	P-2100	4.99	Youth	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00SL04-TE-XL	1.00	17.00	7/2/15	Women's Classic Fit T, TE, XL	TE		3.24	T-Shirt	I-53540	P-3867	17.00	XL	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD005380-6A-S	1.00	15.00	7/2/15	Youth Beefy S/S, 6A, S	Wow Pink		2.40	T-Shirt	I-53540	P-4027	15.00	S (6-8)	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+CWLAT6901-AP-2X	1.00	10.00	7/2/15	Color of the Week, AP, 2X	AP		3.66	T-Shirt	I-53540	P-3471	10.00	2X	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD035PRPP	1.00	1.50	7/2/15	Sticker - Parking Permit	Parking Permit		0.22	Product	I-53540	P-2282	1.50	3 x 4 inch	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDTEMPTATT	1.00	0.25	7/2/15	Tattoo - Temporary - Jake			0.08	Product	I-53540	P-2343	0.25		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00070NY	1.00	2.99	7/2/15	Can Holder - Navy	Navy		0.83	Product	I-53540	P-2037	2.99	OSFA	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00070PS	1.00	2.99	7/2/15	Can Holder - Magenta	Magenta		0.84	Product	I-53540	P-2035	2.99	OSFA	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDKOOZIEBL	1.00	2.99	7/2/15	Koozie - Foam - Blue	Blue		0.78	Product	I-53541	P-2042	2.99	OSFA	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SP5180PD-NY-2X	1.00	12.00	7/2/15	Patriot Dog S/S, NY, 2X	Navy		4.53	T-Shirt	I-53541	P-3387	12.00	2X	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD03401-Light Blue-18M	1.00	13.00	7/2/15	Infant Tee - Light Blue, 18M	Light Blue		1.97	T-Shirt	I-53541	P-3625	13.00	18M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD001567 -NY-L	1.00	28.80	7/2/15	Hooded-Stonewash, NY, L (20% OFF Sweatshirts)	Navy		17.49	Sweatshirt	I-53541	P-2826	28.80	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD005180-PS-M	1.00	17.00	7/2/15	Hanes Beefy S/S, PS, M	Pink		3.39	T-Shirt	I-53542	P-3215	17.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD003607-RA-XL	1.00	18.00	7/2/15	V-Neck S/S Junior Fit, RA, XL	Raspberry		3.09	T-Shirt	I-53542	P-3896	18.00	XL	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD003607-KL-M	1.00	18.00	7/2/15	V-Neck S/S Junior Fit,, KL, M	Key Lime		3.09	T-Shirt	I-53542	P-3941	18.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SP5180PD-NY-L	1.00	12.00	7/2/15	Patriot Dog S/S, NY, L	Navy		3.45	T-Shirt	I-53543	P-3287	12.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD0395OV	1.00	1.50	7/2/15	Sticker - Oval	Oval		0.30	Product	I-53544	P-2281	1.50	4 x 6 inch	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDETBTSB-IE-S	1.00	17.00	7/2/15	Bamboo S/S, IE, S	Pine		8.42	T-Shirt	I-53544	P-3390	17.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00T120BBL	1.00	3.99	7/2/15	Shotglass - Blue	Blue		2.00	Product	I-53544	P-2062	3.99	1 3/4 oz	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD002202-St. Pattys-16 oz	1.00	1.25	7/2/15	Party Cup, St. Pattys, 16 oz	St. Pattys		0.32	Product	I-53544	P-7545	1.25	16 oz	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+689076894074	1.00	4.50	7/2/15	Bottle Suit - Red	Red		1.57	Product	I-53544	P-2038	4.50	OSFA	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD003902-RE-XL	1.00	8.00	7/2/15	Doggie Shirt - Red - XL	Red		3.88	Pet	I-53545	P-1916	8.00	XL	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD003902-RA-L	1.00	8.00	7/2/15	Doggie Shirt - Raspberry - L	Raspberry		2.98	Pet	I-53545	P-1910	8.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD004200-AD-L	1.00	5.00	7/2/15	Bandana - American Flag	American Dog		1.03	Specialty Items	I-53546	P-2472	5.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD005180-LI-2X	1.00	17.00	7/2/15	Hanes Beefy S/S, LI, 2X	Lime		5.70	T-Shirt	I-53547	P-3326	17.00	2X	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD005180-TE-S	1.00	17.00	7/2/15	Hanes Beefy S/S, TE, S	Teal		3.11	T-Shirt	I-53547	P-3201	17.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD005180-CD-L	1.00	17.00	7/2/15	Hanes Beefy S/S, CD, L	Cardinal		3.30	T-Shirt	I-53547	P-3221	17.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD005180-RO-L	1.00	17.00	7/2/15	Hanes Beefy S/S, RO, L	Royal		3.43	T-Shirt	I-53547	P-3231	17.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD005186-LW-3X	1.00	20.00	7/2/15	Hanes Beefy L/S, LW, 3X	Light Steel		8.24	T-Shirt	I-53548	P-3060	20.00	3X	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD005180-WH-2X	1.00	10.00	7/2/15	Hanes Beefy S/S, WH, 2X	White		4.25	T-Shirt	I-53548	P-6113	10.00	2X	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD001023SCL	4.00	12.60	7/2/15	Bubble Cup - Clear - 16 oz (10% OFF Drinkware)	Clear		1.35	Product	I-53548	P-2053	3.15	12 oz	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00SL04-WH-S	1.00	10.00	7/2/15	Women's Classic Fit T, WH, S	White		2.43	T-Shirt	I-53549	P-3821	10.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+CWG5000-2283C-M	1.00	10.00	7/2/15	Color of the Week, Neon Green, M	2283C	Neon Green	2.44	T-Shirt	I-53550	P-7715	10.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+CWG5000-2283C-XL	1.00	10.00	7/2/15	Color of the Week, Neon Green, XL	2283C	Neon Green	2.45	T-Shirt	I-53550	P-7717	10.00	XL	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD3413C-Purple-L	1.00	22.00	7/2/15	Triblend S/S, Purple, L	Purple		4.59	T-Shirt	I-53550	P-3446	22.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDK45CA4 - White - Adult	1.00	16.99	7/2/15	Hat - Women's Fit - White - Adult	White		5.76	Hat	I-53551	P-1514	16.99	Adult	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD001717-KI-L	1.00	19.00	7/2/15	Comfort Soft S/S, KI, L	Kiwi		4.16	T-Shirt	I-53551	P-3157	19.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+CWG5000-348C-M	1.00	10.00	7/2/15	Color of the Week, 348C, M	348C	Antique Irish Green	2.23	T-Shirt	I-53552	P-7562	10.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD001566-FL-XL	1.00	28.00	7/2/15	Sweatshirt-Stonewash, FL, XL (20% OFF Sweatshirts)	Flow Blue		12.88	Sweatshirt	I-53553	P-2812	28.00	XL	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD001566-FL-L	-1.00	-28.00	7/2/15	Sweatshirt-Stonewash, FL, L (20% OFF Sweatshirts)	Flow Blue		13.17	Sweatshirt	I-53553	P-2808	28.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+008764104279	1.00	3.99	7/2/15	Magnet - Mastiffs			1.25	Pet	I-53553	P-1873	3.99		The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+729173900350	1.00	3.99	7/2/15	Magnet - Bostons			1.24	Pet	I-53553	P-1761	3.99		The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD001717-LG-M	1.00	19.00	7/2/15	Comfort Soft S/S, LG, M	Light Green		4.24	T-Shirt	I-53554	P-3148	19.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD004350-NY-OSFA	1.00	15.00	7/2/15	Apron - Navy	Navy		6.57	Specialty Items	I-53554	P-2467	15.00	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD2000TD-TD-S	1.00	25.00	7/2/15	Tie-Dye L/S, TD, S	Tie Dye		6.25	T-Shirt	I-53555	P-3048	25.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD0TAFFYASBG	1.00	6.99	7/2/15	Taffy - Assorted - 12 oz	Assorted		1.85	Product	I-53556	P-2101	6.99	12 oz	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+CW05250-JD-L	1.00	12.00	7/2/15	Color of the Week, Jade, L	JD	Jade	2.91	T-Shirt	I-53557	P-7732	12.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+008764105573	1.00	3.99	7/2/15	Magnet - My Kids have 4 Paws			1.25	Pet	I-53557	P-1889	3.99		The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD005180-PR-S	1.00	17.00	7/2/15	Hanes Beefy S/S, PR, S	Purple		2.99	T-Shirt	I-53558	P-3193	17.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	
+SD005180-PR-S	-1.00	-17.00	7/2/15	Hanes Beefy S/S, PR, S	Purple		2.99	T-Shirt	I-53558	P-3193	17.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	
+SD00024STK	1.00	1.00	7/2/15	Clear Salty Dog Decal Sticker			0.25	Product	I-53559	P-7339	1.00		The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD005100GR	3.00	8.97	7/2/15	Luggage Tag - Green	Green		0.50	Product	I-53560	P-2197	2.99	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD005100BL	1.00	2.99	7/2/15	Luggage Tag - Blue	Blue		0.50	Product	I-53560	P-2195	2.99	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD001717-LG-L	1.00	19.00	7/2/15	Comfort Soft S/S, LG, L	Light Green		4.25	T-Shirt	I-53561	P-3158	19.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD001717-CR-L	1.00	19.00	7/2/15	Comfort Soft S/S, CR, L	Crimson		4.21	T-Shirt	I-53561	P-3154	19.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SP5180LG-GN-L	1.00	15.00	7/2/15	Lager Dog S/S, GN, L	Gold Nugget		3.45	T-Shirt	I-53562	P-3727	15.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+BW5180SF1C-RE-XL	1.00	10.00	7/2/15	BW Sailfish S/S, RE, XL	Red		3.32	Bluewater	I-53563	P-1200	10.00	XL	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD005186-WH-M	1.00	20.00	7/2/15	Hanes Beefy L/S, WH, M	White		5.25	T-Shirt	I-53564	P-3010	20.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD005180-WH-M	1.00	10.00	7/2/15	Hanes Beefy S/S, WH, M	White		2.80	T-Shirt	I-53565	P-1073	10.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger3	7/2/15
+SD005186-BK-S	1.00	20.00	7/2/15	Hanes Beefy L/S, BK, S	Black		6.40	T-Shirt	I-53565	P-3009	20.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger3	7/2/15
+689076893978	2.00	8.10	7/2/15	Bottle Suit - Navy (10% OFF Drinkware)	Navy		1.56	Product	I-53566	P-2036	4.05	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+689076894173	2.00	8.10	7/2/15	Bottle Suit - Lime (10% OFF Drinkware)	Lime		1.56	Product	I-53566	P-2032	4.05	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD000003MA	2.00	8.10	7/2/15	Bottle Suit - Magenta (10% OFF Drinkware)	Magenta		1.56	Product	I-53566	P-2034	4.05	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+689076894074	2.00	8.10	7/2/15	Bottle Suit - Red (10% OFF Drinkware)	Red		1.57	Product	I-53566	P-2038	4.05	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00070RE	1.00	2.69	7/2/15	Can Holder - Red (10% OFF Drinkware)	Red		0.96	Product	I-53566	P-2039	2.69	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00070NY	1.00	2.69	7/2/15	Can Holder - Navy (10% OFF Drinkware)	Navy		0.83	Product	I-53566	P-2037	2.69	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00070PS	1.00	2.69	7/2/15	Can Holder - Magenta (10% OFF Drinkware)	Magenta		0.84	Product	I-53566	P-2035	2.69	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00070LI	1.00	2.69	7/2/15	Can Holder - Lime (10% OFF Drinkware)	Lime		0.84	Product	I-53566	P-2033	2.69	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD001023SBL	7.00	22.05	7/2/15	Bubble Cup - Blue - 16 oz (10% OFF Drinkware)	Blue		1.34	Product	I-53566	P-2052	3.15	16 oz	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD006014-FL-M	1.00	22.00	7/2/15	Comfort Soft L/S, FL, M	FL		6.73	T-Shirt	I-53567	P-7004	22.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD005186-BK-L	1.00	20.00	7/2/15	Hanes Beefy L/S, BK, L	Black		6.40	T-Shirt	I-53567	P-3023	20.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD0A986-NY-2X	1.00	15.00	7/2/15	Tank Top - Men's, NY, 2X	NY		5.84	T-Shirt	I-53567	P-7117	15.00	2X	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SDSIPCUP9OZ	1.00	3.99	7/2/15	Sippy Cup - 9 oz			1.12	Product	I-53568	P-2066	3.99	9 oz	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00BMSB-Blue-24OZ	1.00	6.99	7/2/15	Specialized BM Sport Bottle, Blue, 24OZ	Blue	Blue	2.17	Product	I-53568	P-7595	6.99	24OZ	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SDY66WT2- Azalea - Youth	1.00	12.99	7/2/15	Visor - Azalea - Youth	Azalea		5.00	Hat	I-53568	P-1561	12.99	Youth	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD005380-PS-XS	1.00	15.00	7/2/15	Youth Beefy S/S, PS, XS	Pink		3.22	T-Shirt	I-53568	P-4010	15.00	XS (2-4)	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SP5380PD-NY-XS	1.00	12.00	7/2/15	Youth Patriot Dog S/S, NY, XS	Navy		3.02	Specialty Prints	I-53568	P-2716	12.00	XS	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD0882L-HP-M	1.00	15.00	7/2/15	Tank Top - Women's, HP, M	HP		3.13	T-Shirt	I-53569	P-7216	15.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SP5180GJ-BM-2X	1.00	15.00	7/2/15	Gentleman Jake, BM, 2X	BM		3.76	Specialty	I-53569	P-2447	15.00	2X	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SPNTRTAD-PS-2X	1.00	15.00	7/2/15	Tank Top - Dog Days of Summer, PS, 2X	PS		6.06	Specialty	I-53569	P-7253	15.00	2X	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+70330600065	1.00	2.50	7/2/15	Lighter - SD - Navy/Red			0.95	Product	I-53570	P-2209	2.50		The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD8872HZ-BK-M	1.00	28.80	7/2/15	Hooded-Full Zip, BK, M (20% OFF Sweatshirts)	Black		12.14	Sweatshirt	I-53571	P-2878	28.80	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SP5380PD-NY-XS	1.00	12.00	7/2/15	Youth Patriot Dog S/S, NY, XS	Navy		3.02	Specialty Prints	I-53572	P-2716	12.00	XS	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD003301-RA-3T	1.00	13.00	7/2/15	Toddler T S/S, RA, 3T	RA		1.97	Infant / Toddler	I-53572	P-1603	13.00	3T	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SDNTRTAD-YE-M	1.00	15.00	7/2/15	Tank Top - Simple Dog, YE, M	YE		4.89	Tank Top	I-53573	P-7306	15.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SPSL04PL-6A-M	1.00	15.00	7/2/15	Women's Plaid Dog, 6A, M	Wow Pink		3.50	Specialty Prints	I-53574	P-2652	15.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SP5180PD-NY-2X	1.00	12.00	7/2/15	Patriot Dog S/S, NY, 2X	Navy		4.53	T-Shirt	I-53575	P-3387	12.00	2X	The Salty Dog - HHI, SC	Ali S.	Tanger3	7/2/15
+SP5380PD-NY-M	1.00	12.00	7/2/15	Youth Patriot Dog S/S, NY, M	Navy		2.91	Specialty Prints	I-53576	P-2719	12.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger3	7/2/15
+SDDOGGIE5	1.00	5.00	7/2/15	Doggie Deal			0.00	Markdowns	I-53577	P-1004	5.00		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+CW05250-SH-2X	1.00	10.00	7/2/15	Color of the Week, SH, 2X	SH	Safety Orange	5.59	T-Shirt	I-53578	P-7697	10.00	2X	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDDOGGIE5	1.00	5.00	7/2/15	Doggie Deal			0.00	Markdowns	I-53578	P-1004	5.00		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+CWG5000-2145C-M	1.00	10.00	7/2/15	Color of the Week, Neon Blue, M	2145C	Neon Blue	1.76	T-Shirt	I-53579	P-7720	10.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SPSL04PL-AB-M	1.00	15.00	7/2/15	Women's Plaid Dog, AB, M	Aquatic Blue		3.50	Specialty Prints	I-53580	P-2653	15.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD005180-WH-3X	1.00	10.00	7/2/15	Hanes Beefy S/S, WH, 3X	White		4.86	T-Shirt	I-53581	P-6112	10.00	3X	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDDOGGIE5	1.00	5.00	7/2/15	Doggie Deal			0.00	Markdowns	I-53581	P-1004	5.00		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDC47PD4 - Navy - Adult	1.00	16.99	7/2/15	Hat - Pigment Dyed - Navy - Adult	Navy		5.00	Hat	I-53582	P-1411	16.99	Adult	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SP2214FD-RE-L	1.00	16.00	7/2/15	Youth Football Dog L/S, RE, L	Red		3.50	Specialty Prints	I-53583	P-2690	16.00	L (14-16)	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDMG5250BL	1.00	9.99	7/2/15	Football - Blue/Yellow - Rubber	Blue/Yellow		3.85	Product	I-53583	P-2246	9.99		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD001566-CR-S	1.00	28.00	7/2/15	Sweatshirt-Stonewash, CR, S (20% OFF Sweatshirts)	Crimson		13.00	Sweatshirt	I-53584	P-2802	28.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD005186-WH-M	1.00	20.00	7/2/15	Hanes Beefy L/S, WH, M	White		5.25	T-Shirt	I-53585	P-3010	20.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD001566-FL-S	1.00	28.00	7/2/15	Sweatshirt-Stonewash, FL, S (20% OFF Sweatshirts)	Flow Blue		13.12	Sweatshirt	I-53585	P-2800	28.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD006014-NY-S	-1.00	-22.00	7/2/15	Comfort Soft L/S, NY, S	Navy		6.72	T-Shirt	I-53586	P-2973	22.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD006014-NY-M	1.00	22.00	7/2/15	Comfort Soft L/S, NY, M	Navy		6.72	T-Shirt	I-53586	P-2978	22.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD006014-FL-XL	1.00	22.00	7/2/15	Comfort Soft L/S, FL, XL	FL		6.77	T-Shirt	I-53586	P-7002	22.00	XL	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00900JR-Assorted-Youth	1.00	4.99	7/2/15	Neon Sunglasses, Assorted, Youth	Assorted		0.81	Product	I-53587	P-2100	4.99	Youth	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00900JR-Assorted-Youth	1.00	4.99	7/2/15	Neon Sunglasses, Assorted, Youth	Assorted		0.81	Product	I-53587	P-2100	4.99	Youth	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD005186-NY-M	1.00	20.00	7/2/15	Hanes Beefy L/S, NY, M	Navy		6.33	T-Shirt	I-53587	P-3015	20.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SDE47MT2 - Kelly Green - Adult	1.00	16.99	7/2/15	Hat - St.Pattys - Kelly Green - Adult	Kelly Green		5.50	Hat	I-53588	P-1437	16.99	Adult	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD0G1412-NY-S	1.00	25.00	7/2/15	Swim Trunks- Men's, NY, S	NY		11.00	Shorts/Pants	I-53588	P-2364	25.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SP5180SP-KG-2X	1.00	15.00	7/2/15	St. Patty's Dog S/S, KG, 2X	Kelly Green		3.21	T-Shirt	I-53588	P-6046	15.00	2X	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+CWG5000-2283C-M	1.00	10.00	7/2/15	Color of the Week, Neon Green, M	2283C	Neon Green	2.44	T-Shirt	I-53588	P-7715	10.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD001717-LG-M	1.00	19.00	7/2/15	Comfort Soft S/S, LG, M	Light Green		4.24	T-Shirt	I-53589	P-3148	19.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD006014-FL-M	1.00	22.00	7/2/15	Comfort Soft L/S, FL, M	FL		6.73	T-Shirt	I-53589	P-7004	22.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00070PS	1.00	2.99	7/2/15	Can Holder - Magenta	Magenta		0.84	Product	I-53590	P-2035	2.99	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+689076894371	1.00	3.99	7/2/15	Note Pad - Cube	Cube		1.93	Product	I-53591	P-2256	3.99	3 x 3 inch	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD0G1092-NY-XL	1.00	31.20	7/2/15	Sweatshirt-College, NY, XL (20% OFF Sweatshirts)	Navy		22.50	Sweatshirt	I-53591	P-2867	31.20	XL	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD001717-KI-M	1.00	19.00	7/2/15	Comfort Soft S/S, KI, M	Kiwi		4.16	T-Shirt	I-53591	P-3147	19.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD3413C-Green-XL	1.00	22.00	7/2/15	Triblend S/S, Green, XL	Green		4.59	T-Shirt	I-53592	P-3437	22.00	XL	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00SL04-6A-S	1.00	17.00	7/2/15	Women's Classic Fit T, 6A, S	Wow Pink		3.32	T-Shirt	I-53593	P-3824	17.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00SL04-RO-2X	1.00	17.00	7/2/15	Women's Classic Fit T, RO, 2X	Royal		4.53	T-Shirt	I-53593	P-3858	17.00	2X	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+729173900954	1.00	3.99	7/2/15	Magnet - Goldens			1.24	Pet	I-53594	P-1770	3.99		The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+CW05250-JD-M	1.00	12.00	7/2/15	Color of the Week, Jade, M	JD	Jade	2.60	T-Shirt	I-53594	P-7731	12.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD005180-WH-L	1.00	10.00	7/2/15	Hanes Beefy S/S, WH, L	White		2.80	T-Shirt	I-53595	P-1074	10.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SDETBTSB-NY-M	1.00	17.00	7/2/15	Bamboo S/S, NY, M	NY		7.16	T-Shirt	I-53596	P-3116	17.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SDETBTSB-RO-L	1.00	17.00	7/2/15	Bamboo S/S, RO, L	Deep Royal		6.55	T-Shirt	I-53596	P-3118	17.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SDETBTSB-CH-S	1.00	17.00	7/2/15	Bamboo S/S, CH, S	CH		7.32	T-Shirt	I-53596	P-7273	17.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SDETBTSB-IE-XL	1.00	17.00	7/2/15	Bamboo S/S, IE, XL	Pine		6.99	T-Shirt	I-53596	P-3393	17.00	XL	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD0882L-HP-M	1.00	15.00	7/2/15	Tank Top - Women's, HP, M	HP		3.13	T-Shirt	I-53596	P-7216	15.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD001566-LG-S	1.00	28.00	7/2/15	Sweatshirt-Stonewash, LG, S (20% OFF Sweatshirts)	Light Green		13.14	Sweatshirt	I-53597	P-2803	28.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD005180-6A-M	1.00	17.00	7/2/15	Hanes Beefy S/S, 6A, M	Wow Pink		3.22	T-Shirt	I-53598	P-3202	17.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SP5180PD-RE-L	1.00	12.00	7/2/15	Patriot Dog S/S, RE, L	Red		3.39	T-Shirt	I-53598	P-3407	12.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD005180-HL-S	1.00	17.00	7/2/15	Hanes Beefy S/S, HL, S	Heather		3.42	T-Shirt	I-53598	P-3191	17.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD003301-LW-2T	1.00	13.00	7/2/15	Toddler T S/S, LW, 2T	LW		1.70	Infant / Toddler	I-53599	P-1593	13.00	2T	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+CW05250-JD-M	1.00	12.00	7/2/15	Color of the Week, Jade, M	JD	Jade	2.60	T-Shirt	I-53600	P-7731	12.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD001717-CR-L	1.00	19.00	7/2/15	Comfort Soft S/S, CR, L	Crimson		4.21	T-Shirt	I-53600	P-3154	19.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD001717-NY-L	1.00	19.00	7/2/15	Comfort Soft S/S, NY, L	Navy		4.22	T-Shirt	I-53600	P-3155	19.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD001717-LG-XL	1.00	19.00	7/2/15	Comfort Soft S/S, LG, XL	Light Green		4.21	T-Shirt	I-53600	P-3168	19.00	XL	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SDTEMPTATT	12.00	3.00	7/2/15	Tattoo - Temporary - Jake			0.08	Product	I-53600	P-2343	0.25		The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD005180-WH-L	1.00	10.00	7/2/15	Hanes Beefy S/S, WH, L	White		2.80	T-Shirt	I-53601	P-1074	10.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD001717-BU-L	1.00	19.00	7/2/15	Comfort Soft S/S, BU, L	Butter		4.15	T-Shirt	I-53601	P-3153	19.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+CW05250-JD-XL	1.00	12.00	7/2/15	Color of the Week, Jade, XL	JD	Jade	2.73	T-Shirt	I-53602	P-7733	12.00	XL	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00SL04-6A-S	1.00	17.00	7/2/15	Women's Classic Fit T, 6A, S	Wow Pink		3.32	T-Shirt	I-53603	P-3824	17.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00SL04-AB-S	1.00	17.00	7/2/15	Women's Classic Fit T, AB, S	Aquatic Blue		3.31	T-Shirt	I-53603	P-3825	17.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+689076894470	1.00	5.99	7/2/15	Mini Jake w/ Clip - Black	Jake		3.78	Product	I-53603	P-2339	5.99	Mini	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD8872HZ-BK-L	1.00	28.80	7/2/15	Hooded-Full Zip, BK, L (20% OFF Sweatshirts)	Black		12.10	Sweatshirt	I-53604	P-2879	28.80	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+BW5180SF1C-LW-L	1.00	10.00	7/2/15	BW Sailfish S/S, LW, L	Steel		3.21	Bluewater	I-53605	P-1197	10.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+CWG5000-2145C-2X	1.00	10.00	7/2/15	Color of the Week, Neon Blue, 2X	2145C	Neon Blue	4.94	T-Shirt	I-53605	P-7723	10.00	2X	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SDDOGGIE5	1.00	5.00	7/2/15	Doggie Deal			0.00	Markdowns	I-53605	P-1004	5.00		The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD004200-PR-L	1.00	5.00	7/2/15	Bandana - Large - Purple	Purple		0.78	Specialty Items	I-53605	P-5535	5.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD005180-WH-M	1.00	10.00	7/2/15	Hanes Beefy S/S, WH, M	White		2.80	T-Shirt	I-53606	P-1073	10.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD005180-WH-S	1.00	10.00	7/2/15	Hanes Beefy S/S, WH, S	White		2.70	T-Shirt	I-53606	P-6088	10.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SDDOGGIE5	1.00	5.00	7/2/15	Doggie Deal			0.00	Markdowns	I-53607	P-1004	5.00		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00900JR-Assorted-Youth	1.00	4.99	7/2/15	Neon Sunglasses, Assorted, Youth	Assorted		0.81	Product	I-53607	P-2100	4.99	Youth	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD004200-RE-L	1.00	5.00	7/2/15	Bandana - Large - Red	Red		0.90	Specialty Items	I-53607	P-2481	5.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD000775-RO-S	1.00	5.00	7/2/15	Bandana - Small - Royal	Royal		0.50	Specialty Items	I-53608	P-2489	5.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDC79M - Khaki - M/L	1.00	18.99	7/2/15	Hat - Sun Hat - Khaki - M/L	Khaki		8.75	Hat	I-53608	P-1424	18.99	M/L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD005186-LW-L	1.00	20.00	7/2/15	Hanes Beefy L/S, LW, L	Light Steel		6.16	T-Shirt	I-53608	P-3018	20.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD001717-LG-S	1.00	19.00	7/2/15	Comfort Soft S/S, LG, S	Light Green		4.15	T-Shirt	I-53608	P-3138	19.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD005180-HL-XL	1.00	17.00	7/2/15	Hanes Beefy S/S, HL, XL	Heather		3.46	T-Shirt	I-53608	P-3246	17.00	XL	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD0M1276CO	1.00	6.99	7/2/15	Bistro Mug - Cobalt - 16 oz	Cobalt		2.58	Product	I-53608	P-2056	6.99	16 oz	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD000775-RE-S	1.00	5.00	7/2/15	Bandana - Small - Red	Red		0.50	Specialty Items	I-53608	P-2488	5.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDTEMPTATT	1.00	0.25	7/2/15	Tattoo - Temporary - Jake			0.08	Product	I-53608	P-2343	0.25		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD001566-IR-S	1.00	28.00	7/2/15	Sweatshirt-Stonewash, IR, S (20% OFF Sweatshirts)	IR	Island Reef	10.36	Sweatshirt	I-53609	P-7596	28.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD001566-NY-L	1.00	28.00	7/2/15	Sweatshirt-Stonewash, NY, L (20% OFF Sweatshirts)	Navy		13.11	Sweatshirt	I-53609	P-2809	28.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+660048182009	1.00	10.99	7/2/15	Chuck It - Boomerang			5.63	Pet	I-53610	P-1937	10.99		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+660048182009	1.00	10.99	7/2/15	Chuck It - Boomerang			5.63	Pet	I-53610	P-1937	10.99		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+008764103647	1.00	3.99	7/2/15	Magnet - Cockapoos			1.24	Pet	I-53610	P-1868	3.99		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+729173900152	1.00	3.99	7/2/15	Magnet - Aussies			1.24	Pet	I-53610	P-1754	3.99		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+729173900930	1.00	3.99	7/2/15	Magnet - Goldendoodles			1.25	Pet	I-53610	P-1771	3.99		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+008764103715	1.00	3.99	7/2/15	Magnet - Doxies			1.24	Pet	I-53610	P-1869	3.99		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+660048183006	1.00	11.99	7/2/15	Chuck It - Bumper			6.12	Pet	I-53610	P-1938	11.99		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD003607-Heather-S	1.00	18.00	7/2/15	V-Neck S/S Junior Fit,, Heather, S	Heather		3.09	T-Shirt	I-53611	P-3940	18.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+TERVIS2-SD Logo-12 oz	1.00	12.99	7/2/15	Tervis - Tumbler - SD Logo - 12 oz	SD Logo		7.73	Product	I-53611	P-2098	12.99	12 oz	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD2000YTD-TD-L	1.00	25.00	7/2/15	Youth Tie Dye L/S, TD, L	Tie Dye		6.25	T-Shirt	I-53611	P-3998	25.00	L (14-16)	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+CW05250-SH-S	-1.00	-10.00	7/2/15	Color of the Week, SH, S	SH	Safety Orange	2.81	T-Shirt	I-53612	P-7693	10.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	
+CW05250-SH-M	1.00	10.00	7/2/15	Color of the Week, SH, M	SH	Safety Orange	2.99	T-Shirt	I-53612	P-7694	10.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	
+SD003665-PC-M	1.00	17.00	7/2/15	Women's Camo S/S, PC, M	Pink Camo		6.68	Specialty Prints	I-53613	P-2646	17.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD006014-FL-S	1.00	22.00	7/2/15	Comfort Soft L/S, FL, S	FL		6.73	T-Shirt	I-53614	P-7003	22.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD0STCKRHH	1.00	2.99	7/2/15	Sticker - HH	Hilton Head		1.00	Product	I-53614	P-2320	2.99		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD005012NAL	1.00	5.99	7/2/15	License Plate - Aluminum	Aluminum		1.88	Product	I-53615	P-1979	5.99	OSFA	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+70330600065	1.00	2.50	7/2/15	Lighter - SD - Navy/Red			0.95	Product	I-53615	P-2209	2.50		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD005180-DM-M	1.00	17.00	7/2/15	Hanes Beefy S/S, DM, M	DM		3.22	T-Shirt	I-53616	P-3422	17.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+CW05250-LB-2X	1.00	10.00	7/2/15	Color of the Week, LB, 2X	LB	Light Blue	3.99	T-Shirt	I-53617	P-7593	10.00	2X	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD005180-DM-XL	1.00	17.00	7/2/15	Hanes Beefy S/S, DM, XL	DM		3.22	T-Shirt	I-53617	P-3426	17.00	XL	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD004200-PS-L	1.00	5.00	7/2/15	Bandana - Large - Pink	Pale Pink		0.91	Specialty Items	I-53618	P-2480	5.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDY66WT2 - Royal - Youth	1.00	12.99	7/2/15	Visor - Royal - Youth	Royal		5.00	Hat	I-53619	P-1542	12.99	Youth	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDPLACEMATBA	1.00	5.99	7/2/15	Placemat - Bone-Appetit			2.50	Pet	I-53620	P-6848	5.99		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SP5180SP-KG-2X	1.00	15.00	7/2/15	St. Patty's Dog S/S, KG, 2X	Kelly Green		3.21	T-Shirt	I-53620	P-6046	15.00	2X	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+CWG2000-431C-S	1.00	10.00	7/2/15	Color of the Week, 431C, S	431C	Heather Indigo	4.12	T-Shirt	I-53621	P-7615	10.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD002206-CA-XS	1.00	15.00	7/2/15	Youth Camo S/S, CA, XS	Camo		4.93	Specialty Prints	I-53622	P-2708	15.00	XS	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SP5180PD-NY-L	1.00	12.00	7/2/15	Patriot Dog S/S, NY, L	Navy		3.45	T-Shirt	I-53622	P-3287	12.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+CW05250-JD-L	1.00	12.00	7/2/15	Color of the Week, Jade, L	JD	Jade	2.91	T-Shirt	I-53622	P-7732	12.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD03099-BK-L	1.00	19.00	7/2/15	Comfort Soft V-Neck, BK, L	BK	Black	4.55	T-Shirt	I-53622	P-7434	19.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SP5380PD-NY-XS	1.00	12.00	7/2/15	Youth Patriot Dog S/S, NY, XS	Navy		3.02	Specialty Prints	I-53622	P-2716	12.00	XS	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SP5370SP-KG-XS	1.00	14.00	7/2/15	Youth St. Patty S/S, KG, XS	Kelly Green		2.65	Specialty Prints	I-53622	P-6055	14.00	XS	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD0TAFFYASBG	1.00	6.99	7/2/15	Taffy - Assorted - 12 oz	Assorted		1.85	Product	I-53622	P-2101	6.99	12 oz	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00070RE	1.00	2.69	7/2/15	Can Holder - Red (10% OFF Drinkware)	Red		0.96	Product	I-53623	P-2039	2.69	OSFA	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00070NY	1.00	2.69	7/2/15	Can Holder - Navy (10% OFF Drinkware)	Navy		0.83	Product	I-53623	P-2037	2.69	OSFA	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00070LI	1.00	2.69	7/2/15	Can Holder - Lime (10% OFF Drinkware)	Lime		0.84	Product	I-53623	P-2033	2.69	OSFA	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00070PS	1.00	2.69	7/2/15	Can Holder - Magenta (10% OFF Drinkware)	Magenta		0.84	Product	I-53623	P-2035	2.69	OSFA	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDCTCRSC	1.00	3.50	7/2/15	Cat Toy - Crab - Red			1.74	Pet	I-53623	P-1971	3.50		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDT114SBBL	1.00	3.99	7/2/15	Shotglass - Clear/Blue - 1 3/4 oz	Clear/Blue		1.50	Product	I-53623	P-2051	3.99	1 3/4 oz	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD005100RE	1.00	2.99	7/2/15	Luggage Tag - Red	Red		0.51	Product	I-53623	P-2200	2.99	OSFA	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD003588-PI-L	1.00	19.00	7/2/15	Women's L/S, PI, L	Pale Pink		5.23	T-Shirt	I-53623	P-3791	19.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDTEMPTATT	3.00	0.75	7/2/15	Tattoo - Temporary - Jake			0.08	Product	I-53623	P-2343	0.25		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD004200-BO-L	1.00	5.00	7/2/15	Bandana - Bones	Bone		1.03	Specialty Items	I-53623	P-2474	5.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00070RE	1.00	2.69	7/2/15	Can Holder - Red (10% OFF Drinkware)	Red		0.96	Product	I-53623	P-2039	2.69	OSFA	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00070RE	1.00	2.69	7/2/15	Can Holder - Red (10% OFF Drinkware)	Red		0.96	Product	I-53623	P-2039	2.69	OSFA	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SP5180PD-NY-M	1.00	12.00	7/2/15	Patriot Dog S/S, NY, M	Navy		3.44	T-Shirt	I-53624	P-3286	12.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD005186-WH-S	1.00	20.00	7/2/15	Hanes Beefy L/S, WH, S	White		5.18	T-Shirt	I-53625	P-3003	20.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+729173900954	1.00	3.99	7/2/15	Magnet - Goldens			1.24	Pet	I-53625	P-1770	3.99		The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD005180-WH-M	1.00	10.00	7/2/15	Hanes Beefy S/S, WH, M	White		2.80	T-Shirt	I-53625	P-1073	10.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD001566-IR-S	1.00	28.00	7/2/15	Sweatshirt-Stonewash, IR, S (20% OFF Sweatshirts)	IR	Island Reef	10.36	Sweatshirt	I-53626	P-7596	28.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SDETBTSB-RO-L	1.00	17.00	7/2/15	Bamboo S/S, RO, L	Deep Royal		6.55	T-Shirt	I-53627	P-3118	17.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger3	7/2/15
+SDDD2135-RO-OSFA	1.00	6.99	7/2/15	Drawstring Duffle - Royal	Royal		2.70	Product	I-53628	P-2018	6.99	OSFA	The Salty Dog - HHI, SC	Ali S.	Tanger3	7/2/15
+SP5180RC-DM-S	1.00	15.00	7/2/15	Racer Dog S/S, DM, S	DM		3.22	Specialty Prints	I-53629	P-7008	15.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD003301-RE-3T	1.00	13.00	7/2/15	Toddler T S/S, RE, 3T	RE		1.95	Infant / Toddler	I-53629	P-1604	13.00	3T	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD005180-LI-L	1.00	17.00	7/2/15	Hanes Beefy S/S, LI, L	Lime		3.17	T-Shirt	I-53630	P-3237	17.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD001717-RC-XL	1.00	19.00	7/2/15	Comfort Soft S/S, RC, XL	Royal Caribbean		4.24	T-Shirt	I-53630	P-3170	19.00	XL	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+CW05250-JD-XL	1.00	12.00	7/2/15	Color of the Week, Jade, XL	JD	Jade	2.73	T-Shirt	I-53630	P-7733	12.00	XL	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD1000TD-TD-S	-1.00	-20.00	7/2/15	Tie-Dye S/S, TD, S	Tie Dye		4.25	T-Shirt	I-53631	P-3298	20.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger3	
+SD1000TD-TD-M	1.00	20.00	7/2/15	Tie-Dye S/S, TD, M	Tie Dye		4.25	T-Shirt	I-53631	P-3300	20.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger3	
+SD001717-BE-M	1.00	19.00	7/2/15	Comfort Soft S/S, BE, M	Berry		4.22	T-Shirt	I-53632	P-3141	19.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+CWG5000-2283C-2X	1.00	10.00	7/2/15	Color of the Week, Neon Green, 2X	2283C	Neon Green	4.94	T-Shirt	I-53633	P-7718	10.00	2X	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SDDOGGIE5	1.00	5.00	7/2/15	Doggie Deal			0.00	Markdowns	I-53633	P-1004	5.00		The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SDDOGGIE5	1.00	5.00	7/2/15	Doggie Deal			0.00	Markdowns	I-53634	P-1004	5.00		The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SDDOGGIE5	1.00	5.00	7/2/15	Doggie Deal			0.00	Markdowns	I-53634	P-1004	5.00		The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00F260-HL-M	1.00	24.00	7/2/15	Sweatshirt-Adult Crew, HL, M (20% OFF Sweatshirts)	Heather		7.92	Sweatshirt	I-53635	P-2785	24.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SDDOGGIE5	1.00	5.00	7/2/15	Doggie Deal			0.00	Markdowns	I-53635	P-1004	5.00		The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+CWA980-CA-S	1.00	10.00	7/2/15	Color of the Week, CA, S	CA		2.65	T-Shirt	I-53636	P-6873	10.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD9018DD-NY-XS	1.00	14.00	7/2/15	Youth Dog Did It S/S, NY, XS	Navy		3.85	T-Shirt	I-53637	P-4060	14.00	XS	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00SL04-TE-M	1.00	17.00	7/2/15	Women's Classic Fit T, TE, M	TE		3.23	T-Shirt	I-53638	P-3865	17.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+767548127964	1.00	9.99	7/2/15	Plush - Alligator - Stream Line			6.50	Product	I-53638	P-7292	9.99		The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00070LI	1.00	2.99	7/2/15	Can Holder - Lime	Lime		0.84	Product	I-53638	P-2033	2.99	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+689076894777	1.00	8.95	7/2/15	Story Book - Legend of Jake the Salty Dog	Hardcover		1.98	Product	I-53639	P-2341	8.95		The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD000522BL	1.00	2.99	7/2/15	Bracelet - HHI - Glitter			0.46	Product	I-53640	P-2342	2.99		The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD1000YTD-BJ-M	1.00	20.00	7/2/15	Youth Tie Dye S/S, BJ, M	Blue Jerry Tie Dye		4.25	T-Shirt	I-53640	P-4075	20.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SPNL6810-NO-L	1.00	17.00	7/2/15	Women's Slub Tee, NO, L	NO		3.55	T-Shirt	I-53640	P-7327	17.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SP5380RD-WH-S	1.00	14.00	7/2/15	Youth Retro S/S, WH, S	White		2.30	Specialty Prints	I-53640	P-2723	14.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SP5370SP-KG-XS	1.00	14.00	7/2/15	Youth St. Patty S/S, KG, XS	Kelly Green		2.65	Specialty Prints	I-53640	P-6055	14.00	XS	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SDTRLIDYEL	1.00	3.99	7/2/15	Travel Lid - Yellow - Yellow	YE		1.90	Product	I-53640	P-2068	3.99	16OZ	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+93597003004	1.00	12.99	7/2/15	Tervis - Tumbler - SD Logo - 16 oz			7.73	Product	I-53640	P-2059	12.99	16 oz	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+689076894678	1.00	4.99	7/2/15	Coffee Mug - Navy - 15 oz	Navy		1.60	Product	I-53640	P-2054	4.99	15 oz	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD081V-Royal-L	1.00	18.00	7/2/15	SOFFE - Athletic Shorts, Royal, L	Royal		7.65	Shorts/Pants	I-53641	P-2415	18.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD0M1276CO	1.00	6.99	7/2/15	Bistro Mug - Cobalt - 16 oz	Cobalt		2.58	Product	I-53641	P-2056	6.99	16 oz	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD8872HZ-RO-S	1.00	28.80	7/2/15	Hooded-Full Zip, RO, S (20% OFF Sweatshirts)	Royal		12.16	Sweatshirt	I-53642	P-2872	28.80	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00F260-HL-S	1.00	24.00	7/2/15	Sweatshirt-Adult Crew, HL, S (20% OFF Sweatshirts)	Heather		7.78	Sweatshirt	I-53642	P-2780	24.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SDIPHONE-GR/TQ-4PI	1.00	4.00	7/2/15	iPhone Cover, GR/TQ, 4PI	Green/Light Blue		0.65	Product	I-53642	P-2234	4.00	iPhone 4 Silicone Case	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00T252-RO/WH-XL	1.00	25.00	7/2/15	Dri-Balance S/S-Mesh, RO/WH, XL	Royal/White		11.00	T-Shirt	I-53642	P-3181	25.00	XL	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00CRCUSRE	1.00	4.99	7/2/15	Croakies - Red	Red		1.35	Product	I-53642	P-2202	4.99	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+704398111095	1.00	9.99	7/2/15	Gulpy			4.60	Pet	I-53643	P-1799	9.99		The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD000755-WH-L	1.00	39.00	7/2/15	Men's S/S Polo - WH - L	WH	White	16.97	Polos	I-53644	P-7409	39.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD005380-RE-XS	1.00	15.00	7/2/15	Youth Beefy S/S, RE, XS	Red		3.27	T-Shirt	I-53644	P-4012	15.00	XS (2-4)	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD002214-WH-S	1.00	16.00	7/2/15	Youth L/S, WH, S	White		3.83	T-Shirt	I-53644	P-3975	16.00	S (6-8)	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD0A986-NY-S	1.00	15.00	7/2/15	Tank Top - Men's, NY, S	NY		4.00	T-Shirt	I-53644	P-7114	15.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00CSWBIGPS	1.00	1.99	7/2/15	Pen - Pink	Pink		0.80	Product	I-53644	P-2287	1.99	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD001160A3	1.00	12.99	7/2/15	Tin Bucket	Metal		6.92	Product	I-53644	P-2159	12.99		The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD02296-RA-XS	1.00	16.80	7/2/15	Youth - Hooded Pullover, RA, XS (20% OFF Sweatshirts)	RA		6.87	Sweatshirt	I-53645	P-2938	16.80	XS	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD03401-Light Pink-18M	1.00	13.00	7/2/15	Infant Tee - Light Pink, 18M	Light Pink		1.97	T-Shirt	I-53645	P-3626	13.00	18M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD003311-NY-2T	1.00	13.00	7/2/15	Toddler T L/S, NY, 2T	NY		2.84	Infant / Toddler	I-53646	P-1584	13.00	2T	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD003311-RA-4T	1.00	13.00	7/2/15	Toddler T L/S, RA, 4T	RA		2.80	Infant / Toddler	I-53646	P-1589	13.00	4T	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+CW05250-JD-L	1.00	12.00	7/2/15	Color of the Week, Jade, L	JD	Jade	2.91	T-Shirt	I-53646	P-7732	12.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00T252-WH/NY-L	1.00	25.00	7/2/15	Dri-Balance S/S-Mesh, WH/NY, L	White/Navy		11.00	T-Shirt	I-53646	P-3179	25.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00070RE	1.00	2.69	7/2/15	Can Holder - Red (10% OFF Drinkware)	Red		0.96	Product	I-53647	P-2039	2.69	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00070NY	1.00	2.69	7/2/15	Can Holder - Navy (10% OFF Drinkware)	Navy		0.83	Product	I-53647	P-2037	2.69	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00070PS	1.00	2.69	7/2/15	Can Holder - Magenta (10% OFF Drinkware)	Magenta		0.84	Product	I-53647	P-2035	2.69	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00070LI	1.00	2.69	7/2/15	Can Holder - Lime (10% OFF Drinkware)	Lime		0.84	Product	I-53647	P-2033	2.69	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD001566-NY-S	1.00	28.00	7/2/15	Sweatshirt-Stonewash, NY, S (20% OFF Sweatshirts)	Navy		13.16	Sweatshirt	I-53647	P-2801	28.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SP5180PD-NY-XL	1.00	12.00	7/2/15	Patriot Dog S/S, NY, XL	Navy		3.41	T-Shirt	I-53648	P-3288	12.00	XL	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SP5180PD-RE-L	1.00	12.00	7/2/15	Patriot Dog S/S, RE, L	Red		3.39	T-Shirt	I-53648	P-3407	12.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SP5180PD-NY-XL	1.00	12.00	7/2/15	Patriot Dog S/S, NY, XL	Navy		3.41	T-Shirt	I-53648	P-3288	12.00	XL	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD0STCKRHH	1.00	2.99	7/2/15	Sticker - HH	Hilton Head		1.00	Product	I-53649	P-2320	2.99		The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD003607-Heather-L	1.00	18.00	7/2/15	V-Neck S/S Junior Fit,, Heather, L	Heather		3.09	T-Shirt	I-53650	P-3946	18.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+CW05250-JD-XL	1.00	12.00	7/2/15	Color of the Week, Jade, XL	JD	Jade	2.73	T-Shirt	I-53650	P-7733	12.00	XL	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD9018DD-CB-XS	1.00	14.00	7/2/15	Youth Dog Did It S/S, CB, XS	Crunch Berry		3.84	T-Shirt	I-53650	P-4059	14.00	XS	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD000755-TE-2X	1.00	39.00	7/2/15	Men's S/S Polo - TE - 2X	TE	Teal	16.97	Polos	I-53651	P-7403	39.00	2X	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00070KG	1.00	2.69	7/2/15	Can Holder - Kelly Green (10% OFF Drinkware)	Kelly Green		0.85	Product	I-53652	P-2050	2.69	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00070KG	1.00	2.69	7/2/15	Can Holder - Kelly Green (10% OFF Drinkware)	Kelly Green		0.85	Product	I-53652	P-2050	2.69	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00070PS	1.00	2.69	7/2/15	Can Holder - Magenta (10% OFF Drinkware)	Magenta		0.84	Product	I-53652	P-2035	2.69	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00070RE	1.00	2.69	7/2/15	Can Holder - Red (10% OFF Drinkware)	Red		0.96	Product	I-53652	P-2039	2.69	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD001717-LG-XL	1.00	19.00	7/2/15	Comfort Soft S/S, LG, XL	Light Green		4.21	T-Shirt	I-53653	P-3168	19.00	XL	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00T120BBL	1.00	3.99	7/2/15	Shotglass - Blue	Blue		2.00	Product	I-53654	P-2062	3.99	1 3/4 oz	The Salty Dog - HHI, SC	Ali S.	Tanger3	7/2/15
+SDJKDOGBKSM	1.00	9.99	7/2/15	Jake Stuffed Dog - Small	Black		4.76	Product	I-53654	P-2338	9.99	S	The Salty Dog - HHI, SC	Ali S.	Tanger3	7/2/15
+767548113738	1.00	9.99	7/2/15	Plush - Blue Crab - Buster			5.76	Product	I-53654	P-2349	9.99		The Salty Dog - HHI, SC	Ali S.	Tanger3	7/2/15
+SD00PCJ	1.00	0.50	7/2/15	Postcard - Jake			0.13	Product	I-53654	P-2274	0.50	6.5x4.5	The Salty Dog - HHI, SC	Ali S.	Tanger3	7/2/15
+729173900930	1.00	3.99	7/2/15	Magnet - Goldendoodles			1.25	Pet	I-53654	P-1771	3.99		The Salty Dog - HHI, SC	Ali S.	Tanger3	7/2/15
+SD006030-CY-L	1.00	19.00	7/2/15	Comfort Soft S/S-Pocket, CY, L	CY		4.78	T-Shirt	I-53655	P-3484	19.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD006030-CY-L	-1.00	-19.00	7/2/15	Comfort Soft S/S-Pocket, CY, L	CY		4.78	T-Shirt	I-53656	P-3484	19.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	
+SD006030-NY-L	1.00	19.00	7/2/15	Comfort Soft S/S-Pocket, NY, L	Navy		4.78	T-Shirt	I-53656	P-3474	19.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	
+SD00482Y-6A-L	1.00	15.00	7/2/15	Youth Rash Guard S/S, 6A, L	Wow Pink		4.70	Specialty	I-53657	P-2457	15.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD03401-Light Pink-12M	1.00	13.00	7/2/15	Infant Tee - Light Pink, 12M	Light Pink		1.97	T-Shirt	I-53657	P-3624	13.00	12M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SP5380PD-NY-S	1.00	12.00	7/2/15	Youth Patriot Dog S/S, NY, S	Navy		2.92	Specialty Prints	I-53657	P-2718	12.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD000522BL	1.00	2.99	7/2/15	Bracelet - HHI - Glitter			0.46	Product	I-53658	P-2342	2.99		The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD000522BL	1.00	2.99	7/2/15	Bracelet - HHI - Glitter			0.46	Product	I-53659	P-2342	2.99		The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SDE47MT2 - Kelly Green - Adult	1.00	16.99	7/2/15	Hat - St.Pattys - Kelly Green - Adult	Kelly Green		5.50	Hat	I-53660	P-1437	16.99	Adult	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD000COSST	1.00	3.99	7/2/15	Coaster - Sandstone	Sandstone		0.95	Product	I-53661	P-2158	3.99		The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00070KG	1.00	2.99	7/2/15	Can Holder - Kelly Green	Kelly Green		0.85	Product	I-53661	P-2050	2.99	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD000003MA	1.00	4.50	7/2/15	Bottle Suit - Magenta	Magenta		1.56	Product	I-53662	P-2034	4.50	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SDWBH2GO-Aqua	1.00	8.99	7/2/15	Waterbottle - H2GO - Aqua	Aquatic Blue		3.44	Product	I-53663	P-2096	8.99	24OZ	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD00BMSB-Blue-24OZ	1.00	6.99	7/2/15	Specialized BM Sport Bottle, Blue, 24OZ	Blue	Blue	2.17	Product	I-53663	P-7595	6.99	24OZ	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SDTEMPTATT	1.00	0.25	7/2/15	Tattoo - Temporary - Jake			0.08	Product	I-53664	P-2343	0.25		The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+KW5180-WH-M	1.00	10.00	7/2/15	Key West S/S, WH, M	WH		2.58	Wholesale	I-53664	P-6977	10.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD000522BL	2.00	5.98	7/2/15	Bracelet - HHI - Glitter			0.46	Product	I-53665	P-2342	2.99		The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SP5180PD-NY-XL	1.00	12.00	7/2/15	Patriot Dog S/S, NY, XL	Navy		3.41	T-Shirt	I-53665	P-3288	12.00	XL	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SP5180PD-NY-M	1.00	12.00	7/2/15	Patriot Dog S/S, NY, M	Navy		3.44	T-Shirt	I-53665	P-3286	12.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SP5380PD-NY-M	1.00	12.00	7/2/15	Youth Patriot Dog S/S, NY, M	Navy		2.91	Specialty Prints	I-53665	P-2719	12.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SP5180PD-RE-XL	1.00	12.00	7/2/15	Patriot Dog S/S, RE, XL	Red		3.39	T-Shirt	I-53665	P-3408	12.00	XL	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+784369371437	1.00	7.99	7/2/15	Toy - Sea Shammie's - Starfish			3.25	Pet	I-53665	P-1947	7.99		The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD0TAFFYASBG	1.00	6.99	7/2/15	Taffy - Assorted - 12 oz	Assorted		1.85	Product	I-53665	P-2101	6.99	12 oz	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SP5180PD-RE-S	1.00	12.00	7/2/15	Patriot Dog S/S, RE, S	Red		3.39	T-Shirt	I-53666	P-3405	12.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD0882L-WH-M	1.00	15.00	7/2/15	Tank Top - Women's, WH, M	WH		2.63	T-Shirt	I-53667	P-7212	15.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SP3522VC-BK-2X/3X	1.00	18.00	7/2/15	V-Neck Beach Cover-Up, BK, 2X/3X	BK		7.00	Specialty Prints	I-53668	P-2672	18.00	2X/3X	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SP5380PD-RE-XS	1.00	9.00	7/2/15	Youth Patriot Dog S/S, RE, XS	Red		2.84	Specialty Prints	I-53669	P-2730	9.00	XS	The Salty Dog - HHI, SC	Ali S.	Tanger3	7/2/15
+SDC79M - Khaki - M/L	1.00	18.99	7/2/15	Hat - Sun Hat - Khaki - M/L	Khaki		8.75	Hat	I-53670	P-1424	18.99	M/L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+CWG5000-2145C-2X	1.00	10.00	7/2/15	Color of the Week, Neon Blue, 2X	2145C	Neon Blue	4.94	T-Shirt	I-53670	P-7723	10.00	2X	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+CWG5000-7706C-2X	1.00	10.00	7/2/15	Color of the Week, 7706C, 2X	7706C	Antique Saphire	3.44	T-Shirt	I-53670	P-7565	10.00	2X	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD001717-FL-M	1.00	19.00	7/2/15	Comfort Soft S/S, FL, M	Flo Blue		4.28	T-Shirt	I-53671	P-3146	19.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+689076894272	1.00	19.99	7/2/15	Jake Stuffed Dog - Large	Black		11.00	Product	I-53672	P-2337	19.99	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDETBTSB-RO-L	1.00	17.00	7/2/15	Bamboo S/S, RO, L	Deep Royal		6.55	T-Shirt	I-53673	P-3118	17.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD006014-CR-XL	1.00	22.00	7/2/15	Comfort Soft L/S, CR, XL	Crimson		6.69	T-Shirt	I-53673	P-2986	22.00	XL	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD006030-IR-S	1.00	19.00	7/2/15	Comfort Soft S/S-Pocket, IR, S	IR		4.78	T-Shirt	I-53674	P-7309	19.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SP5180LG-GN-L	1.00	15.00	7/2/15	Lager Dog S/S, GN, L	Gold Nugget		3.45	T-Shirt	I-53674	P-3727	15.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDK45CA4 - Spray - Adult	1.00	16.99	7/2/15	Hat - Women's Fit - Spray - Adult	Spray		5.77	Hat	I-53674	P-1513	16.99	Adult	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD001566-FL-S	1.00	28.00	7/2/15	Sweatshirt-Stonewash, FL, S (20% OFF Sweatshirts)	Flow Blue		13.12	Sweatshirt	I-53674	P-2800	28.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD005380-AX-L	1.00	15.00	7/2/15	Youth Beefy S/S, AX, L	Athletic Orange		3.19	T-Shirt	I-53675	P-4046	15.00	L (14-16)	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SDETBTSB-RO-XL	1.00	17.00	7/2/15	Bamboo S/S, RO, XL	Deep Royal		7.07	T-Shirt	I-53675	P-3121	17.00	XL	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SDDAKOTA-TD-L	1.00	29.00	7/2/15	Dakota Rae Tie Dye S/S, TD, L	TD	Tie Dye	14.04	T-Shirt	I-53675	P-7680	29.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD000775-PS-S	1.00	5.00	7/2/15	Bandana - Small - Pink	Pale Pink		0.50	Specialty Items	I-53676	P-2487	5.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD004200-BTD-L	1.00	5.00	7/2/15	Bandana - Blue Tie-Dye	Blue Tie Dye		1.03	Specialty Items	I-53676	P-2475	5.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD008TCALL	1.00	1.99	7/2/15	Lip Balm - Tropical	Tropical		0.40	Product	I-53677	P-2205	1.99		The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+CWG5000-7706C-M	1.00	10.00	7/2/15	Color of the Week, 7706C, M	7706C	Antique Saphire	1.76	T-Shirt	I-53677	P-7567	10.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SP5180LG-GN-M	1.00	15.00	7/2/15	Lager Dog S/S, GN, M	Gold Nugget		3.29	T-Shirt	I-53677	P-3725	15.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SP5180PD-NY-L	1.00	12.00	7/2/15	Patriot Dog S/S, NY, L	Navy		3.45	T-Shirt	I-53677	P-3287	12.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+CW05250-JD-L	1.00	12.00	7/2/15	Color of the Week, Jade, L	JD	Jade	2.91	T-Shirt	I-53677	P-7732	12.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SDK45CA4 - Spray - Adult	1.00	16.99	7/2/15	Hat - Women's Fit - Spray - Adult	Spray		5.77	Hat	I-53677	P-1513	16.99	Adult	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD3413C-Aqua-2X	1.00	22.00	7/2/15	Triblend S/S, Aqua, 2X	Aqua		5.91	T-Shirt	I-53678	P-7078	22.00	2X	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+008764104545	1.00	3.99	7/2/15	Magnet - Pomeranians			1.25	Pet	I-53678	P-1876	3.99		The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD081V-Black/Blue-S	1.00	18.00	7/2/15	SOFFE - Athletic Shorts, Black/Pink/Blue, S	Black/Pink/Blue		5.10	Shorts/Pants	I-53679	P-2418	18.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD0882L-HP-M	1.00	15.00	7/2/15	Tank Top - Women's, HP, M	HP		3.13	T-Shirt	I-53680	P-7216	15.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD2700-NY-M	1.00	16.00	7/2/15	Tank Top-Shooter, NY, M	NY		3.79	Tank Top	I-53681	P-4101	16.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD005180-PS-M	1.00	17.00	7/2/15	Hanes Beefy S/S, PS, M	Pink		3.39	T-Shirt	I-53681	P-3215	17.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD008TCALL	1.00	1.99	7/2/15	Lip Balm - Tropical	Tropical		0.40	Product	I-53682	P-2205	1.99		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD001566-NY-S	1.00	28.00	7/2/15	Sweatshirt-Stonewash, NY, S (20% OFF Sweatshirts)	Navy		13.16	Sweatshirt	I-53683	P-2801	28.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD001566-NY-L	1.00	28.00	7/2/15	Sweatshirt-Stonewash, NY, L (20% OFF Sweatshirts)	Navy		13.11	Sweatshirt	I-53684	P-2809	28.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD006014-LG-L	1.00	22.00	7/2/15	Comfort Soft L/S, LG, L	Light Green		6.77	T-Shirt	I-53684	P-2982	22.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SP5180PD-NY-XL	1.00	12.00	7/2/15	Patriot Dog S/S, NY, XL	Navy		3.41	T-Shirt	I-53685	P-3288	12.00	XL	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD006014-FL-M	1.00	22.00	7/2/15	Comfort Soft L/S, FL, M	FL		6.73	T-Shirt	I-53686	P-7004	22.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD001566-NY-S	1.00	28.00	7/2/15	Sweatshirt-Stonewash, NY, S (20% OFF Sweatshirts)	Navy		13.16	Sweatshirt	I-53686	P-2801	28.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+CW05250-JD-S	1.00	12.00	7/2/15	Color of the Week, Jade, S	JD	Jade	2.60	T-Shirt	I-53686	P-7730	12.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD003333-TD-OSFA	1.00	36.00	7/2/15	Blanket-Stadium, Tie-Dye	Tie-Dye		18.42	Specialty Items	I-53687	P-2502	36.00	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SP5180PD-NY-L	1.00	12.00	7/2/15	Patriot Dog S/S, NY, L	Navy		3.45	T-Shirt	I-53688	P-3287	12.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD00T139	1.00	4.99	7/2/15	Pint Glass - 16oz			0.82	Product	I-53688	P-2060	4.99	16 oz	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SDDOGGIE10	1.00	10.00	7/2/15	Doggie Deal			0.00	Markdowns	I-53689	P-1001	10.00		The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD3413C-Green-L	1.00	22.00	7/2/15	Triblend S/S, Green, L	Green		4.59	T-Shirt	I-53689	P-3435	22.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+BW6901SFC-CH-L	1.00	12.00	7/2/15	BW Sailfish Chart S/S, CH, L	CH		2.85	Bluewater	I-53689	P-6916	12.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+CW05250-JD-2X	1.00	12.00	7/2/15	Color of the Week, Jade, 2X	JD	Jade	6.64	T-Shirt	I-53690	P-7734	12.00	2X	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00SL04-8I-XL	1.00	17.00	7/2/15	Women's Classic Fit T, 8I, XL	Winter Berry		3.31	T-Shirt	I-53690	P-3845	17.00	XL	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD00BKUSNY	1.00	2.99	7/2/15	Key Chain - 3 in 1 - Navy	Navy		1.34	Product	I-53691	P-2169	2.99	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SP5180PD-NY-L	1.00	12.00	7/2/15	Patriot Dog S/S, NY, L	Navy		3.45	T-Shirt	I-53692	P-3287	12.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SP5180PD-NY-M	1.00	12.00	7/2/15	Patriot Dog S/S, NY, M	Navy		3.44	T-Shirt	I-53693	P-3286	12.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD0TAFFYASBG	1.00	6.99	7/2/15	Taffy - Assorted - 12 oz	Assorted		1.85	Product	I-53693	P-2101	6.99	12 oz	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+689076894074	1.00	4.50	7/2/15	Bottle Suit - Red	Red		1.57	Product	I-53693	P-2038	4.50	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD004200-AD-L	1.00	5.00	7/2/15	Bandana - American Flag	American Dog		1.03	Specialty Items	I-53694	P-2472	5.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD006014-PP-M	1.00	22.00	7/2/15	Comfort Soft L/S, PP, M	Pepper		6.69	T-Shirt	I-53695	P-2980	22.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD006014-PP-S	1.00	22.00	7/2/15	Comfort Soft L/S, PP, S	Pepper		6.69	T-Shirt	I-53695	P-2975	22.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD001566-LG-M	1.00	28.00	7/2/15	Sweatshirt-Stonewash, LG, M (20% OFF Sweatshirts)	Light Green		13.15	Sweatshirt	I-53695	P-2807	28.00	M	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD004200-AD-L	-1.00	-5.00	7/2/15	Bandana - American Flag	American Dog		1.03	Specialty Items	I-53696	P-2472	5.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SDTEMPTATT	4.00	1.00	7/2/15	Tattoo - Temporary - Jake			0.08	Product	I-53697	P-2343	0.25		The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+729173901852	1.00	3.99	7/2/15	Magnet - Rotties			1.25	Product	I-53697	P-2188	3.99		The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD0SOAP-Lavender Mint-L	1.00	7.00	7/2/15	Soap - Hand Crafted, Lavender Mint, L	Lavender Mint	Lavender Mint	3.50	Product	I-53698	P-7581	7.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD00T252-NY/WH-L	1.00	25.00	7/2/15	Dri-Balance S/S-Mesh, NY/WH, L	Navy/White		11.00	T-Shirt	I-53699	P-3177	25.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SDNTRTAD-NB-XL	1.00	15.00	7/2/15	Tank Top - Simple Dog, NB, XL	NB	Neon Blue	4.89	Tank Top	I-53699	P-7669	15.00	XL	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SDC47MES - Navy - Adult	1.00	18.99	7/2/15	Hat - Cotton Mesh Back - Navy - Adult	Navy		6.00	Hat	I-53700	P-1408	18.99	Adult	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SDWBH2GO-Aqua	1.00	8.99	7/2/15	Waterbottle - H2GO - Aqua	Aquatic Blue		3.44	Product	I-53701	P-2096	8.99	24OZ	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+700603022033	1.00	7.99	7/2/15	Toy - Bottle Buddies - Pig			3.98	Pet	I-53702	P-1958	7.99		The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SDSFLY10TOR	1.00	4.50	7/2/15	Flying Disc - Orange	Orange		0.92	Product	I-53702	P-1998	4.50	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD0045X70BL	1.00	38.99	7/2/15	Beach Towel - Blue	Blue		24.98	Product	I-53702	P-1993	38.99	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD0045X70BL	1.00	38.99	7/2/15	Beach Towel - Blue	Blue		24.98	Product	I-53702	P-1993	38.99	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD0045X70GR	1.00	38.99	7/2/15	Beach Towel - Green	Green		24.97	Product	I-53702	P-1996	38.99	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD0045X70PS	1.00	38.99	7/2/15	Beach Towel - Pink	Pink		25.00	Product	I-53702	P-1999	38.99	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SDETBTSB-IE-L	1.00	17.00	7/2/15	Bamboo S/S, IE, L	Pine		7.01	T-Shirt	I-53703	P-3392	17.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD001717-PP-L	-1.00	-19.00	7/2/15	Comfort Soft S/S, PP, L	Pepper		4.10	T-Shirt	I-53704	P-3159	19.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD001717-PP-XL	1.00	19.00	7/2/15	Comfort Soft S/S, PP, XL	Pepper		4.20	T-Shirt	I-53704	P-3169	19.00	XL	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+KW5180CB-NY-XL	1.00	15.00	7/2/15	Key West - Cuba S/S, NY, XL	NY		3.22	Wholesale	I-53704	P-7099	15.00	XL	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD005186-LB-M	1.00	20.00	7/2/15	Hanes Beefy L/S, LB, M	Light Blue		6.24	T-Shirt	I-53705	P-3078	20.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SP5180LV-WH-S	1.00	15.00	7/2/15	Luv Dog S/S, WH, S	White		2.35	T-Shirt	I-53705	P-3274	15.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SP6030-CY-M	1.00	18.00	7/2/15	Sailor Jake S/S-Pocket, CY, M	Chambray		4.78	T-Shirt	I-53705	P-3735	18.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+729173902279	1.00	3.99	7/2/15	Magnet - Yorkies			1.24	Pet	I-53705	P-1797	3.99		The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD1000TD-TD-M	1.00	20.00	7/2/15	Tie-Dye S/S, TD, M	Tie Dye		4.25	T-Shirt	I-53706	P-3300	20.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+CWG5000-7578C-M	1.00	10.00	7/2/15	Color of the Week, 7578C, M	7578C	Sunset	2.29	T-Shirt	I-53707	P-7603	10.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+CW05170-HE-S	1.00	10.00	7/2/15	Color of the Week, HE, S	HE	Heather Red	1.79	T-Shirt	I-53707	P-7553	10.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD004200-RE-L	1.00	5.00	7/2/15	Bandana - Large - Red	Red		0.90	Specialty Items	I-53707	P-2481	5.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD003311-RA-5/6T	1.00	13.00	7/2/15	Toddler T L/S, RA, 5/6T	RA		2.83	Infant / Toddler	I-53708	P-1591	13.00	5/6T	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD003311-RA-3T	1.00	13.00	7/2/15	Toddler T L/S, RA, 3T	RA		2.80	Infant / Toddler	I-53708	P-1587	13.00	3T	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD003311-NY-3T	1.00	13.00	7/2/15	Toddler T L/S, NY, 3T	NY		2.84	Infant / Toddler	I-53708	P-1586	13.00	3T	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SP5180PD-RE-XL	1.00	12.00	7/2/15	Patriot Dog S/S, RE, XL	Red		3.39	T-Shirt	I-53709	P-3408	12.00	XL	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SP5180PD-NY-L	1.00	12.00	7/2/15	Patriot Dog S/S, NY, L	Navy		3.45	T-Shirt	I-53709	P-3287	12.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD001717-FL-L	1.00	19.00	7/2/15	Comfort Soft S/S, FL, L	Flo Blue		4.24	T-Shirt	I-53710	P-3156	19.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD006014-NY-L	1.00	22.00	7/2/15	Comfort Soft L/S, NY, L	Navy		6.68	T-Shirt	I-53710	P-2983	22.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD006030-CY-S	1.00	19.00	7/2/15	Comfort Soft S/S-Pocket, CY, S	CY		4.78	T-Shirt	I-53711	P-3482	19.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD0TAFFYASBG	1.00	6.99	7/2/15	Taffy - Assorted - 12 oz	Assorted		1.85	Product	I-53711	P-2101	6.99	12 oz	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SP5180LG-IY-XL	1.00	15.00	7/2/15	Lager Dog S/S, IY, XL	Ice Gray		3.46	T-Shirt	I-53711	P-3730	15.00	XL	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD003001-TE-M	1.00	15.00	7/2/15	Simple Dog S/S, TE, M	TE		2.89	T-Shirt	I-53711	P-7303	15.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD006014-LG-L	1.00	22.00	7/2/15	Comfort Soft L/S, LG, L	Light Green		6.77	T-Shirt	I-53711	P-2982	22.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD006014-LG-S	1.00	22.00	7/2/15	Comfort Soft L/S, LG, S	Light Green		6.65	T-Shirt	I-53712	P-2972	22.00	S	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+CWG5000-7578C-M	1.00	10.00	7/2/15	Color of the Week, 7578C, M	7578C	Sunset	2.29	T-Shirt	I-53713	P-7603	10.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+CWG5000-348C-M	1.00	10.00	7/2/15	Color of the Week, 348C, M	348C	Antique Irish Green	2.23	T-Shirt	I-53713	P-7562	10.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD005186-NY-M	1.00	20.00	7/2/15	Hanes Beefy L/S, NY, M	Navy		6.33	T-Shirt	I-53713	P-3015	20.00	M	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+CWLAT6901-AP-L	1.00	10.00	7/2/15	Color of the Week, AP, L	AP		2.89	T-Shirt	I-53713	P-3469	10.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+CWLAT6901-AP-L	1.00	10.00	7/2/15	Color of the Week, AP, L	AP		2.89	T-Shirt	I-53713	P-3469	10.00	L	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD003301-LW-3T	1.00	13.00	7/2/15	Toddler T S/S, LW, 3T	LW		1.70	Infant / Toddler	I-53713	P-1600	13.00	3T	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD3413C-Green-2X	1.00	22.00	7/2/15	Triblend S/S, Green, 2X	Green		6.16	T-Shirt	I-53714	P-3439	22.00	2X	The Salty Dog - HHI, SC	Ali S.	Tanger 2	7/2/15
+SD006030-CY-S	1.00	19.00	7/2/15	Comfort Soft S/S-Pocket, CY, S	CY		4.78	T-Shirt	I-53715	P-3482	19.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD006030-WA-S	1.00	19.00	7/2/15	Comfort Soft S/S-Pocket, WA, S	WA		4.78	T-Shirt	I-53716	P-3477	19.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD002202SD	1.00	1.13	7/2/15	Party Cup - White (10% OFF Drinkware)	White		0.30	Product	I-53717	P-2065	1.13	16 oz	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD002202SD	1.00	1.13	7/2/15	Party Cup - White (10% OFF Drinkware)	White		0.30	Product	I-53717	P-2065	1.13	16 oz	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD002202SD	1.00	1.13	7/2/15	Party Cup - White (10% OFF Drinkware)	White		0.30	Product	I-53717	P-2065	1.13	16 oz	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD002202SD	1.00	1.13	7/2/15	Party Cup - White (10% OFF Drinkware)	White		0.30	Product	I-53717	P-2065	1.13	16 oz	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD002202SD	1.00	1.13	7/2/15	Party Cup - White (10% OFF Drinkware)	White		0.30	Product	I-53717	P-2065	1.13	16 oz	The Salty Dog - HHI, SC	Andrew S	Tanger3	7/2/15
+SD005180-LI-3X	1.00	17.00	7/2/15	Hanes Beefy S/S, LI, 3X	Lime		5.69	T-Shirt	I-53718	P-3342	17.00	3X	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD3413C-Purple-L	1.00	22.00	7/2/15	Triblend S/S, Purple, L	Purple		4.59	T-Shirt	I-53718	P-3446	22.00	L	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD001717-PP-3X	1.00	19.00	7/2/15	Comfort Soft S/S, PP, 3X	Pepper		6.44	T-Shirt	I-53718	P-3365	19.00	3X	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD003333-TD-OSFA	1.00	36.00	7/2/15	Blanket-Stadium, Tie-Dye	Tie-Dye		18.42	Specialty Items	I-53718	P-2502	36.00	OSFA	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD006030-IR-S	1.00	19.00	7/2/15	Comfort Soft S/S-Pocket, IR, S	IR		4.78	T-Shirt	I-53719	P-7309	19.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15
+SD001717-BU-S	1.00	19.00	7/2/15	Comfort Soft S/S, BU, S	Butter		4.17	T-Shirt	I-53719	P-3133	19.00	S	The Salty Dog - HHI, SC	Andrew S	Tanger 2	7/2/15

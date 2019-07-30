@@ -1,0 +1,362 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<title>Patrol Report</title>
+</head>
+
+<body style="font-family:helvetica">
+	
+	
+	<center><form method="POST" action="https://formspree.io/submit@saltydog.com" class="form-horizontal" style="width: 100%">
+<fieldset>
+
+<!-- Form Name -->
+<center><legend><h2>Evening/Overnight Patrol Report</h2></legend></center>
+	<br>
+
+<!-- Text input-->
+<div class="form-group">
+  <strong><label class="col-md-4 control-label" for="patrol">Patrol:</label></strong> 
+  <div class="col-md-4">
+  <input id="patrol" name="patrol" type="text" placeholder="" class="form-control input-md" required="">
+    
+  </div>
+</div>
+<br>
+<!-- Text input-->
+<div class="form-group">
+	<strong><label class="col-md-4 control-label" for="mod">MOD:</label></strong>  
+  <div class="col-md-4">
+  <input id="mod" name="mod" type="text" placeholder="" class="form-control input-md" required="">
+    
+  </div>
+</div>
+<br>
+<!-- Text input-->
+<div class="form-group">
+ <strong> <label class="col-md-4 control-label" for="date">Date:</label></strong>
+  <div class="col-md-4">
+  <input id="date" name="date" type="text" placeholder="MM/DD/YY" class="form-control input-md" required="">
+    
+  </div>
+</div>
+<br>
+<!-- Text input-->
+<div class="form-group">
+	<strong><label class="col-md-4 control-label" for="timeinout">Time In/Time Out:</label> </strong> 
+  <div class="col-md-4">
+  <input id="timeinout" name="timeinout" type="text" placeholder="ex: 12:00am/12:00pm" class="form-control input-md" required="">
+    
+  </div>
+</div>
+<br>
+<!-- Multiple Radios -->
+<div class="form-group">
+ <strong> <label class="col-md-4 control-label" for="event">Special Event:</label></strong>
+  <div class="col-md-4">
+  <div class="radio">
+    <label for="event-0">
+      <input type="radio" name="event" id="event-0" value="Yes" checked="checked">
+      Yes
+    </label>
+	</div>
+  <div class="radio">
+    <label for="event-1">
+      <input type="radio" name="event" id="event-1" value="No">
+      No
+    </label>
+	</div>
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="specify">If yes, specify:</label>  
+  <div class="col-md-4">
+  <input id="specify" name="specify" type="text" placeholder="" class="form-control input-md" required="">
+    
+  </div>
+</div>
+<br>
+	<hr>
+	<br>
+<!-- Multiple Radios (inline) -->
+<div class="form-group">
+  <strong><label class="col-md-4 control-label" for="inn_radios">The Inn Grounds</label></strong>
+  <div class="col-md-4"> 
+    <label class="radio-inline" for="inn_radios-0">
+      <input type="radio" name="inn_radios" id="inn_radios-0" value="OK" checked="checked">
+      OK
+    </label> 
+    <label class="radio-inline" for="inn_radios-1">
+      <input type="radio" name="inn_radios" id="inn_radios-1" value="Needs Attention">
+      Needs Attention
+    </label>
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="inntime">Time Last Checked:</label>  
+  <div class="col-md-4">
+  <input id="inntime" name="inntime" type="text" placeholder="" class="form-control input-md" required="">
+    
+  </div>
+</div>
+
+	<br>
+	
+	<div class="form-group">
+  <strong><label class="col-md-4 control-label" for="marina_radios">Marina Entrance Points</label></strong>
+  <div class="col-md-4"> 
+    <label class="radio-inline" for="marina_radios-0">
+      <input type="radio" name="marina_radios" id="marina_radios-0" value="OK" checked="checked">
+      OK
+    </label> 
+    <label class="radio-inline" for="marina_radios-1">
+      <input type="radio" name="marina_radios" id="marina_radios-1" value="Needs Attention">
+      Needs Attention
+    </label>
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="inntime">Time Last Checked:</label>  
+  <div class="col-md-4">
+  <input id="marina_time" name="marina_time" type="text" placeholder="" class="form-control input-md" required="">
+    
+  </div>
+</div>
+	
+	<br>
+
+	<div class="form-group">
+  <strong><label class="col-md-4 control-label" for="parking_radios">Parking Lots</label></strong>
+  <div class="col-md-4"> 
+    <label class="radio-inline" for="parking_radios-0">
+      <input type="radio" name="parking_radios" id="parking_radios-0" value="OK" checked="checked">
+      OK
+    </label> 
+    <label class="radio-inline" for="parking_radios-1">
+      <input type="radio" name="parking_radios" id="parking_radios-1" value="Needs Attention">
+      Needs Attention
+    </label>
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="parking_time">Time Last Checked:</label>  
+  <div class="col-md-4">
+  <input id="parking_time" name="parking_time" type="text" placeholder="" class="form-control input-md" required="">
+    
+  </div>
+</div>
+
+	<br>
+	
+	<div class="form-group">
+  <strong><label class="col-md-4 control-label" for="bathroom_radios">Bathrooms</label></strong>
+  <div class="col-md-4"> 
+    <label class="radio-inline" for="bathroom_radios-0">
+      <input type="radio" name="bathroom_radios" id="bathrooms_radios-0" value="OK" checked="checked">
+      OK
+    </label> 
+    <label class="radio-inline" for="bathrooms_radios-1">
+      <input type="radio" name="bathroom_radios" id="bathroom_radios-1" value="Needs Attention">
+      Needs Attention
+    </label>
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="bathroom_time">Time Last Checked:</label>  
+  <div class="col-md-4">
+  <input id="bathroom_time" name="bathroom_time" type="text" placeholder="" class="form-control input-md" required="">
+    
+  </div>
+</div>
+	
+	<br>
+
+	<div class="form-group">
+  <strong><label class="col-md-4 control-label" for="inn_radios">Outdoor Cafe/Deck</label></strong>
+  <div class="col-md-4"> 
+    <label class="radio-inline" for="cafe_radios-0">
+      <input type="radio" name="cafe_radios" id="cafe_radios-0" value="OK" checked="checked">
+      OK
+    </label> 
+    <label class="radio-inline" for="cafe_radios-1">
+      <input type="radio" name="cafe_radios" id="cafe_radios-1" value="Needs Attention">
+      Needs Attention
+    </label>
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="cafe_time">Time Last Checked:</label>  
+  <div class="col-md-4">
+  <input id="cafe_time" name="cafe_time" type="text" placeholder="" class="form-control input-md" required="">
+    
+  </div>
+</div>
+
+	<br>
+	
+	<div class="form-group">
+  <strong><label class="col-md-4 control-label" for="docks_radios">Docks</label></strong>
+  <div class="col-md-4"> 
+    <label class="radio-inline" for="docks_radios-0">
+      <input type="radio" name="docks_radios" id="docks_radios-0" value="OK" checked="checked">
+      OK
+    </label> 
+    <label class="radio-inline" for="docks_radios-1">
+      <input type="radio" name="docks_radios" id="docks_radios-1" value="Needs Attention">
+      Needs Attention
+    </label>
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="docks_time">Time Last Checked:</label>  
+  <div class="col-md-4">
+  <input id="docks_time" name="docks_time" type="text" placeholder="" class="form-control input-md" required="">
+    
+  </div>
+</div>
+
+	<br>
+	
+	<div class="form-group">
+  <strong><label class="col-md-4 control-label" for="inn_radios">Pool</label></strong>
+  <div class="col-md-4"> 
+    <label class="radio-inline" for="pool_radios-0">
+      <input type="radio" name="pool_radios" id="pool_radios-0" value="OK" checked="checked">
+      OK
+    </label> 
+    <label class="radio-inline" for="pool_radios-1">
+      <input type="radio" name="pool_radios" id="pool_radios-1" value="Needs Attention">
+      Needs Attention
+    </label>
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="pool_time">Time Last Checked:</label>  
+  <div class="col-md-4">
+  <input id="pool_time" name="pool_time" type="text" placeholder="" class="form-control input-md" required="">
+    
+  </div>
+</div>
+
+	<br>
+	<hr>
+	<br>
+	
+	
+	<!-- Textarea -->
+<div class="form-group">
+  <strong><label class="col-md-4 control-label" for="doors">Unusual Incidents/Open or Unlocked Doors:</label></strong>
+  <div class="col-md-4">                     
+    <textarea class="form-control" id="doors" name="doors">notes/comments</textarea>
+    <br>
+<!-- Text input-->
+</div></div>
+<div class="form-group">
+  <label class="col-md-4 control-label" for="doors_time">Time Noted:</label>  
+  <div class="col-md-4">
+  <input id="doors_time" name="doors_time" type="text" placeholder="" class="form-control input-md">
+    
+  </div>
+</div>
+<br>
+<!-- Textarea -->
+<div class="form-group">
+  <strong><label class="col-md-4 control-label" for="maintenance">Maintenance Issues/Needs</label></strong>
+  <div class="col-md-4">                     
+    <textarea class="form-control" id="maintenance" name="maintenance">notes/comments</textarea>
+    <br>
+<!-- Text input-->
+</div></div>
+<div class="form-group">
+  <label class="col-md-4 control-label" for="maintenance_time">Time Noted:</label>  
+  <div class="col-md-4">
+  <input id="maintenance_time" name="maintenance_time" type="text" placeholder="" class="form-control input-md">
+    
+  </div>
+</div>
+<br>
+<!-- Textarea -->
+<div class="form-group">
+  <strong><label class="col-md-4 control-label" for="damage">Damaged/Vandalized Property:</label></strong>
+  <div class="col-md-4">                     
+    <textarea class="form-control" id="damage" name="damage">notes/comments</textarea>
+    <br>
+<!-- Text input-->
+</div></div>
+<div class="form-group">
+  <label class="col-md-4 control-label" for="damage_time">Time Noted:</label>  
+  <div class="col-md-4">
+  <input id="damage_time" name="damage_time" type="text" placeholder="" class="form-control input-md">
+    
+  </div>
+</div>
+<br>
+<!-- Textarea -->
+<div class="form-group">
+ <strong><label class="col-md-4 control-label" for="comments">Guests' Comments/Suggestions</label></strong>
+  <div class="col-md-4">                     
+    <textarea class="form-control" id="comments" name="comments">notes/comments</textarea>
+  </div>
+</div>
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="comments_time">Time Noted:</label>  
+  <div class="col-md-4">
+  <input id="comments_time" name="comments_time" type="text" placeholder="" class="form-control input-md">
+    
+  </div>
+</div>
+<br>
+<!-- Textarea -->
+<div class="form-group">
+  <strong><label class="col-md-4 control-label" for="lost">Lost &amp; Found Items:</label></strong>
+  <div class="col-md-4">                     
+    <textarea class="form-control" id="lost" name="lost">notes/comments</textarea>
+  </div>
+</div>
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="lost_time">Time Noted:</label>  
+  <div class="col-md-4">
+  <input id="lost_time" name="lost_time" type="text" placeholder="" class="form-control input-md">
+    
+  </div>
+</div>
+<br><br>
+<!-- Button -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="submit"></label>
+  <div class="col-md-4">
+    <button Style="width: 75px" height: type="submit" id="submit" name="submit" class="btn btn-info"><strong>SUBMIT</strong></button>
+  </div>
+</div>
+
+	
+</fieldset>
+</form>
+
+	</center>
+	
+</body>
+</html>

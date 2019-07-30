@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+
+<html class="no-js">
+<!--<![endif]-->
+
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-9994729-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-9994729-1');
+    </script>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <title>SaltyDogReceipts</title>
+    <!-- Modernizr -->
+
+    <!-- jQuery-->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+        crossorigin="anonymous"></script>
+    <!-- framework css -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/all.css" integrity="sha384-/rXc/GQVaYpyDdyxK+ecHPVYJSN9bmVFBvjA/9eOB+pb3F2w2N6fc5qB9Ew5yIns"
+        crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+        crossorigin="anonymous">
+    <!--<![endif]-->
+    <link rel="icon" type="image/png" href="https://saltydog.com/images/social-logos/favicon.ico">
+    <link href="https://fonts.googleapis.com/css?family=Baloo+Bhaina|Quicksand" rel="stylesheet">
+
+</head>
+<style>
+    input[type=text],
+    select {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+    }
+
+    input[type=submit] {
+        width: 100%;
+        background-color: #4CAF50;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+    input[type=submit]:hover {
+        background-color: #45a049;
+    }
+
+    div {
+        border-radius: 5px;
+        background-color: #f2f2f2;
+        padding: 20px;
+    }
+    .container{
+        margin-top: 20px;
+    }
+</style>
+
+<body>
+
+  
+
+    <div class="container">
+<div class="row">
+  
+        <a href="https://saltydog.com/check/rest.html">Click here to check a restaurant receipt.</a>
+</div>
+        <br>
+        <br>
+        <div class="row">
+<form action="checkrec.php" method="POST" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="questionID" value="1" />
+
+<label>Check Your Retail Receipt:</label>
+<br>
+
+<br>
+<label>Enter the total amount listed on your receipt. Do not enter the dollar sign $</label>
+<input type="text" placeholder=" Example: 20.01" name="amount" />
+<!-- <label>Enter the name of your salesperson (their name is located near the bottom of your receipt) as it appears on your receipt, do NOT include a period after a last initial.</label>
+<input type="text" placeholder=" Example: Sam R" name="salesperson" /> -->
+<label for="location"> Choose the store printed on your receipt:</label>
+<select id="location" name="location">
+      
+        <option value="Arrow Rd">T-shirt Factory on Arrow Rd</option>
+        <option value="South Beach">T-Shirt Factory in South Beach</option>
+        <option value="Tanger 2">T-shirt Factory at Tanger 2</option>  
+        <option value="Jakes Cargo">Jake's Cargo</option>
+        <option value="Blue Water Bait & Tackle">Blue Water Bait and Tackle Shop</option>
+        <option value="Online Store">Salty Dog online store</option>
+       
+      
+    </select>
+
+
+<button type="submit">
+Check It
+</button>
+</form>
+        </div>
+    </div>
+    </body>
+</html>

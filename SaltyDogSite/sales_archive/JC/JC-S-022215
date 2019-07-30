@@ -1,0 +1,433 @@
+Code	Qty	Total Sell	Date	Description	Class	Color - Long	Cost	Family	Invoice ID	Product ID	Sell	Size	Store ID	User	Station	Posted Date
+008764104279	1.00	3.99	2/22/15	Magnet - Mastiffs	Homegoods		1.25	Pet	I-223728	P-6505	3.99			Stephen T.	cargoserver	2/22/15
+008764104408	1.00	3.99	2/22/15	Magnet - Papillons	Homegoods		1.25	Pet	I-223732	P-6507	3.99			Stephen T.	cargoserver	2/22/15
+053768008146	1.00	1.99	2/22/15	Sticker - HHI - Mini			1.00	Product	I-223668	P-7400	1.99			Tia P.	JC Reg 2	2/22/15
+053768008146	1.00	1.00	2/22/15	Sticker - HHI - Mini - Buy 1 Get 1 1/2 OFF			1.00	Product	I-223717	P-7400	1.00			Stephen T.	cargoserver	2/22/15
+169	1.00	0.00	2/22/15	Gift Card - Inventory	 Gift Card		0.00	Gift Card	I-223722	P-2306	0.00		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+433020095	1.00	3.50	2/22/15	Doggie Bites - Peanut Butter - 10.5 oz - Buy 1 Get 1 1/2 OFF	Toys/Treats	Peanut Butter	2.59	Pet	I-223725	P-3733	3.50	10.5 oz	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+433020095	1.00	6.99	2/22/15	Doggie Bites - Peanut Butter - 10.5 oz	Toys/Treats	Peanut Butter	2.59	Pet	I-223714	P-3733	6.99	10.5 oz	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+53768123405	1.00	0.25	2/22/15	Postcard - HHI - Buy 1 Get 1 1/2 OFF	Stationery		0.15	Product	I-223734	P-3802	0.25		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+53768123405	1.00	0.50	2/22/15	Postcard - HHI	Stationery		0.15	Product	I-223692	P-3802	0.50		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+53768123405	1.00	0.50	2/22/15	Postcard - HHI	Stationery		0.15	Product	I-223734	P-3802	0.50		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+53768123405	1.00	0.25	2/22/15	Postcard - HHI - Buy 1 Get 1 1/2 OFF	Stationery		0.15	Product	I-223734	P-3802	0.25		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+53768123405	1.00	0.50	2/22/15	Postcard - HHI	Stationery		0.15	Product	I-223734	P-3802	0.50		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+53768123405	1.00	0.50	2/22/15	Postcard - HHI	Stationery		0.15	Product	I-223734	P-3802	0.50		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+53768123405	1.00	0.25	2/22/15	Postcard - HHI - Buy 1 Get 1 1/2 OFF	Stationery		0.15	Product	I-223734	P-3802	0.25		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+53768123412	1.00	0.25	2/22/15	Postcard - Legend - Buy 1 Get 1 1/2 OFF	Stationery		0.12	Product	I-223687	P-3870	0.25		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+660048064008	1.00	6.50	2/22/15	Chuck It - Buy 1 Get 1 1/2 OFF	Toys/Treats	Chuck It	6.37	Pet	I-223654	P-3797	6.50		The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+660048181002	1.00	11.99	2/22/15	Chuck It - Flying Ring	Toys/Treats	Flying	6.82	Pet	I-223643	P-3820	11.99		The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+689076893978	1.00	4.50	2/22/15	Bottle Suit - Navy	Can Holders/Coolers		1.56	Product	I-223690	P-2005	4.50	OSFA	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+689076893978	1.00	4.50	2/22/15	Bottle Suit - Navy	Can Holders/Coolers		1.56	Product	I-223719	P-2005	4.50	OSFA	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+689076893978	1.00	4.50	2/22/15	Bottle Suit - Navy	Can Holders/Coolers		1.56	Product	I-223708	P-2005	4.50	OSFA	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+689076893978	1.00	2.25	2/22/15	Bottle Suit - Navy - Buy 1 Get 1 1/2 OFF	Can Holders/Coolers		1.56	Product	I-223688	P-2005	2.25	OSFA	The Salty Dog - HHI, SC	Stephen T.	JC Reg 2	2/22/15
+689076893978	1.00	2.25	2/22/15	Bottle Suit - Navy - Buy 1 Get 1 1/2 OFF	Can Holders/Coolers		1.56	Product	I-223714	P-2005	2.25	OSFA	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+689076894074	1.00	2.25	2/22/15	Bottle Suit - Red - Buy 1 Get 1 1/2 OFF	Can Holders/Coolers		1.57	Product	I-223690	P-2148	2.25	OSFA	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+689076894074	1.00	2.25	2/22/15	Bottle Suit - Red - Buy 1 Get 1 1/2 OFF	Can Holders/Coolers		1.57	Product	I-223708	P-2148	2.25	OSFA	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+689076894173	1.00	4.50	2/22/15	Bottle Suit - Lime	Can Holders/Coolers		1.56	Product	I-223708	P-2017	4.50	OSFA	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+689076894173	1.00	4.50	2/22/15	Bottle Suit - Lime	Can Holders/Coolers		1.56	Product	I-223690	P-2017	4.50	OSFA	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+689076894173	1.00	4.50	2/22/15	Bottle Suit - Lime	Can Holders/Coolers		1.56	Product	I-223688	P-2017	4.50	OSFA	The Salty Dog - HHI, SC	Stephen T.	JC Reg 2	2/22/15
+689076894173	1.00	2.25	2/22/15	Bottle Suit - Lime - Buy 1 Get 1 1/2 OFF	Can Holders/Coolers		1.56	Product	I-223697	P-2017	2.25	OSFA	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+689076894173	1.00	2.25	2/22/15	Bottle Suit - Lime - Buy 1 Get 1 1/2 OFF	Can Holders/Coolers		1.56	Product	I-223703	P-2017	2.25	OSFA	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+689076894470	1.00	5.99	2/22/15	Mini Jake w/ Clip - Black	Toys		3.79	Product	I-223655	P-2026	5.99	Mini	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+689076894777	1.00	4.48	2/22/15	Story Book - Legend of Jake the Salty Dog - Buy 1 Get 1 1/2 OFF	Toys		2.07	Product	I-223655	P-2303	4.48		The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+689076894777	1.00	8.95	2/22/15	Story Book - Legend of Jake the Salty Dog	Toys		2.07	Product	I-223725	P-2303	8.95		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+689076894777	1.00	4.48	2/22/15	Story Book - Legend of Jake the Salty Dog - Buy 1 Get 1 1/2 OFF	Toys		2.07	Product	I-223725	P-2303	4.48		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+742258250003	1.00	13.00	2/22/15	Calendar - HHI	Misc		6.50	Product	I-223654	P-2277	13.00		The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+767548109830	1.00	9.99	2/22/15	Plush - Dolphin - Denny	Toys/Treats		5.50	Product	I-223656	P-5817	9.99			Tia P.	JC Reg 2	2/22/15
+767548122419	1.00	5.00	2/22/15	Plush - Pelican - Buy 1 Get 1 1/2 OFF	Toys/Treats	Pelican	5.00	Product	I-223648	P-3828	5.00		The Salty Dog - HHI, SC	Caitlin S.	cargoserver	2/22/15
+767548127964	1.00	5.00	2/22/15	Plush - Alligator - Stream Line - Buy 1 Get 1 1/2 OFF	Toys		6.50	Product	I-223656	P-7513	5.00			Tia P.	JC Reg 2	2/22/15
+767548127964	1.00	9.99	2/22/15	Plush - Alligator - Stream Line	Toys		6.50	Product	I-223648	P-7513	9.99			Caitlin S.	cargoserver	2/22/15
+767548131299	1.00	5.00	2/22/15	Plush - Turtle - Tillie - Buy 1 Get 1 1/2 OFF	Toys		4.00	Product	I-223648	P-7515	5.00			Caitlin S.	cargoserver	2/22/15
+784369371338	1.00	7.99	2/22/15	Toy - Sea Shammie's - Octopus	Toys/Treats	Octopus	3.25	Pet	I-223702	P-3822	7.99		The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+8498420745	1.00	1.50	2/22/15	Golf Ball - White - Buy 1 Get 1 1/2 OFF	Beach/Sport		0.96	Product	I-223731	P-2282	1.50		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+8498420745	1.00	1.50	2/22/15	Golf Ball - White - Buy 1 Get 1 1/2 OFF	Beach/Sport		0.96	Product	I-223730	P-2282	1.50		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+8498420745	1.00	2.99	2/22/15	Golf Ball - White	Beach/Sport		0.96	Product	I-223730	P-2282	2.99		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+8498420745	1.00	1.50	2/22/15	Golf Ball - White - Buy 1 Get 1 1/2 OFF	Beach/Sport		0.96	Product	I-223730	P-2282	1.50		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+8498420745	1.00	2.99	2/22/15	Golf Ball - White	Beach/Sport		0.96	Product	I-223730	P-2282	2.99		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+8498420745	1.00	1.50	2/22/15	Golf Ball - White - Buy 1 Get 1 1/2 OFF	Beach/Sport		0.96	Product	I-223730	P-2282	1.50		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+8498420745	1.00	2.99	2/22/15	Golf Ball - White	Beach/Sport		0.96	Product	I-223730	P-2282	2.99		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+8498420745	1.00	2.99	2/22/15	Golf Ball - White	Beach/Sport		0.96	Product	I-223731	P-2282	2.99		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+8498420745	1.00	1.50	2/22/15	Golf Ball - White - Buy 1 Get 1 1/2 OFF	Beach/Sport		0.96	Product	I-223731	P-2282	1.50		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+8498420745	1.00	2.99	2/22/15	Golf Ball - White	Beach/Sport		0.96	Product	I-223731	P-2282	2.99		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+858769001109	1.00	1.50	2/22/15	Card - XOXO - Buy 1 Get 1 1/2 OFF	Stationery		1.75	Product	I-223697	P-2271	1.50		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+858769001628	1.00	3.00	2/22/15	Card - Pet Sympathy	Stationery		1.75	Product	I-223697	P-2317	3.00		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+891567000516	1.00	1.50	2/22/15	Postcard - Aerial	Stationery		0.68	Product	I-223638	P-2073	1.50		The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+891567000516	1.00	0.75	2/22/15	Postcard - Aerial - Buy 1 Get 1 1/2 OFF	Stationery		0.68	Product	I-223638	P-2073	0.75		The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+891567000516	1.00	0.75	2/22/15	Postcard - Aerial - Buy 1 Get 1 1/2 OFF	Stationery		0.68	Product	I-223686	P-2073	0.75		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+891567000516	1.00	1.50	2/22/15	Postcard - Aerial	Stationery		0.68	Product	I-223686	P-2073	1.50		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+891567000516	1.00	0.75	2/22/15	Postcard - Aerial - Buy 1 Get 1 1/2 OFF	Stationery		0.68	Product	I-223686	P-2073	0.75		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+891567000516	1.00	1.50	2/22/15	Postcard - Aerial	Stationery		0.68	Product	I-223686	P-2073	1.50		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+891732001454	1.00	3.00	2/22/15	Card - Thank You	Stationery		1.50	Product	I-223697	P-2263	3.00		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+93597003004	1.00	6.50	2/22/15	Tervis - Tumbler - SD Logo - 16 oz - Buy 1 Get 1 1/2 OFF	Drinkware		7.72	Product	I-223689	P-2124	6.50	16 oz	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+93597003004	1.00	6.50	2/22/15	Tervis - Tumbler - SD Logo - 16 oz - Buy 1 Get 1 1/2 OFF	Drinkware		7.72	Product	I-223689	P-2124	6.50	16 oz	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+93597003004	1.00	12.99	2/22/15	Tervis - Tumbler - SD Logo - 16 oz	Drinkware		7.72	Product	I-223689	P-2124	12.99	16 oz	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+93597003004	1.00	12.99	2/22/15	Tervis - Tumbler - SD Logo - 16 oz	Drinkware		7.72	Product	I-223689	P-2124	12.99	16 oz	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+CSTMTDA-WH-M	1.00	10.00	2/22/15	Custom Tie-Dye - Adult S/S, WH, M - Buy 1 Get 1 1/2 OFF	Custom		2.35	T-Shirt	I-223680	P-5737	10.00	M		Stephen T.	JC Reg 2	2/22/15
+CSTMTDTT-WH-S	1.00	25.00	2/22/15	Custom Tie-Dye - Women's Tank Top, WH, S	Custom		3.55	T-Shirt	I-223699	P-5748	25.00	S		Tia P.	JC Reg 2	2/22/15
+CSTMTDY-WH-L	-1.00	-20.00	2/22/15	Custom Tie-Dye - Youth S/S, WH, L	Custom		2.30	T-Shirt	I-223641	P-5728	20.00	L		Tia P.	JC Reg 2	
+CSTMTDY-WH-M	1.00	20.00	2/22/15	Custom Tie-Dye - Youth S/S, WH, M	Custom		2.30	T-Shirt	I-223641	P-5727	20.00	M		Tia P.	JC Reg 2	
+CWA980-KL-2X	1.00	12.00	2/22/15	Color of the Week, KL, 2X	Color of the Week S/S		4.80	T-Shirt	I-223697	P-7462	12.00	2X		Stephen T.	cargoserver	2/22/15
+CWA980-KL-M	1.00	6.00	2/22/15	Color of the Week, KL, M - Buy 1 Get 1 1/2 OFF	Color of the Week S/S		2.64	T-Shirt	I-223711	P-7460	6.00	M		Tia P.	JC Reg 2	2/22/15
+CWA980-KL-XL	1.00	6.00	2/22/15	Color of the Week, KL, XL - Buy 1 Get 1 1/2 OFF	Color of the Week S/S		2.60	T-Shirt	I-223681	P-7458	6.00	XL		Stephen T.	cargoserver	2/22/15
+CWLAT6901-AP-L	1.00	6.00	2/22/15	Color of the Week, AP, L - Buy 1 Get 1 1/2 OFF	Color of the Week S/S		2.89	T-Shirt	I-223682	P-6767	6.00	L		Stephen T.	JC Reg 2	2/22/15
+CWLAT6901-AP-L	1.00	12.00	2/22/15	Color of the Week, AP, L	Color of the Week S/S		2.89	T-Shirt	I-223736	P-6767	12.00	L		Stephen T.	cargoserver	2/22/15
+CWLAT6901-AP-L	1.00	6.00	2/22/15	Color of the Week, AP, L - Buy 1 Get 1 1/2 OFF	Color of the Week S/S		2.89	T-Shirt	I-223736	P-6767	6.00	L		Stephen T.	cargoserver	2/22/15
+CWLAT6901-AP-M	1.00	12.00	2/22/15	Color of the Week, AP, M	Color of the Week S/S		2.83	T-Shirt	I-223692	P-6766	12.00	M		Stephen T.	cargoserver	2/22/15
+ECOTOTE-Free - Lime-12x13x8	1.00	-1.75	2/22/15	Eco Tote, Free - Lime, 12x13x8	Beach/Sport		0.59	Product	I-223678	P-6847	-1.75	12x13x8		Stephen T.	JC Reg 2	2/22/15
+ECOTOTE-Free - Lime-12x13x8	1.00	-1.75	2/22/15	Eco Tote, Free - Lime, 12x13x8	Beach/Sport		0.59	Product	I-223697	P-6847	-1.75	12x13x8		Stephen T.	cargoserver	2/22/15
+ECOTOTE-Free - Lime-12x13x8	1.00	-1.75	2/22/15	Eco Tote, Free - Lime, 12x13x8	Beach/Sport		0.59	Product	I-223701	P-6847	-1.75	12x13x8		Tia P.	JC Reg 2	2/22/15
+ECOTOTE-Free - Lime-12x13x8	1.00	-1.75	2/22/15	Eco Tote, Free - Lime, 12x13x8	Beach/Sport		0.59	Product	I-223648	P-6847	-1.75	12x13x8		Caitlin S.	cargoserver	2/22/15
+ECOTOTE-Free - Lime-12x13x8	1.00	-1.75	2/22/15	Eco Tote, Free - Lime, 12x13x8	Beach/Sport		0.59	Product	I-223636	P-6847	-1.75	12x13x8		Tia P.	JC Reg 2	2/22/15
+ECOTOTE-Free - Lime-12x13x8	1.00	-1.75	2/22/15	Eco Tote, Free - Lime, 12x13x8	Beach/Sport		0.59	Product	I-223644	P-6847	-1.75	12x13x8		Tia P.	JC Reg 2	2/22/15
+ECOTOTE-Free - Lime-12x13x8	1.00	-1.75	2/22/15	Eco Tote, Free - Lime, 12x13x8	Beach/Sport		0.59	Product	I-223643	P-6847	-1.75	12x13x8		Tia P.	JC Reg 2	2/22/15
+ECOTOTE-Free - Lime-12x13x8	1.00	-1.75	2/22/15	Eco Tote, Free - Lime, 12x13x8	Beach/Sport		0.59	Product	I-223689	P-6847	-1.75	12x13x8		Stephen T.	cargoserver	2/22/15
+ECOTOTE-Free - Lime-12x13x8	1.00	-1.75	2/22/15	Eco Tote, Free - Lime, 12x13x8	Beach/Sport		0.59	Product	I-223642	P-6847	-1.75	12x13x8		Tia P.	JC Reg 2	2/22/15
+ECOTOTE-Free - Lime-12x13x8	1.00	-1.75	2/22/15	Eco Tote, Free - Lime, 12x13x8	Beach/Sport		0.59	Product	I-223650	P-6847	-1.75	12x13x8		Caitlin S.	cargoserver	2/22/15
+ECOTOTE-Free - Lime-12x13x8	1.00	-1.75	2/22/15	Eco Tote, Free - Lime, 12x13x8	Beach/Sport		0.59	Product	I-223719	P-6847	-1.75	12x13x8		Tia P.	JC Reg 2	2/22/15
+ECOTOTE-Free - Lime-12x13x8	1.00	-1.75	2/22/15	Eco Tote, Free - Lime, 12x13x8	Beach/Sport		0.59	Product	I-223710	P-6847	-1.75	12x13x8		Stephen T.	cargoserver	2/22/15
+ECOTOTE-Free - Lime-12x13x8	1.00	-1.75	2/22/15	Eco Tote, Free - Lime, 12x13x8	Beach/Sport		0.59	Product	I-223651	P-6847	-1.75	12x13x8		Tia P.	JC Reg 2	2/22/15
+ECOTOTE-Free - Lime-12x13x8	1.00	-1.75	2/22/15	Eco Tote, Free - Lime, 12x13x8	Beach/Sport		0.59	Product	I-223680	P-6847	-1.75	12x13x8		Stephen T.	JC Reg 2	2/22/15
+ECOTOTE-Free - Lime-12x13x8	1.00	-1.75	2/22/15	Eco Tote, Free - Lime, 12x13x8	Beach/Sport		0.59	Product	I-223736	P-6847	-1.75	12x13x8		Stephen T.	cargoserver	2/22/15
+ECOTOTE-Free - Lime-12x13x8	1.00	-1.75	2/22/15	Eco Tote, Free - Lime, 12x13x8	Beach/Sport		0.59	Product	I-223718	P-6847	-1.75	12x13x8		Tia P.	JC Reg 2	2/22/15
+ECOTOTE-Free - Lime-12x13x8	1.00	-1.75	2/22/15	Eco Tote, Free - Lime, 12x13x8	Beach/Sport		0.59	Product	I-223667	P-6847	-1.75	12x13x8		Tia P.	JC Reg 2	2/22/15
+ECOTOTE-Free - Lime-12x13x8	1.00	-1.75	2/22/15	Eco Tote, Free - Lime, 12x13x8	Beach/Sport		0.59	Product	I-223659	P-6847	-1.75	12x13x8		Caitlin S.	cargoserver	2/22/15
+ECOTOTE-Free - Lime-12x13x8	1.00	-1.75	2/22/15	Eco Tote, Free - Lime, 12x13x8	Beach/Sport		0.59	Product	I-223670	P-6847	-1.75	12x13x8		Tia P.	JC Reg 2	2/22/15
+ECOTOTE-Free - Lime-12x13x8	1.00	-1.75	2/22/15	Eco Tote, Free - Lime, 12x13x8	Beach/Sport		0.59	Product	I-223655	P-6847	-1.75	12x13x8		Tia P.	JC Reg 2	2/22/15
+ECOTOTE-Free - Lime-12x13x8	1.00	-1.75	2/22/15	Eco Tote, Free - Lime, 12x13x8	Beach/Sport		0.59	Product	I-223731	P-6847	-1.75	12x13x8		Stephen T.	cargoserver	2/22/15
+ECOTOTE-Free - Lime-12x13x8	1.00	-1.75	2/22/15	Eco Tote, Free - Lime, 12x13x8	Beach/Sport		0.59	Product	I-223671	P-6847	-1.75	12x13x8		Stephen T.	cargoserver	2/22/15
+ECOTOTE-Free - Lime-12x13x8	1.00	-1.75	2/22/15	Eco Tote, Free - Lime, 12x13x8	Beach/Sport		0.59	Product	I-223647	P-6847	-1.75	12x13x8		Tia P.	JC Reg 2	2/22/15
+ECOTOTE-Free - Lime-12x13x8	1.00	-1.75	2/22/15	Eco Tote, Free - Lime, 12x13x8	Beach/Sport		0.59	Product	I-223723	P-6847	-1.75	12x13x8		Stephen T.	cargoserver	2/22/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	2/22/15	Eco Tote, Lime, 12x13x8	Beach/Sport		0.59	Product	I-223723	P-6845	1.75	12x13x8		Stephen T.	cargoserver	2/22/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	2/22/15	Eco Tote, Lime, 12x13x8	Beach/Sport		0.59	Product	I-223636	P-6845	1.75	12x13x8		Tia P.	JC Reg 2	2/22/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	2/22/15	Eco Tote, Lime, 12x13x8	Beach/Sport		0.59	Product	I-223736	P-6845	1.75	12x13x8		Stephen T.	cargoserver	2/22/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	2/22/15	Eco Tote, Lime, 12x13x8	Beach/Sport		0.59	Product	I-223642	P-6845	1.75	12x13x8		Tia P.	JC Reg 2	2/22/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	2/22/15	Eco Tote, Lime, 12x13x8	Beach/Sport		0.59	Product	I-223643	P-6845	1.75	12x13x8		Tia P.	JC Reg 2	2/22/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	2/22/15	Eco Tote, Lime, 12x13x8	Beach/Sport		0.59	Product	I-223644	P-6845	1.75	12x13x8		Tia P.	JC Reg 2	2/22/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	2/22/15	Eco Tote, Lime, 12x13x8	Beach/Sport		0.59	Product	I-223647	P-6845	1.75	12x13x8		Tia P.	JC Reg 2	2/22/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	2/22/15	Eco Tote, Lime, 12x13x8	Beach/Sport		0.59	Product	I-223648	P-6845	1.75	12x13x8		Caitlin S.	cargoserver	2/22/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	2/22/15	Eco Tote, Lime, 12x13x8	Beach/Sport		0.59	Product	I-223650	P-6845	1.75	12x13x8		Caitlin S.	cargoserver	2/22/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	2/22/15	Eco Tote, Lime, 12x13x8	Beach/Sport		0.59	Product	I-223651	P-6845	1.75	12x13x8		Tia P.	JC Reg 2	2/22/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	2/22/15	Eco Tote, Lime, 12x13x8	Beach/Sport		0.59	Product	I-223655	P-6845	1.75	12x13x8		Tia P.	JC Reg 2	2/22/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	2/22/15	Eco Tote, Lime, 12x13x8	Beach/Sport		0.59	Product	I-223659	P-6845	1.75	12x13x8		Caitlin S.	cargoserver	2/22/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	2/22/15	Eco Tote, Lime, 12x13x8	Beach/Sport		0.59	Product	I-223667	P-6845	1.75	12x13x8		Tia P.	JC Reg 2	2/22/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	2/22/15	Eco Tote, Lime, 12x13x8	Beach/Sport		0.59	Product	I-223731	P-6845	1.75	12x13x8		Stephen T.	cargoserver	2/22/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	2/22/15	Eco Tote, Lime, 12x13x8	Beach/Sport		0.59	Product	I-223670	P-6845	1.75	12x13x8		Tia P.	JC Reg 2	2/22/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	2/22/15	Eco Tote, Lime, 12x13x8	Beach/Sport		0.59	Product	I-223671	P-6845	1.75	12x13x8		Stephen T.	cargoserver	2/22/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	2/22/15	Eco Tote, Lime, 12x13x8	Beach/Sport		0.59	Product	I-223678	P-6845	1.75	12x13x8		Stephen T.	JC Reg 2	2/22/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	2/22/15	Eco Tote, Lime, 12x13x8	Beach/Sport		0.59	Product	I-223680	P-6845	1.75	12x13x8		Stephen T.	JC Reg 2	2/22/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	2/22/15	Eco Tote, Lime, 12x13x8	Beach/Sport		0.59	Product	I-223689	P-6845	1.75	12x13x8		Stephen T.	cargoserver	2/22/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	2/22/15	Eco Tote, Lime, 12x13x8	Beach/Sport		0.59	Product	I-223697	P-6845	1.75	12x13x8		Stephen T.	cargoserver	2/22/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	2/22/15	Eco Tote, Lime, 12x13x8	Beach/Sport		0.59	Product	I-223701	P-6845	1.75	12x13x8		Tia P.	JC Reg 2	2/22/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	2/22/15	Eco Tote, Lime, 12x13x8	Beach/Sport		0.59	Product	I-223710	P-6845	1.75	12x13x8		Stephen T.	cargoserver	2/22/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	2/22/15	Eco Tote, Lime, 12x13x8	Beach/Sport		0.59	Product	I-223718	P-6845	1.75	12x13x8		Tia P.	JC Reg 2	2/22/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	2/22/15	Eco Tote, Lime, 12x13x8	Beach/Sport		0.59	Product	I-223719	P-6845	1.75	12x13x8		Tia P.	JC Reg 2	2/22/15
+Free Party Cup	1.00	0.00	2/22/15	FREE Party Cup - White	Free		0.26	Markdowns	I-223689	P-3715	0.00		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD000003MA	1.00	2.25	2/22/15	Bottle Suit - Magenta - Buy 1 Get 1 1/2 OFF	Can Holders/Coolers		1.56	Product	I-223708	P-2333	2.25	OSFA	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD000003MA	1.00	2.25	2/22/15	Bottle Suit - Magenta - Buy 1 Get 1 1/2 OFF	Can Holders/Coolers		1.56	Product	I-223690	P-2333	2.25	OSFA	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD000003MA	1.00	2.25	2/22/15	Bottle Suit - Magenta - Buy 1 Get 1 1/2 OFF	Can Holders/Coolers		1.56	Product	I-223649	P-2333	2.25	OSFA	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD000003MA	1.00	4.50	2/22/15	Bottle Suit - Magenta	Can Holders/Coolers		1.56	Product	I-223685	P-2333	4.50	OSFA	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD000003MA	1.00	4.50	2/22/15	Bottle Suit - Magenta	Can Holders/Coolers		1.56	Product	I-223697	P-2333	4.50	OSFA	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD000003MA	1.00	4.50	2/22/15	Bottle Suit - Magenta	Can Holders/Coolers		1.56	Product	I-223703	P-2333	4.50	OSFA	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD000027	1.00	3.00	2/22/15	Card - Couldn't Resist	Stationery		1.75	Product	I-223697	P-7258	3.00		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD0000ECRO	1.00	5.99	2/22/15	Sunglass Holder - Royal	Misc		1.70	Product	I-223730	P-2243	5.99	OSFA	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD00070KG	1.00	1.50	2/22/15	Can Holder - Kelly Green - Buy 1 Get 1 1/2 OFF	Can Holders/Coolers		0.85	Product	I-223690	P-5979	1.50	OSFA		Tia P.	JC Reg 2	2/22/15
+SD00070LI	1.00	2.99	2/22/15	Can Holder - Lime	Can Holders/Coolers		0.84	Product	I-223690	P-2230	2.99	OSFA	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00070NY	1.00	1.50	2/22/15	Can Holder - Navy - Buy 1 Get 1 1/2 OFF	Can Holders/Coolers		0.84	Product	I-223668	P-2139	1.50	OSFA	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00070NY	1.00	2.99	2/22/15	Can Holder - Navy	Can Holders/Coolers		0.84	Product	I-223688	P-2139	2.99	OSFA	The Salty Dog - HHI, SC	Stephen T.	JC Reg 2	2/22/15
+SD00070NY	1.00	1.50	2/22/15	Can Holder - Navy - Buy 1 Get 1 1/2 OFF	Can Holders/Coolers		0.84	Product	I-223661	P-2139	1.50	OSFA	The Salty Dog - HHI, SC	Caitlin S.	cargoserver	2/22/15
+SD00070NY	1.00	1.50	2/22/15	Can Holder - Navy - Buy 1 Get 1 1/2 OFF	Can Holders/Coolers		0.84	Product	I-223637	P-2139	1.50	OSFA	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00070NY	1.00	1.50	2/22/15	Can Holder - Navy - Buy 1 Get 1 1/2 OFF	Can Holders/Coolers		0.84	Product	I-223657	P-2139	1.50	OSFA	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00070NY	1.00	1.50	2/22/15	Can Holder - Navy - Buy 1 Get 1 1/2 OFF	Can Holders/Coolers		0.84	Product	I-223653	P-2139	1.50	OSFA	The Salty Dog - HHI, SC	Caitlin S.	cargoserver	2/22/15
+SD00070NY	1.00	2.99	2/22/15	Can Holder - Navy	Can Holders/Coolers		0.84	Product	I-223647	P-2139	2.99	OSFA	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00070NY	1.00	1.50	2/22/15	Can Holder - Navy - Buy 1 Get 1 1/2 OFF	Can Holders/Coolers		0.84	Product	I-223690	P-2139	1.50	OSFA	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00070PS	1.00	1.50	2/22/15	Can Holder - Magenta - Buy 1 Get 1 1/2 OFF	Can Holders/Coolers		0.84	Product	I-223690	P-2167	1.50	OSFA	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00070PS	1.00	2.99	2/22/15	Can Holder - Magenta	Can Holders/Coolers		0.84	Product	I-223690	P-2167	2.99	OSFA	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00070PS	1.00	2.99	2/22/15	Can Holder - Magenta	Can Holders/Coolers		0.84	Product	I-223668	P-2167	2.99	OSFA	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00070PS	1.00	2.99	2/22/15	Can Holder - Magenta	Can Holders/Coolers		0.84	Product	I-223657	P-2167	2.99	OSFA	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00070RE	1.00	1.50	2/22/15	Can Holder - Red - Buy 1 Get 1 1/2 OFF	Can Holders/Coolers		0.76	Product	I-223647	P-2149	1.50	OSFA	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00070RE	1.00	1.50	2/22/15	Can Holder - Red - Buy 1 Get 1 1/2 OFF	Can Holders/Coolers		0.76	Product	I-223688	P-2149	1.50	OSFA	The Salty Dog - HHI, SC	Stephen T.	JC Reg 2	2/22/15
+SD00070RE	1.00	2.99	2/22/15	Can Holder - Red	Can Holders/Coolers		0.76	Product	I-223690	P-2149	2.99	OSFA	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD000755-NY-2X	1.00	39.00	2/22/15	Men's S/S Polo - NY - 2X	Adult S/S	Navy	16.97	Polos	I-223669	P-7602	39.00	2X	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD000755-NY-XL	1.00	39.00	2/22/15	Men's S/S Polo - NY - XL	Adult S/S	Navy	16.97	Polos	I-223689	P-7606	39.00	XL	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD000755-TE-XL	1.00	19.50	2/22/15	Men's S/S Polo - TE - XL - Buy 1 Get 1 1/2 OFF	Adult S/S	Teal	16.97	Polos	I-223689	P-7616	19.50	XL	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD000COSST	1.00	2.00	2/22/15	Coaster - Sandstone - Buy 1 Get 1 1/2 OFF	Homegoods		0.97	Product	I-223690	P-2258	2.00		The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD000COSST	1.00	2.00	2/22/15	Coaster - Sandstone - Buy 1 Get 1 1/2 OFF	Homegoods		0.97	Product	I-223690	P-2258	2.00		The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD000COSST	1.00	3.99	2/22/15	Coaster - Sandstone	Homegoods		0.97	Product	I-223690	P-2258	3.99		The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD000COSST	1.00	3.99	2/22/15	Coaster - Sandstone	Homegoods		0.97	Product	I-223690	P-2258	3.99		The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD000F19-PA-M	1.00	24.00	2/22/15	Flannel Pants, PA, M	Adult		9.22	Shorts/Pants	I-223642	P-7341	24.00	M		Tia P.	JC Reg 2	2/22/15
+SD000F19-PA-S	1.00	24.00	2/22/15	Flannel Pants, PA, S	Adult		9.15	Shorts/Pants	I-223710	P-7340	24.00	S		Stephen T.	cargoserver	2/22/15
+SD000G35-PA-L	1.00	24.00	2/22/15	Youth Flannel Pants, PA, L	Youth	Pacific Surf	8.45	Shorts/Pants	I-223705	P-7702	24.00	L	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD001009	1.00	3.00	2/22/15	Card - Fine Wine	Stationery		1.53	Product	I-223698	P-7260	3.00		The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD001009	1.00	1.50	2/22/15	Card - Fine Wine - Buy 1 Get 1 1/2 OFF	Stationery		1.53	Product	I-223698	P-7260	1.50		The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD001566-LG-S	1.00	35.00	2/22/15	Sweatshirt-Stonewash, LG, S	Adult	Light Green	12.88	Sweatshirt	I-223723	P-2537	35.00	S	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD001717-BE-L	1.00	19.00	2/22/15	Comfort Soft S/S, BE, L	Adult S/S	Berry	4.10	T-Shirt	I-223715	P-2576	19.00	L	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD001717-BU-M	1.00	19.00	2/22/15	Comfort Soft S/S, BU, M	Adult S/S	Butter	4.10	T-Shirt	I-223710	P-2583	19.00	M	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD001717-CR-L	1.00	19.00	2/22/15	Comfort Soft S/S, CR, L	Adult S/S	Crimson	4.10	T-Shirt	I-223643	P-2588	19.00	L	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD001717-CR-XL	1.00	9.50	2/22/15	Comfort Soft S/S, CR, XL - Buy 1 Get 1 1/2 OFF	Adult S/S	Crimson	4.10	T-Shirt	I-223715	P-2591	9.50	XL	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD001717-FL-L	1.00	9.50	2/22/15	Comfort Soft S/S, FL, L - Buy 1 Get 1 1/2 OFF	Adult S/S	Flo Blue	4.10	T-Shirt	I-223665	P-2594	9.50	L	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD001717-FL-L	1.00	19.00	2/22/15	Comfort Soft S/S, FL, L	Adult S/S	Flo Blue	4.10	T-Shirt	I-223670	P-2594	19.00	L	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD001717-FL-M	1.00	19.00	2/22/15	Comfort Soft S/S, FL, M	Adult S/S	Flo Blue	4.10	T-Shirt	I-223659	P-2595	19.00	M	The Salty Dog - HHI, SC	Caitlin S.	cargoserver	2/22/15
+SD001717-LG-L	1.00	9.50	2/22/15	Comfort Soft S/S, LG, L - Buy 1 Get 1 1/2 OFF	Adult S/S	Light Green	4.10	T-Shirt	I-223659	P-2606	9.50	L	The Salty Dog - HHI, SC	Caitlin S.	cargoserver	2/22/15
+SD001717-LG-M	1.00	19.00	2/22/15	Comfort Soft S/S, LG, M	Adult S/S	Light Green	4.10	T-Shirt	I-223667	P-2607	19.00	M	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD001717-NY-2X	1.00	9.50	2/22/15	Comfort Soft S/S, NY, 2X - Buy 1 Get 1 1/2 OFF	Adult S/S	Navy	5.20	T-Shirt	I-223667	P-2610	9.50	2X	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD001717-NY-L	1.00	9.50	2/22/15	Comfort Soft S/S, NY, L - Buy 1 Get 1 1/2 OFF	Adult S/S	Navy	4.10	T-Shirt	I-223710	P-2612	9.50	L	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD001717-NY-XL	1.00	19.00	2/22/15	Comfort Soft S/S, NY, XL	Adult S/S	Navy	4.10	T-Shirt	I-223648	P-2615	19.00	XL	The Salty Dog - HHI, SC	Caitlin S.	cargoserver	2/22/15
+SD001717-PP-2X	1.00	19.00	2/22/15	Comfort Soft S/S, PP, 2X	Adult S/S	Pepper	5.20	T-Shirt	I-223668	P-2622	19.00	2X	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD002202SD	6.00	3.78	2/22/15	Party Cup - White - Buy 1 Get 1 1/2 OFF	Drinkware		0.30	Product	I-223690	P-2011	0.63	16 oz	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD002202SD	6.00	7.50	2/22/15	Party Cup - White	Drinkware		0.30	Product	I-223690	P-2011	1.25	16 oz	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD002202SD	1.00	1.25	2/22/15	Party Cup - White	Drinkware		0.30	Product	I-223651	P-2011	1.25	16 oz	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD002202SD	1.00	1.25	2/22/15	Party Cup - White	Drinkware		0.30	Product	I-223679	P-2011	1.25	16 oz	The Salty Dog - HHI, SC	Stephen T.	JC Reg 2	2/22/15
+SD002202SD	1.00	0.63	2/22/15	Party Cup - White - Buy 1 Get 1 1/2 OFF	Drinkware		0.30	Product	I-223651	P-2011	0.63	16 oz	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD002214-PS-XS	1.00	8.00	2/22/15	Youth L/S, PS, XS - Buy 1 Get 1 1/2 OFF	Youth L/S	Pink	3.50	T-Shirt	I-223644	P-2709	8.00	XS (2-4)	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD002214-WH-L	1.00	8.00	2/22/15	Youth L/S, WH, L - Buy 1 Get 1 1/2 OFF	Youth L/S	White	3.50	T-Shirt	I-223683	P-2714	8.00	L (14-16)	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD00255-Blue-OSFA	1.00	1.25	2/22/15	Poker Chip, Blue - Buy 1 Get 1 1/2 OFF	Misc	Blue	0.85	Product	I-223730	P-7682	1.25	OSFA		Stephen T.	cargoserver	2/22/15
+SD00255-Blue-OSFA	1.00	1.25	2/22/15	Poker Chip, Blue - Buy 1 Get 1 1/2 OFF	Misc	Blue	0.85	Product	I-223731	P-7682	1.25	OSFA		Stephen T.	cargoserver	2/22/15
+SD00255-Blue-OSFA	1.00	2.50	2/22/15	Poker Chip, Blue	Misc	Blue	0.85	Product	I-223716	P-7682	2.50	OSFA		Tia P.	JC Reg 2	2/22/15
+SD00255-Blue-OSFA	1.00	1.25	2/22/15	Poker Chip, Blue - Buy 1 Get 1 1/2 OFF	Misc	Blue	0.85	Product	I-223730	P-7682	1.25	OSFA		Stephen T.	cargoserver	2/22/15
+SD00255-Orange-OSFA	1.00	1.25	2/22/15	Poker Chip, Orange - Buy 1 Get 1 1/2 OFF	Misc	Orange	0.85	Product	I-223730	P-7683	1.25	OSFA		Stephen T.	cargoserver	2/22/15
+SD00255-Orange-OSFA	1.00	2.50	2/22/15	Poker Chip, Orange	Misc	Orange	0.85	Product	I-223731	P-7683	2.50	OSFA		Stephen T.	cargoserver	2/22/15
+SD00255-Orange-OSFA	1.00	2.50	2/22/15	Poker Chip, Orange	Misc	Orange	0.85	Product	I-223730	P-7683	2.50	OSFA		Stephen T.	cargoserver	2/22/15
+SD00255-Red-OSFA	1.00	2.50	2/22/15	Poker Chip, Red	Misc	Red	0.85	Product	I-223731	P-7684	2.50	OSFA		Stephen T.	cargoserver	2/22/15
+SD00255-Red-OSFA	1.00	2.50	2/22/15	Poker Chip, Red	Misc	Red	0.85	Product	I-223730	P-7684	2.50	OSFA		Stephen T.	cargoserver	2/22/15
+SD003301-NY-3T	1.00	13.00	2/22/15	Toddler T S/S, NY, 3T	Toddler	Navy	1.90	Infant / Toddler	I-223723	P-2808	13.00	3T	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD003301-NY-3T	1.00	13.00	2/22/15	Toddler T S/S, NY, 3T	Toddler	Navy	1.90	Infant / Toddler	I-223648	P-2808	13.00	3T	The Salty Dog - HHI, SC	Caitlin S.	cargoserver	2/22/15
+SD003301-NY-3T	1.00	6.50	2/22/15	Toddler T S/S, NY, 3T - Buy 1 Get 1 1/2 OFF	Toddler	Navy	1.90	Infant / Toddler	I-223695	P-2808	6.50	3T	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD003301-NY-4T	1.00	13.00	2/22/15	Toddler T S/S, NY, 4T	Toddler	Navy	1.90	Infant / Toddler	I-223736	P-2809	13.00	4T	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD003301-NY-4T	1.00	6.50	2/22/15	Toddler T S/S, NY, 4T - Buy 1 Get 1 1/2 OFF	Toddler	Navy	1.90	Infant / Toddler	I-223695	P-2809	6.50	4T	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD003301-PI-3T	1.00	13.00	2/22/15	Toddler T S/S, PI, 3T	Toddler	Pale Pink	1.90	Infant / Toddler	I-223695	P-2811	13.00	3T	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD003301-PI-4T	1.00	6.50	2/22/15	Toddler T S/S, PI, 4T - Buy 1 Get 1 1/2 OFF	Toddler	Pale Pink	1.90	Infant / Toddler	I-223667	P-2812	6.50	4T	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD003301-RA-4T	1.00	6.50	2/22/15	Toddler T S/S, RA, 4T - Buy 1 Get 1 1/2 OFF	Toddler	Raspberry	1.90	Infant / Toddler	I-223736	P-2815	6.50	4T	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD003301-RE-4T	1.00	13.00	2/22/15	Toddler T S/S, RE, 4T	Toddler	Red	1.96	Infant / Toddler	I-223695	P-2819	13.00	4T	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD003311-RA-4T	1.00	13.00	2/22/15	Toddler T L/S, RA, 4T	Toddler	Raspberry	2.78	Infant / Toddler	I-223693	P-2829	13.00	4T	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD003311-RA-4T	1.00	13.00	2/22/15	Toddler T L/S, RA, 4T	Toddler	Raspberry	2.78	Infant / Toddler	I-223646	P-2829	13.00	4T	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD003311-RA-4T	1.00	6.50	2/22/15	Toddler T L/S, RA, 4T - Buy 1 Get 1 1/2 OFF	Toddler	Raspberry	2.78	Infant / Toddler	I-223646	P-2829	6.50	4T	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD003587-CO-XL	1.00	9.00	2/22/15	V-Neck S/S, CO, XL - Buy 1 Get 1 1/2 OFF	Womens S/S	Coral	4.47	T-Shirt	I-223668	P-2842	9.00	XL	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD003588-HP-L	1.00	19.00	2/22/15	Women's L/S, HP, L	Wmn L/S	Hot Pink	5.23	T-Shirt	I-223684	P-2859	19.00	L	The Salty Dog - HHI, SC	Stephen T.	JC Reg 2	2/22/15
+SD003588-HP-XL	1.00	19.00	2/22/15	Women's L/S, HP, XL	Wmn L/S	Hot Pink	5.23	T-Shirt	I-223681	P-2862	19.00	XL	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD003588-LA-L	1.00	19.00	2/22/15	Women's L/S, LA, L	Wmn L/S	Key Lime	5.23	T-Shirt	I-223648	P-2864	19.00	L	The Salty Dog - HHI, SC	Caitlin S.	cargoserver	2/22/15
+SD003902-BK-L	1.00	4.00	2/22/15	Doggie Shirt - Black - L - Buy 1 Get 1 1/2 OFF	Shirt		2.95	Pet	I-223684	P-6131	4.00	L		Stephen T.	JC Reg 2	2/22/15
+SD003902-RA-L	1.00	4.00	2/22/15	Doggie Shirt - Raspberry - L - Buy 1 Get 1 1/2 OFF	Shirt	Raspberry	2.95	Pet	I-223717	P-2924	4.00	L	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD003902-RA-L	1.00	4.00	2/22/15	Doggie Shirt - Raspberry - L - Buy 1 Get 1 1/2 OFF	Shirt	Raspberry	2.95	Pet	I-223635	P-2924	4.00	L	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD004200-AD-L	1.00	5.00	2/22/15	Bandana - American Flag	Bandanas	America	1.03	Specialty Items	I-223652	P-2938	5.00	L	The Salty Dog - HHI, SC	Caitlin S.	cargoserver	2/22/15
+SD004200-BTD-L	1.00	2.50	2/22/15	Bandana - Blue Tie-Dye - Buy 1 Get 1 1/2 OFF	Bandanas	Blue Tie Dye	1.03	Specialty Items	I-223703	P-4004	2.50	L	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD004200-BTD-L	1.00	5.00	2/22/15	Bandana - Blue Tie-Dye	Bandanas	Blue Tie Dye	1.03	Specialty Items	I-223734	P-4004	5.00	L	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD004200-BTD-L	1.00	5.00	2/22/15	Bandana - Blue Tie-Dye	Bandanas	Blue Tie Dye	1.03	Specialty Items	I-223703	P-4004	5.00	L	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD004200-CA-L	1.00	2.50	2/22/15	Bandana - Camo - Buy 1 Get 1 1/2 OFF	Bandanas	Camo	1.65	Specialty Items	I-223734	P-2941	2.50	L	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD004200-NY-L	1.00	2.50	2/22/15	Bandana - Large - Navy - Buy 1 Get 1 1/2 OFF	Bandanas	Navy	1.03	Specialty Items	I-223736	P-2943	2.50	L	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD004200-ON-L	1.00	2.50	2/22/15	Bandana - Large - Orange - Buy 1 Get 1 1/2 OFF	Bandanas	Orange	0.77	Specialty Items	I-223652	P-2944	2.50	L	The Salty Dog - HHI, SC	Caitlin S.	cargoserver	2/22/15
+SD004200-PR-L	1.00	2.50	2/22/15	Bandana - Large - Purple - Buy 1 Get 1 1/2 OFF	Bandanas	Purple	0.76	Specialty Items	I-223698	P-2946	2.50	L	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD004200-PR-L	1.00	5.00	2/22/15	Bandana - Large - Purple	Bandanas	Purple	0.76	Specialty Items	I-223734	P-2946	5.00	L	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD004200-PS-L	1.00	5.00	2/22/15	Bandana - Large - Pink	Bandanas	Pink	0.90	Specialty Items	I-223698	P-2947	5.00	L	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD004200-PS-L	1.00	5.00	2/22/15	Bandana - Large - Pink	Bandanas	Pink	0.90	Specialty Items	I-223660	P-2947	5.00	L	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD004200-RE-L	1.00	2.50	2/22/15	Bandana - Large - Red - Buy 1 Get 1 1/2 OFF	Bandanas	Red	0.90	Specialty Items	I-223696	P-2948	2.50	L	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD004602-RA-4T	1.00	8.00	2/22/15	Toddler Ruffle Dress, RA, 4T - Buy 1 Get 1 1/2 OFF	Toddler	Raspberry	5.78	Dress	I-223646	P-2954	8.00	4T	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD004602-RA-4T	1.00	16.00	2/22/15	Toddler Ruffle Dress, RA, 4T	Toddler	Raspberry	5.78	Dress	I-223646	P-2954	16.00	4T	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00482Y-SH-M	1.00	7.50	2/22/15	Youth Rash Guard S/S, SH, M - Buy 1 Get 1 1/2 OFF	Youth		4.70	Specialty	I-223646	P-6729	7.50	M		Tia P.	JC Reg 2	2/22/15
+SD005012NAL	1.00	5.99	2/22/15	License Plate - Aluminum	Auto		1.88	Product	I-223720	P-2052	5.99	OSFA	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD005100BL	1.00	2.99	2/22/15	Luggage Tag - Blue	Misc		0.50	Product	I-223682	P-2104	2.99	OSFA	The Salty Dog - HHI, SC	Stephen T.	JC Reg 2	2/22/15
+SD005100GR	1.00	1.50	2/22/15	Luggage Tag - Green - Buy 1 Get 1 1/2 OFF	Misc		0.50	Product	I-223682	P-2209	1.50	OSFA	The Salty Dog - HHI, SC	Stephen T.	JC Reg 2	2/22/15
+SD005180-AX-L	1.00	17.00	2/22/15	Hanes Beefy S/S, AX, L	Adult S/S	Athletic Orange	3.26	T-Shirt	I-223671	P-3004	17.00	L	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD005180-BK-3X	1.00	17.00	2/22/15	Hanes Beefy S/S, BK, 3X	Adult S/S	Black	5.52	T-Shirt	I-223670	P-3009	17.00	3X	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD005180-DM-L	1.00	17.00	2/22/15	Hanes Beefy S/S, DM, L	Adult S/S		3.22	T-Shirt	I-223711	P-6618	17.00	L		Tia P.	JC Reg 2	2/22/15
+SD005180-DM-XL	1.00	17.00	2/22/15	Hanes Beefy S/S, DM, XL	Adult S/S		3.22	T-Shirt	I-223679	P-6621	17.00	XL		Stephen T.	JC Reg 2	2/22/15
+SD005180-HL-2X	1.00	8.50	2/22/15	Hanes Beefy S/S, HL, 2X - Buy 1 Get 1 1/2 OFF	Adult S/S	Heather	5.63	T-Shirt	I-223670	P-3027	8.50	2X	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD005180-HL-S	1.00	17.00	2/22/15	Hanes Beefy S/S, HL, S	Adult S/S	Heather	3.34	T-Shirt	I-223642	P-3031	17.00	S	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD005180-HL-XL	1.00	8.50	2/22/15	Hanes Beefy S/S, HL, XL - Buy 1 Get 1 1/2 OFF	Adult S/S	Heather	3.41	T-Shirt	I-223670	P-3032	8.50	XL	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD005180-HL-XL	1.00	17.00	2/22/15	Hanes Beefy S/S, HL, XL	Adult S/S	Heather	3.41	T-Shirt	I-223712	P-3032	17.00	XL	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD005180-LI-S	1.00	8.50	2/22/15	Hanes Beefy S/S, LI, S - Buy 1 Get 1 1/2 OFF	Adult S/S	Lime	3.38	T-Shirt	I-223671	P-3043	8.50	S	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD005180-TE-M	1.00	8.50	2/22/15	Hanes Beefy S/S, TE, M - Buy 1 Get 1 1/2 OFF	Adult S/S	Teal	3.32	T-Shirt	I-223680	P-3096	8.50	M	The Salty Dog - HHI, SC	Stephen T.	JC Reg 2	2/22/15
+SD005180-TE-S	1.00	17.00	2/22/15	Hanes Beefy S/S, TE, S	Adult S/S	Teal	3.34	T-Shirt	I-223693	P-3097	17.00	S	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD005180-TE-S	1.00	17.00	2/22/15	Hanes Beefy S/S, TE, S	Adult S/S	Teal	3.34	T-Shirt	I-223717	P-3097	17.00	S	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD005180-WH-L	1.00	10.00	2/22/15	Hanes Beefy S/S, WH, L	Adult S/S	White	2.35	T-Shirt	I-223658	P-3114	10.00	L	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD005180-WH-M	1.00	10.00	2/22/15	Hanes Beefy S/S, WH, M	Adult S/S	White	2.35	T-Shirt	I-223661	P-3115	10.00	M	The Salty Dog - HHI, SC	Caitlin S.	cargoserver	2/22/15
+SD005180-WH-M	1.00	5.00	2/22/15	Hanes Beefy S/S, WH, M - Buy 1 Get 1 1/2 OFF	Adult S/S	White	2.35	T-Shirt	I-223658	P-3115	5.00	M	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD005180-WH-M	1.00	10.00	2/22/15	Hanes Beefy S/S, WH, M	Adult S/S	White	2.35	T-Shirt	I-223725	P-3115	10.00	M	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD005180-WH-XL	1.00	5.00	2/22/15	Hanes Beefy S/S, WH, XL - Buy 1 Get 1 1/2 OFF	Adult S/S	White	2.35	T-Shirt	I-223679	P-3117	5.00	XL	The Salty Dog - HHI, SC	Stephen T.	JC Reg 2	2/22/15
+SD005180-WH-XL	1.00	5.00	2/22/15	Hanes Beefy S/S, WH, XL - Buy 1 Get 1 1/2 OFF	Adult S/S	White	2.35	T-Shirt	I-223719	P-3117	5.00	XL	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD005180-WH-XL	1.00	10.00	2/22/15	Hanes Beefy S/S, WH, XL	Adult S/S	White	2.35	T-Shirt	I-223719	P-3117	10.00	XL	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD005186-BK-S	1.00	10.00	2/22/15	Hanes Beefy L/S, BK, S - Buy 1 Get 1 1/2 OFF	Adult L/S	Black	6.40	T-Shirt	I-223642	P-3134	10.00	S	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD005186-BK-XL	1.00	20.00	2/22/15	Hanes Beefy L/S, BK, XL	Adult L/S	Black	6.40	T-Shirt	I-223666	P-3135	20.00	XL	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD005186-LB-L	1.00	10.00	2/22/15	Hanes Beefy L/S, LB, L - Buy 1 Get 1 1/2 OFF	Adult L/S		6.40	T-Shirt	I-223662	P-4321	10.00	L		Tia P.	JC Reg 2	2/22/15
+SD005186-LB-L	1.00	10.00	2/22/15	Hanes Beefy L/S, LB, L - Buy 1 Get 1 1/2 OFF	Adult L/S		6.40	T-Shirt	I-223677	P-4321	10.00	L		Tia P.	JC Reg 2	2/22/15
+SD005186-LW-L	1.00	10.00	2/22/15	Hanes Beefy L/S, LW, L - Buy 1 Get 1 1/2 OFF	Adult L/S	Light Steel	6.10	T-Shirt	I-223659	P-3138	10.00	L	The Salty Dog - HHI, SC	Caitlin S.	cargoserver	2/22/15
+SD005186-LW-L	1.00	20.00	2/22/15	Hanes Beefy L/S, LW, L	Adult L/S	Light Steel	6.10	T-Shirt	I-223677	P-3138	20.00	L	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD005186-PI-M	1.00	20.00	2/22/15	Hanes Beefy L/S, PI, M	Adult L/S	Pale Pink	6.42	T-Shirt	I-223680	P-3157	20.00	M	The Salty Dog - HHI, SC	Stephen T.	JC Reg 2	2/22/15
+SD005186-RO-L	1.00	20.00	2/22/15	Hanes Beefy L/S, RO, L	Adult L/S	Deep Royal	6.40	T-Shirt	I-223644	P-3167	20.00	L	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD005186-WH-L	1.00	20.00	2/22/15	Hanes Beefy L/S, WH, L	Adult L/S	White	5.24	T-Shirt	I-223683	P-3173	20.00	L	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD005380-NY-L	1.00	7.50	2/22/15	Youth Beefy S/S, NY, L - Buy 1 Get 1 1/2 OFF	Youth S/S	Navy	3.05	T-Shirt	I-223712	P-3217	7.50	L (14-16)	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD005380-PI-XS	1.00	7.50	2/22/15	Youth Beefy S/S, PI, XS - Buy 1 Get 1 1/2 OFF	Youth S/S	Pale Pink	3.36	T-Shirt	I-223648	P-3224	7.50	XS (2-4)	The Salty Dog - HHI, SC	Caitlin S.	cargoserver	2/22/15
+SD005380-PR-L	1.00	7.50	2/22/15	Youth Beefy S/S, PR, L - Buy 1 Get 1 1/2 OFF	Youth S/S	Purple	3.25	T-Shirt	I-223693	P-3225	7.50	L (14-16)	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD005380-PS-XS	1.00	15.00	2/22/15	Youth Beefy S/S, PS, XS	Youth S/S	Pink	3.06	T-Shirt	I-223644	P-3232	15.00	XS (2-4)	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD005380-RO-XS	1.00	7.50	2/22/15	Youth Beefy S/S, RO, XS - Buy 1 Get 1 1/2 OFF	Youth S/S	Deep Royal	3.13	T-Shirt	I-223669	P-3240	7.50	XS (2-4)	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD005380-TE-L	1.00	7.50	2/22/15	Youth Beefy S/S, TE, L - Buy 1 Get 1 1/2 OFF	Youth S/S	Teal	3.06	T-Shirt	I-223705	P-3241	7.50	L (14-16)	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD006014-FL-L	1.00	11.00	2/22/15	Comfort Soft L/S, FL, L - Buy 1 Get 1 1/2 OFF	Adult L/S		6.65	T-Shirt	I-223709	P-7214	11.00	L		Stephen T.	cargoserver	2/22/15
+SD006014-FL-L	1.00	22.00	2/22/15	Comfort Soft L/S, FL, L	Adult L/S		6.65	T-Shirt	I-223707	P-7214	22.00	L		Tia P.	JC Reg 2	2/22/15
+SD006014-FL-S	1.00	22.00	2/22/15	Comfort Soft L/S, FL, S	Adult L/S		6.65	T-Shirt	I-223719	P-7212	22.00	S		Tia P.	JC Reg 2	2/22/15
+SD006014-LG-L	1.00	22.00	2/22/15	Comfort Soft L/S, LG, L	Adult L/S	Light Green	6.65	T-Shirt	I-223680	P-3263	22.00	L	The Salty Dog - HHI, SC	Stephen T.	JC Reg 2	2/22/15
+SD006014-LG-M	1.00	22.00	2/22/15	Comfort Soft L/S, LG, M	Adult L/S	Light Green	6.65	T-Shirt	I-223659	P-3264	22.00	M	The Salty Dog - HHI, SC	Caitlin S.	cargoserver	2/22/15
+SD006014-NY-M	1.00	11.00	2/22/15	Comfort Soft L/S, NY, M - Buy 1 Get 1 1/2 OFF	Adult L/S	Navy	6.65	T-Shirt	I-223636	P-3269	11.00	M	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD006014-ON-L	1.00	22.00	2/22/15	Comfort Soft L/S, ON, L	Adult L/S	Orange	6.65	T-Shirt	I-223662	P-3273	22.00	L	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD006014-ON-L	1.00	22.00	2/22/15	Comfort Soft L/S, ON, L	Adult L/S	Orange	6.65	T-Shirt	I-223645	P-3273	22.00	L	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD006014-PP-L	1.00	11.00	2/22/15	Comfort Soft L/S, PP, L - Buy 1 Get 1 1/2 OFF	Adult L/S	Pepper	6.65	T-Shirt	I-223707	P-3278	11.00	L	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD006014-PP-XL	1.00	22.00	2/22/15	Comfort Soft L/S, PP, XL	Adult L/S	Pepper	6.99	T-Shirt	I-223691	P-3281	22.00	XL	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD006014-PP-XL	1.00	22.00	2/22/15	Comfort Soft L/S, PP, XL	Adult L/S	Pepper	6.99	T-Shirt	I-223709	P-3281	22.00	XL	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD006030-IR-S	1.00	19.00	2/22/15	Comfort Soft S/S-Pocket, IR, S	Comfort Soft S/S		4.78	T-Shirt	I-223721	P-7530	19.00	S		Stephen T.	cargoserver	2/22/15
+SD006030-NY-XL	1.00	9.50	2/22/15	Comfort Soft S/S-Pocket, NY, XL - Buy 1 Get 1 1/2 OFF	Comfort Soft S/S	Navy	4.78	T-Shirt	I-223721	P-3291	9.50	XL	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD006030-WA-XL	1.00	9.50	2/22/15	Comfort Soft S/S-Pocket, WA, XL - Buy 1 Get 1 1/2 OFF	Comfort Soft S/S		4.78	T-Shirt	I-223670	P-6669	9.50	XL		Tia P.	JC Reg 2	2/22/15
+SD00831G	1.00	0.00	2/22/15	FREE Bumper Sticker - Lead Dog	Stickers		0.12	Product	I-223710	P-3716	0.00		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD00831G	1.00	0.00	2/22/15	FREE Bumper Sticker - Lead Dog	Stickers		0.12	Product	I-223648	P-3716	0.00		The Salty Dog - HHI, SC	Caitlin S.	cargoserver	2/22/15
+SD00831G	1.00	0.00	2/22/15	FREE Bumper Sticker - Lead Dog	Stickers		0.12	Product	I-223689	P-3716	0.00		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD00831G	1.00	0.00	2/22/15	FREE Bumper Sticker - Lead Dog	Stickers		0.12	Product	I-223670	P-3716	0.00		The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00831G	1.00	0.00	2/22/15	FREE Bumper Sticker - Lead Dog	Stickers		0.12	Product	I-223736	P-3716	0.00		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD00832WHDLL	1.00	0.50	2/22/15	Sticker - Heart - Large - Buy 1 Get 1 1/2 OFF	Stationery		0.69	Product	I-223693	P-2341	0.50		The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD008TCALL	1.00	1.99	2/22/15	Lip Balm - Tropical	Misc		0.40	Product	I-223689	P-2257	1.99		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD008TCALL	1.00	1.00	2/22/15	Lip Balm - Tropical - Buy 1 Get 1 1/2 OFF	Misc		0.40	Product	I-223731	P-2257	1.00		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD008TCALL	1.00	1.00	2/22/15	Lip Balm - Tropical - Buy 1 Get 1 1/2 OFF	Misc		0.40	Product	I-223689	P-2257	1.00		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD008TCALL	1.00	1.99	2/22/15	Lip Balm - Tropical	Misc		0.40	Product	I-223689	P-2257	1.99		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD008TCALL	1.00	1.00	2/22/15	Lip Balm - Tropical - Buy 1 Get 1 1/2 OFF	Misc		0.40	Product	I-223689	P-2257	1.00		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD00B100-LB-12M	1.00	6.50	2/22/15	Infant Romper, LB, 6-12M - Buy 1 Get 1 1/2 OFF	Infant Apparel		4.00	Infant / Toddler	I-223735	P-6212	6.50	6-12M		Stephen T.	cargoserver	2/22/15
+SD00B100-PI-6M	1.00	6.50	2/22/15	Infant Romper, PI, 3-6M - Buy 1 Get 1 1/2 OFF	Infant Apparel		4.00	Infant / Toddler	I-223678	P-6207	6.50	3-6M		Stephen T.	JC Reg 2	2/22/15
+SD00BKUSNY	1.00	1.50	2/22/15	Key Chain - 3 in 1 - Navy - Buy 1 Get 1 1/2 OFF	Keychain		1.34	Product	I-223734	P-2157	1.50	OSFA	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD00BKUSNY	1.00	1.50	2/22/15	Key Chain - 3 in 1 - Navy - Buy 1 Get 1 1/2 OFF	Keychain		1.34	Product	I-223697	P-2157	1.50	OSFA	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD00BKUSPI	1.00	2.99	2/22/15	Key Chain - 3 in 1 - Light Pink	Keychain		1.34	Product	I-223697	P-2259	2.99	OSFA	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD00CRCUSBK	1.00	2.50	2/22/15	Croakies - Black - Buy 1 Get 1 1/2 OFF	Misc		1.34	Product	I-223694	P-2056	2.50	OSFA	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD00CSWBIGBL	1.00	1.00	2/22/15	Pen - Blue - Buy 1 Get 1 1/2 OFF	Stationery		0.83	Product	I-223731	P-2085	1.00	OSFA	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD00CSWBIGGR	1.00	1.99	2/22/15	Pen - Green	Stationery		0.80	Product	I-223731	P-2195	1.99	OSFA	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD00F260-HL-S	1.00	30.00	2/22/15	Sweatshirt-Adult Crew, HL, S	Adult	Heather	7.80	Sweatshirt	I-223655	P-3480	30.00	S	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00FF32-Royal-OSFA	1.00	1.25	2/22/15	Key Chain - Floating Foam - Royal - Buy 1 Get 1 1/2 OFF	Keychain		0.58	Product	I-223720	P-7254	1.25	OSFA		Tia P.	JC Reg 2	2/22/15
+SD00FF32-Yellow-OSFA	1.00	1.25	2/22/15	Key Chain - Floating Foam - Yellow - Buy 1 Get 1 1/2 OFF	Keychain		0.68	Product	I-223719	P-7255	1.25	OSFA		Tia P.	JC Reg 2	2/22/15
+SD00HF42-NY-M	1.00	40.00	2/22/15	Sweatshirt-Ahead, NY, M	Adult Crew	Navy	20.50	Sweatshirt	I-223718	P-3521	40.00	M	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00HF42-SC-L	1.00	40.00	2/22/15	Sweatshirt-Ahead, SC, L	Adult Crew	Scarlet	20.50	Sweatshirt	I-223701	P-3525	40.00	L	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00IFR3BL	1.00	1.99	2/22/15	Coaster - Blue Neoprene	Homegoods		0.57	Product	I-223704	P-2118	1.99		The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00IFR3BL	1.00	1.00	2/22/15	Coaster - Blue Neoprene - Buy 1 Get 1 1/2 OFF	Homegoods		0.57	Product	I-223704	P-2118	1.00		The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00IFR3BL	1.00	1.99	2/22/15	Coaster - Blue Neoprene	Homegoods		0.57	Product	I-223728	P-2118	1.99		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD00IFR3BL	1.00	1.00	2/22/15	Coaster - Blue Neoprene - Buy 1 Get 1 1/2 OFF	Homegoods		0.57	Product	I-223728	P-2118	1.00		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD00P4A3A100	1.00	3.25	2/22/15	Sticky Note	Stationery		1.02	Product	I-223638	P-2313	3.25		The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00P4A3A100	1.00	1.63	2/22/15	Sticky Note - Buy 1 Get 1 1/2 OFF	Stationery		1.02	Product	I-223638	P-2313	1.63		The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00P4A3A100	1.00	1.63	2/22/15	Sticky Note - Buy 1 Get 1 1/2 OFF	Stationery		1.02	Product	I-223692	P-2313	1.63		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD00P4A3A100	1.00	3.25	2/22/15	Sticky Note	Stationery		1.02	Product	I-223637	P-2313	3.25		The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00PCJ	1.00	0.50	2/22/15	Postcard - Jake	Stationery		0.13	Product	I-223687	P-2224	0.50	6.5x4.5	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD00SL04-AB-L	1.00	8.50	2/22/15	Women's Classic Fit T, AB, L - Buy 1 Get 1 1/2 OFF	Wmn S/S	Aquatic Blue	3.24	T-Shirt	I-223643	P-3573	8.50	L	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00SL04-WH-L	1.00	5.00	2/22/15	Women's Classic Fit T, WH, L - Buy 1 Get 1 1/2 OFF	Wmn S/S	White	3.55	T-Shirt	I-223658	P-3608	5.00	L	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00T042BL-BL-OSFA	1.00	2.00	2/22/15	Playing Cards, Blue - Buy 1 Get 1 1/2 OFF	Stationery	Blue	1.86	Product	I-223663	P-6250	2.00	OSFA	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00T120BBL	1.00	2.00	2/22/15	Shotglass - Blue - Buy 1 Get 1 1/2 OFF	Drinkware		2.00	Product	I-223676	P-2133	2.00	1 3/4 oz	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00T139	1.00	2.50	2/22/15	Pint Glass - 16oz - Buy 1 Get 1 1/2 OFF	Drinkware		0.82	Product	I-223690	P-2055	2.50	16 oz	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00T139	1.00	4.99	2/22/15	Pint Glass - 16oz	Drinkware		0.82	Product	I-223690	P-2055	4.99	16 oz	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00T139	1.00	4.99	2/22/15	Pint Glass - 16oz	Drinkware		0.82	Product	I-223690	P-2055	4.99	16 oz	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD00T139	1.00	2.50	2/22/15	Pint Glass - 16oz - Buy 1 Get 1 1/2 OFF	Drinkware		0.82	Product	I-223690	P-2055	2.50	16 oz	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD021042-RO/WH-42 inch	1.00	9.99	2/22/15	Umbrella, RO/WH, 42 inch	Beach/Sport		3.19	Product	I-223697	P-7014	9.99	42 inch		Stephen T.	cargoserver	2/22/15
+SD021042-RO/WH-42 inch	1.00	5.00	2/22/15	Umbrella, RO/WH, 42 inch - Buy 1 Get 1 1/2 OFF	Beach/Sport		3.19	Product	I-223697	P-7014	5.00	42 inch		Stephen T.	cargoserver	2/22/15
+SD02296-NY-XS	1.00	21.00	2/22/15	Youth - Hooded Pullover, NY, XS	Youth		6.75	Sweatshirt	I-223735	P-6572	21.00	XS		Stephen T.	cargoserver	2/22/15
+SD03401-Light Blue-12M	1.00	13.00	2/22/15	Infant Tee - Light Blue, 12M	Infant		1.97	T-Shirt	I-223653	P-6607	13.00	12M		Caitlin S.	cargoserver	2/22/15
+SD035PRPP	1.00	1.50	2/22/15	Sticker - Parking Permit	Stationery		0.23	Product	I-223661	P-2059	1.50	3 x 4 inch	The Salty Dog - HHI, SC	Caitlin S.	cargoserver	2/22/15
+SD052365A-Dog Report-OSFA	1.00	3.00	2/22/15	Card, Dog Report, OSFA	Stationery		1.50	Product	I-223694	P-7739	3.00	OSFA	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD052365A-May Your Dreams-OSFA	1.00	1.50	2/22/15	Card, May Your Dreams, OSFA - Buy 1 Get 1 1/2 OFF	Stationery		1.50	Product	I-223697	P-7738	1.50	OSFA	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD06210-Gray-L/XL	1.00	17.99	2/22/15	Hat - FlexfitÂ - Flat Bill, Gray, L/XL	Adult		3.50	Hat	I-223670	P-6559	17.99	L/XL		Tia P.	JC Reg 2	2/22/15
+SD081V-Black/Blue-M	1.00	9.00	2/22/15	SOFFE - Athletic Shorts, Black/Pink/Blue, M - Buy 1 Get 1 1/2 OFF	Womens		4.93	Shorts/Pants	I-223719	P-6750	9.00	M		Tia P.	JC Reg 2	2/22/15
+SD0882L-HP-L	1.00	15.00	2/22/15	Tank Top - Women's, HP, L	Tank / Shooter		3.13	T-Shirt	I-223736	P-7437	15.00	L		Stephen T.	cargoserver	2/22/15
+SD0882L-WH-L	1.00	15.00	2/22/15	Tank Top - Women's, WH, L	Tank / Shooter		2.53	T-Shirt	I-223658	P-7433	15.00	L		Tia P.	JC Reg 2	2/22/15
+SD0A986-NY-XL	1.00	15.00	2/22/15	Tank Top - Men's, NY, XL	Tank / Shooter		4.03	T-Shirt	I-223670	P-7333	15.00	XL		Tia P.	JC Reg 2	2/22/15
+SD0A986-WH-L	1.00	7.50	2/22/15	Tank Top - Men's, WH, L - Buy 1 Get 1 1/2 OFF	Tank / Shooter		3.21	T-Shirt	I-223687	P-7315	7.50	L		Stephen T.	cargoserver	2/22/15
+SD0A986-WH-L	1.00	15.00	2/22/15	Tank Top - Men's, WH, L	Tank / Shooter		3.21	T-Shirt	I-223636	P-7315	15.00	L		Tia P.	JC Reg 2	2/22/15
+SD0STCKRHH	1.00	2.99	2/22/15	Sticker - HH	Stickers		1.00	Product	I-223724	P-2177	2.99		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD0STCKRHH	1.00	1.50	2/22/15	Sticker - HH - Buy 1 Get 1 1/2 OFF	Stickers		1.00	Product	I-223724	P-2177	1.50		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD0STCKRHH	1.00	1.50	2/22/15	Sticker - HH - Buy 1 Get 1 1/2 OFF	Stickers		1.00	Product	I-223729	P-2177	1.50		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD0TAFFYASBG	1.00	3.50	2/22/15	Taffy - Assorted - 12 oz - Buy 1 Get 1 1/2 OFF	Food		2.44	Product	I-223643	P-2111	3.50	12 oz	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD0TAFFYASBG	1.00	6.99	2/22/15	Taffy - Assorted - 12 oz	Food		2.44	Product	I-223694	P-2111	6.99	12 oz	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD0TAFFYPMBG	1.00	6.99	2/22/15	Taffy - Peppermint - 12 oz	Food		2.50	Product	I-223717	P-2140	6.99	12 oz	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD1000TD-BJ-L	1.00	20.00	2/22/15	Tie-Dye S/S, BJ, L	Adult S/S	Blue Jerry	4.25	T-Shirt	I-223665	P-3657	20.00	L	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD1000TD-BJ-S	1.00	10.00	2/22/15	Tie-Dye S/S, BJ, S - Buy 1 Get 1 1/2 OFF	Adult S/S	Blue Jerry	4.25	T-Shirt	I-223718	P-3659	10.00	S	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD1000TD-TD-S	1.00	20.00	2/22/15	Tie-Dye S/S, TD, S	Adult S/S	Tie Dye	4.25	T-Shirt	I-223716	P-3664	20.00	S	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD1000YTD-TD-M	1.00	10.00	2/22/15	Youth Tie Dye S/S, TD, M - Buy 1 Get 1 1/2 OFF	Youth S/S	Tie Dye	4.25	T-Shirt	I-223650	P-2513	10.00	M	The Salty Dog - HHI, SC	Caitlin S.	cargoserver	2/22/15
+SD1000YTD-TD-S	1.00	20.00	2/22/15	Youth Tie Dye S/S, TD, S	Youth S/S	Tie Dye	4.25	T-Shirt	I-223650	P-2514	20.00	S	The Salty Dog - HHI, SC	Caitlin S.	cargoserver	2/22/15
+SD1000YTD-TD-XS	1.00	20.00	2/22/15	Youth Tie Dye S/S, TD, XS	Youth S/S	Tie Dye	4.25	T-Shirt	I-223650	P-2515	20.00	XS	The Salty Dog - HHI, SC	Caitlin S.	cargoserver	2/22/15
+SD1000YTD-TD-XS	1.00	10.00	2/22/15	Youth Tie Dye S/S, TD, XS - Buy 1 Get 1 1/2 OFF	Youth S/S	Tie Dye	4.25	T-Shirt	I-223650	P-2515	10.00	XS	The Salty Dog - HHI, SC	Caitlin S.	cargoserver	2/22/15
+SD2000TD-TD-M	1.00	25.00	2/22/15	Tie-Dye L/S, TD, M	Adult L/S	Tie Dye	6.25	T-Shirt	I-223635	P-3667	25.00	M	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD33099-BL-XL	1.00	19.00	2/22/15	Women's Comfort Soft V-Neck, BL, XL	Wmn S/S	Blossom	4.40	T-Shirt	I-223706	P-7666	19.00	XL	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD33099-LB-2X	1.00	19.00	2/22/15	Women's Comfort Soft V-Neck, LB, 2X	Wmn S/S	Lagoon Blue	5.05	T-Shirt	I-223718	P-7667	19.00	2X	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD33099-LB-L	1.00	9.50	2/22/15	Women's Comfort Soft V-Neck, LB, L - Buy 1 Get 1 1/2 OFF	Wmn S/S	Lagoon Blue	4.40	T-Shirt	I-223648	P-7668	9.50	L	The Salty Dog - HHI, SC	Caitlin S.	cargoserver	2/22/15
+SD33099-LB-M	1.00	19.00	2/22/15	Women's Comfort Soft V-Neck, LB, M	Wmn S/S	Lagoon Blue	4.40	T-Shirt	I-223667	P-7669	19.00	M	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD33099-VL-2X	1.00	19.00	2/22/15	Women's Comfort Soft V-Neck, VL, 2X	Wmn S/S	Violet	5.05	T-Shirt	I-223720	P-7677	19.00	2X	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SD3413C-Red-L	1.00	11.00	2/22/15	Triblend S/S, Red, L - Buy 1 Get 1 1/2 OFF	Adult S/S		4.59	T-Shirt	I-223701	P-6932	11.00	L		Tia P.	JC Reg 2	2/22/15
+SD3413C-Red-M	1.00	22.00	2/22/15	Triblend S/S, Red, M	Adult S/S		4.59	T-Shirt	I-223696	P-6931	22.00	M		Tia P.	JC Reg 2	2/22/15
+SD5180CD-UG-L	1.00	7.50	2/22/15	Camo Dog S/S, UG, L - Buy 1 Get 1 1/2 OFF	Specialty S/S	Pebble	3.28	T-Shirt	I-223706	P-3101	7.50	L	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SD61652-Blue-OSFA	1.00	4.50	2/22/15	Golf Tee Kit - Blue/Black - Buy 1 Get 1 1/2 OFF	Sport		4.14	Product	I-223731	P-6598	4.50	OSFA		Stephen T.	cargoserver	2/22/15
+SD8872HZ-RO-M	1.00	36.00	2/22/15	Hooded-Full Zip, RO, M	Adult Hooded		12.10	Sweatshirt	I-223678	P-6238	36.00	M		Stephen T.	JC Reg 2	2/22/15
+SD8872HZ-RO-S	1.00	36.00	2/22/15	Hooded-Full Zip, RO, S	Adult Hooded		12.12	Sweatshirt	I-223731	P-6237	36.00	S		Stephen T.	cargoserver	2/22/15
+SDC47MT2-Navy-Adult	1.00	16.99	2/22/15	Hat - Classic Fit - Navy - Adult	Adult		6.67	Hat	I-223736	P-7387	16.99	Adult		Stephen T.	cargoserver	2/22/15
+SDC66PD3-Azalea-Adult	1.00	7.50	2/22/15	Visor - Women's Fit - Azalea - Adult - Buy 1 Get 1 1/2 OFF	Adult		5.00	Hat	I-223736	P-6454	7.50	Adult		Stephen T.	cargoserver	2/22/15
+SDC66PD3-Azalea-Adult	1.00	14.99	2/22/15	Visor - Women's Fit - Azalea - Adult	Adult		5.00	Hat	I-223733	P-6454	14.99	Adult		Stephen T.	cargoserver	2/22/15
+SDC79M - Navy - S/M	1.00	18.99	2/22/15	Hat - Sun Hat - Navy - S/M	Adult	Navy	9.90	Hat	I-223697	P-2429	18.99	S/M	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SDCAFENAP	1.00	1.25	2/22/15	Salty Dog Cafe Napkin - Set of 12 - Buy 1 Get 1 1/2 OFF	Homegoods		0.08	Specialty Items	I-223657	P-6202	1.25			Tia P.	JC Reg 2	2/22/15
+SDCAFENAP	1.00	2.50	2/22/15	Salty Dog Cafe Napkin - Set of 12	Homegoods		0.08	Specialty Items	I-223657	P-6202	2.50			Tia P.	JC Reg 2	2/22/15
+SDCARDDGDOCK	1.00	1.50	2/22/15	Card - Dog on Dock - Buy 1 Get 1 1/2 OFF	Stationery		1.75	Product	I-223697	P-6088	1.50		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SDCARDDGDOCK	1.00	1.50	2/22/15	Card - Dog on Dock - Buy 1 Get 1 1/2 OFF	Stationery		1.75	Product	I-223694	P-6088	1.50		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SDCARFLAGWH	1.00	9.99	2/22/15	Car Flag - White	Auto		7.99	Product	I-223729	P-2286	9.99		The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SDDD2135-RO-OSFA	1.00	3.50	2/22/15	Drawstring Duffle - Royal - Buy 1 Get 1 1/2 OFF	Beach/Sport		2.70	Product	I-223727	P-6319	3.50	OSFA		Stephen T.	cargoserver	2/22/15
+SDE47MT2 - Black - Adult	1.00	12.74	2/22/15	Hat - Extreme Fit - Black - Adult	Adult	Black	6.82	Hat	I-223737	P-2444	12.74	Adult	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SDE47MT2 - Kelly Green - Adult	1.00	16.99	2/22/15	Hat - St.Pattys - Kelly Green - Adult	Adult	Kelly Green	5.50	Hat	I-223727	P-2438	16.99	Adult	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SDE47MT2 - Kelly Green - Adult	1.00	8.50	2/22/15	Hat - St.Pattys - Kelly Green - Adult - Buy 1 Get 1 1/2 OFF	Adult	Kelly Green	5.50	Hat	I-223718	P-2438	8.50	Adult	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SDETBTSB-CH-L	1.00	23.00	2/22/15	Bamboo S/S, CH, L	Adult S/S		6.40	T-Shirt	I-223639	P-7495	23.00	L		Tia P.	JC Reg 2	
+SDETBTSB-CH-M	-1.00	-23.00	2/22/15	Bamboo S/S, CH, M	Adult S/S		6.49	T-Shirt	I-223639	P-7494	23.00	M		Tia P.	JC Reg 2	
+SDETBTSB-CH-M	1.00	23.00	2/22/15	Bamboo S/S, CH, M	Adult S/S		6.49	T-Shirt	I-223636	P-7494	23.00	M		Tia P.	JC Reg 2	2/22/15
+SDETBTSB-CH-S	1.00	23.00	2/22/15	Bamboo S/S, CH, S	Adult S/S		6.46	T-Shirt	I-223647	P-7493	23.00	S		Tia P.	JC Reg 2	2/22/15
+SDETBTSB-RE-M	1.00	11.50	2/22/15	Bamboo S/S, RE, M - Buy 1 Get 1 1/2 OFF	Adult S/S	Red	7.12	T-Shirt	I-223647	P-3449	11.50	M	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SDETBTSB-RO-S	1.00	23.00	2/22/15	Bamboo S/S, RO, S	Adult S/S	Deep Royal	7.07	T-Shirt	I-223723	P-3455	23.00	S	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SDETBTSB-RO-XL	1.00	11.50	2/22/15	Bamboo S/S, RO, XL - Buy 1 Get 1 1/2 OFF	Adult S/S	Deep Royal	6.49	T-Shirt	I-223723	P-3456	11.50	XL	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SDG0900-Triton	1.00	7.00	2/22/15	Hat - Toddler - Triton - Buy 1 Get 1 1/2 OFF	Toddler		7.02	Hat	I-223723	P-6651	7.00	OSFA		Stephen T.	cargoserver	2/22/15
+SDG0907-Triton	1.00	14.00	2/22/15	Hat - Infant - Triton	Infant		6.75	Hat	I-223678	P-6648	14.00	OSFA		Stephen T.	JC Reg 2	2/22/15
+SDG7355-Coast-M	1.00	19.50	2/22/15	Hooded - Full Zip Lite, Coast, M - Buy 1 Get 1 1/2 OFF	Womens		16.50	Outerwear	I-223671	P-7348	19.50	M		Stephen T.	cargoserver	2/22/15
+SDG7355-Coast-S	1.00	19.50	2/22/15	Hooded - Full Zip Lite, Coast, S - Buy 1 Get 1 1/2 OFF	Womens		16.50	Outerwear	I-223710	P-7345	19.50	S		Stephen T.	cargoserver	2/22/15
+SDG7355-Coast-XL	1.00	19.50	2/22/15	Hooded - Full Zip Lite, Coast, XL - Buy 1 Get 1 1/2 OFF	Womens		16.50	Outerwear	I-223651	P-7347	19.50	XL		Tia P.	JC Reg 2	2/22/15
+SDG7355-Spring-S	1.00	39.00	2/22/15	Hooded - Full Zip Lite, Spring, S	Womens		16.50	Outerwear	I-223651	P-7352	39.00	S		Tia P.	JC Reg 2	2/22/15
+SDG7355-Spring-S	1.00	39.00	2/22/15	Hooded - Full Zip Lite, Spring, S	Womens		16.50	Outerwear	I-223671	P-7352	39.00	S		Stephen T.	cargoserver	2/22/15
+SDG7355-Spring-S	1.00	39.00	2/22/15	Hooded - Full Zip Lite, Spring, S	Womens		16.50	Outerwear	I-223710	P-7352	39.00	S		Stephen T.	cargoserver	2/22/15
+SDGIFTCD	1.00	50.00	2/22/15	Gift Card - Sellable - Use Me!	 Gift Card		1.26	Gift Card	I-223722	P-2311	50.00	0	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SDHSIS6OZ	1.00	3.74	2/22/15	Pepper Sauce - Island Spice - 6 oz	Homegoods		2.75	Product	I-223673	P-2336	3.74		The Salty Dog - HHI, SC	Caitlin S.	cargoserver	2/22/15
+SDHSIS6OZ	1.00	4.99	2/22/15	Pepper Sauce - Island Spice - 6 oz	Homegoods		2.75	Product	I-223676	P-2336	4.99		The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SDI7025-BK/RD-Adult	1.00	14.24	2/22/15	Hat - Mesh w/ Piping - BK/RD - Adult	Adult		5.25	Hat	I-223737	P-7108	14.24	Adult		Stephen T.	cargoserver	2/22/15
+SDIPHONE-PS/PS-5CI	1.00	7.50	2/22/15	iPhone Cover, PS/PS, 5CI - Buy 1 Get 1 1/2 OFF	Phone Case		3.15	Product	I-223678	P-6708	7.50	iPhone 5 Card Insert		Stephen T.	JC Reg 2	2/22/15
+SDJK780B-NY-S	1.00	14.00	2/22/15	Youth Big Jake S/S, NY, S	Youth Specialty S/S		2.69	Specialty	I-223736	P-7243	14.00	S		Stephen T.	cargoserver	2/22/15
+SDJKDOGBKSM	1.00	5.00	2/22/15	Jake Stuffed Dog - Small - Buy 1 Get 1 1/2 OFF	Toys		4.75	Product	I-223697	P-2024	5.00	S	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SDK45CA4 - Bubblegum - Adult	1.00	16.99	2/22/15	Hat - Women's Fit - Bubblegum - Adult	Womens	Bubblegum	5.75	Hat	I-223713	P-2461	16.99	Adult	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SDK45CA4 - Sorbet - Adult	1.00	8.50	2/22/15	Hat - Women's Fit - Sorbet - Adult - Buy 1 Get 1 1/2 OFF	Womens	Sorbet	5.78	Hat	I-223697	P-2466	8.50	Adult	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SDKOOZIEBL	1.00	2.99	2/22/15	Koozie - Foam - Blue	Can Holders/Coolers	Blue	0.76	Product	I-223659	P-5584	2.99	OSFA	The Salty Dog, Inc. - HHI, SC	Caitlin S.	cargoserver	2/22/15
+SDKOOZIEBL	1.00	2.99	2/22/15	Koozie - Foam - Blue	Can Holders/Coolers	Blue	0.76	Product	I-223694	P-5584	2.99	OSFA	The Salty Dog, Inc. - HHI, SC	Stephen T.	cargoserver	2/22/15
+SDKOOZIEBL	1.00	1.50	2/22/15	Koozie - Foam - Blue - Buy 1 Get 1 1/2 OFF	Can Holders/Coolers	Blue	0.76	Product	I-223685	P-5584	1.50	OSFA	The Salty Dog, Inc. - HHI, SC	Stephen T.	cargoserver	2/22/15
+SDKOOZIERE	1.00	1.50	2/22/15	Koozie - Foam - Red - Buy 1 Get 1 1/2 OFF	Can Holders/Coolers	Red	0.82	Product	I-223659	P-5585	1.50	OSFA	The Salty Dog, Inc. - HHI, SC	Caitlin S.	cargoserver	2/22/15
+SDKOOZIERE	1.00	1.50	2/22/15	Koozie - Foam - Red - Buy 1 Get 1 1/2 OFF	Can Holders/Coolers	Red	0.82	Product	I-223694	P-5585	1.50	OSFA	The Salty Dog, Inc. - HHI, SC	Stephen T.	cargoserver	2/22/15
+SDMGCS30LOGO	1.00	1.50	2/22/15	Magnet - Logo - Logo	Homegoods		0.36	Product	I-223652	P-2058	1.50		The Salty Dog - HHI, SC	Caitlin S.	cargoserver	2/22/15
+SDSAUCE-RB-6OZ	1.00	2.50	2/22/15	Buffalo Sauce, RB, 6OZ - Buy 1 Get 1 1/2 OFF	Food		3.01	Product	I-223676	P-6928	2.50	6OZ		Tia P.	JC Reg 2	2/22/15
+SDSFLY10TRO	1.00	4.50	2/22/15	Flying Disc - Royal	Beach/Sport		0.92	Product	I-223654	P-2236	4.50	OSFA	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SDSJS4OZ	1.00	5.75	2/22/15	Jake Shake - 4 oz	Food		2.25	Product	I-223676	P-2205	5.75	4 oz	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SDSSTHERMOS-Steel	1.00	5.50	2/22/15	Stainless Steel Thermos - Steel - Buy 1 Get 1 1/2 OFF	Drinkware	Steel	5.41	Product	I-223713	P-6644	5.50	OSFA		Stephen T.	cargoserver	2/22/15
+SDXS776B-NY-XS	1.00	5.00	2/22/15	Bandana - XSmall - Navy	Bandanas		0.38	Specialty Items	I-223649	P-4307	5.00	XS		Tia P.	JC Reg 2	2/22/15
+SDYY47MT - Azalea - Youth	1.00	14.00	2/22/15	Hat - Youth 5-12 - Azalea	Youth		5.00	Hat	I-223648	P-6452	14.00	Youth		Caitlin S.	cargoserver	2/22/15
+SDYY47MT - Comet - Youth	1.00	7.00	2/22/15	Hat - Youth 5-12 - Comet - Buy 1 Get 1 1/2 OFF	Youth	Comet	5.00	Hat	I-223648	P-2480	7.00	Youth	The Salty Dog - HHI, SC	Caitlin S.	cargoserver	2/22/15
+SP1717R2-SA-L	1.00	16.00	2/22/15	Racer Dog 2 S/S, SA, L	Specialty S/S		4.20	Specialty Prints	I-223687	P-7035	16.00	L		Stephen T.	cargoserver	2/22/15
+SP1717R3-LB-2X	1.00	7.50	2/22/15	Racer Dog 3 S/S, LB, 2X - Buy 1 Get 1 1/2 OFF	Specialty S/S	Light Blue	5.44	T-Shirt	I-223716	P-7597	7.50	2X	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SP1717R3-LB-L	1.00	7.50	2/22/15	Racer Dog 3 S/S, LB, L - Buy 1 Get 1 1/2 OFF	Specialty S/S	Light Blue	3.22	T-Shirt	I-223670	P-7595	7.50	L	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SP2214FD-RO-S	1.00	16.00	2/22/15	Youth Football Dog L/S, RO, S	Youth Specialty L/S		4.58	Specialty Prints	I-223646	P-5999	16.00	S (6-8)		Tia P.	JC Reg 2	2/22/15
+SP3522VC-KL-S/M	1.00	9.00	2/22/15	V-Neck Beach Cover-Up, KL, S/M - Buy 1 Get 1 1/2 OFF	Wmn Specialty S/S		6.20	Specialty Prints	I-223699	P-6405	9.00	S/M		Tia P.	JC Reg 2	2/22/15
+SP5180LG-GN-L	1.00	7.50	2/22/15	Lager Dog S/S, GN, L - Buy 1 Get 1 1/2 OFF	Specialty S/S	Gold Nugget	3.22	T-Shirt	I-223736	P-1569	7.50	L	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SP5180LV-WH-L	1.00	15.00	2/22/15	Luv Dog S/S, WH, L	Adult S/S	White	2.33	T-Shirt	I-223726	P-1777	15.00	L	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SP5180LV-WH-M	1.00	15.00	2/22/15	Luv Dog S/S, WH, M	Adult S/S	White	2.35	T-Shirt	I-223640	P-1468	15.00	M	The Salty Dog - HHI, SC	Caitlin S.	JC Reg 2	2/22/15
+SP5180LV-WH-XL	1.00	7.50	2/22/15	Luv Dog S/S, WH, XL - Buy 1 Get 1 1/2 OFF	Adult S/S	White	2.34	T-Shirt	I-223726	P-1475	7.50	XL	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SP5180PD-NY-2X	1.00	15.00	2/22/15	Patriot Dog S/S, NY, 2X	Specialty S/S	Navy	5.48	T-Shirt	I-223710	P-1730	15.00	2X	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SP5180PD-NY-L	1.00	7.50	2/22/15	Patriot Dog S/S, NY, L - Buy 1 Get 1 1/2 OFF	Specialty S/S	Navy	3.22	T-Shirt	I-223664	P-1643	7.50	L	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SP5180PD-RE-L	1.00	7.50	2/22/15	Patriot Dog S/S, RE, L - Buy 1 Get 1 1/2 OFF	Specialty S/S		3.22	T-Shirt	I-223710	P-5779	7.50	L		Stephen T.	cargoserver	2/22/15
+SP5180RC-DM-S	1.00	15.00	2/22/15	Racer Dog S/S, DM, S	Specialty S/S		3.22	Specialty Prints	I-223675	P-7229	15.00	S		Tia P.	JC Reg 2	2/22/15
+SP5180SP-KG-M	1.00	12.00	2/22/15	St. Patty's Dog S/S, KG, M	Adult S/S	Kelly Green	3.37	T-Shirt	I-223672	P-1581	12.00	M	The Salty Dog - HHI, SC	Stephen T.	cargoserver	2/22/15
+SP5180SP-KG-M	1.00	6.00	2/22/15	St. Patty's Dog S/S, KG, M - Buy 1 Get 1 1/2 OFF	Adult S/S	Kelly Green	3.37	T-Shirt	I-223700	P-1581	6.00	M	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SP5180SP-KG-XL	1.00	12.00	2/22/15	St. Patty's Dog S/S, KG, XL	Adult S/S	Kelly Green	3.39	T-Shirt	I-223700	P-1539	12.00	XL	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SP6030-BY-2X	1.00	9.00	2/22/15	Sailor Jake S/S-Pocket, BY, 2X - Buy 1 Get 1 1/2 OFF	Specialty S/S		6.04	T-Shirt	I-223720	P-7073	9.00	2X		Tia P.	JC Reg 2	2/22/15
+SP6030-CY-XL	1.00	18.00	2/22/15	Sailor Jake S/S-Pocket, CY, XL	Specialty S/S		4.78	T-Shirt	I-223664	P-6956	18.00	XL		Tia P.	JC Reg 2	2/22/15
+SPG2400SP-KG-L	1.00	7.50	2/22/15	St. Patty's Dog L/S, KG, L - Buy 1 Get 1 1/2 OFF	Adult L/S	Kelly Green	5.17	T-Shirt	I-223644	P-1796	7.50	L	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SPG2400SP-KG-XL	1.00	7.50	2/22/15	St. Patty's Dog L/S, KG, XL - Buy 1 Get 1 1/2 OFF	Adult L/S	Kelly Green	4.96	T-Shirt	I-223666	P-1657	7.50	XL	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+SPSL04PL-NY-L	1.00	15.00	2/22/15	Women's Plaid Dog, NY, L	Wmn Specialty S/S	Navy	3.46	Specialty Prints	I-223682	P-1663	15.00	L	The Salty Dog - HHI, SC	Stephen T.	JC Reg 2	2/22/15
+TERVIS2-SD Logo-12 oz	1.00	12.99	2/22/15	Tervis - Tumbler - SD Logo - 12 oz	Drinkware		7.73	Product	I-223689	P-6796	12.99	12 oz		Stephen T.	cargoserver	2/22/15
+TERVIS2-SD Logo-12 oz	1.00	6.50	2/22/15	Tervis - Tumbler - SD Logo - 12 oz - Buy 1 Get 1 1/2 OFF	Drinkware		7.73	Product	I-223689	P-6796	6.50	12 oz		Stephen T.	cargoserver	2/22/15
+TERVIS2-SD Logo-12 oz	1.00	6.50	2/22/15	Tervis - Tumbler - SD Logo - 12 oz - Buy 1 Get 1 1/2 OFF	Drinkware		7.73	Product	I-223689	P-6796	6.50	12 oz		Stephen T.	cargoserver	2/22/15
+TERVIS2-SD Logo-12 oz	1.00	12.99	2/22/15	Tervis - Tumbler - SD Logo - 12 oz	Drinkware		7.73	Product	I-223689	P-6796	12.99	12 oz		Stephen T.	cargoserver	2/22/15
+TERVIS24OZ-Blue-24OZ	1.00	12.50	2/22/15	Tervis - 24 oz Tumbler With Top, Blue, 24OZ - Buy 1 Get 1 1/2 OFF	Drinkware	Blue	11.53	Product	I-223674	P-7750	12.50	24OZ	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15
+TERVIS24OZ-Yellow-24OZ	1.00	24.99	2/22/15	Tervis - 24 oz Tumbler With Top, Yellow, 24OZ	Drinkware	Yellow	11.53	Product	I-223674	P-7751	24.99	24OZ	The Salty Dog - HHI, SC	Tia P.	JC Reg 2	2/22/15

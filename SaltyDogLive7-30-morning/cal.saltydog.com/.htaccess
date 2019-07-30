@@ -1,0 +1,12 @@
+
+RewriteEngine on
+
+RewriteOptions inherit
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://www.cal.saltydog.com/$1 [R,L]
+</IfModule>
+
+ErrorDocument 404 /404.html

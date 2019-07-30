@@ -1,0 +1,16 @@
+Payment Method	ID	Date	Payment Method	User	Customer	Reference	Amount	Station
+Cash	I-153428	1/12/14	Cash	Kelsie L.			5.29	TS Server Reg 1
+Cash	I-153420	1/12/14	Cash	Kelsie L.			7.41	TS Server Reg 1
+Cash	I-153425	1/12/14	Cash	Kelsie L.			8.62	TS Server Reg 1
+Cash	I-153418	1/12/14	Cash	Kelsie L.			31.26	TS Server Reg 1
+Cash	I-153427	1/12/14	Cash	Kelsie L.			16.96	TS Server Reg 1
+Credit Card	I-153426	1/12/14	Credit Card	Kelsie L.		5846593810	29.14	TS Server Reg 1
+Credit Card	I-153429	1/12/14	Credit Card	Adrianne V.		5846759251	52.99	TS Server Reg 1
+Credit Card	I-153430	1/12/14	Credit Card	Adrianne V.		5846791853	22.78	TS Server Reg 1
+Credit Card	I-153431	1/12/14	Credit Card	Adrianne V.		5846943644	25.44	TS Server Reg 1
+Credit Card	I-153417	1/12/14	Credit Card	Kelsie L.		5846159392	33.90	TS Server Reg 1
+Credit Card	I-153432	1/12/14	Credit Card	Adrianne V.		5846946159	25.44	TS Server Reg 1
+Credit Card	I-153421	1/12/14	Credit Card	Kelsie L.		5846354521	7.41	TS Server Reg 1
+Credit Card	I-153422	1/12/14	Credit Card	Kelsie L.		5846511786	5.29	TS Server Reg 1
+Credit Card	I-153423	1/12/14	Credit Card	Kelsie L.		5846548994	31.78	TS Server Reg 1
+Credit Card	I-153424	1/12/14	Credit Card	Kelsie L.		5846587730	18.01	TS Server Reg 1

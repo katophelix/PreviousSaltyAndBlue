@@ -1,0 +1,841 @@
+Code	Qty	Total Sell	Date	Description	Color	Color - Long	Cost	Family	Invoice ID	Product ID	Sell	Size	Store ID	User	Station	Posted Date
+SD00CSWBIGBL	1.00	1.99	6/12/15	Pen - Blue	Blue	Blue	0.83	Product	I-130784	P-2101	1.99	OSFA	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00CSWBIGBL	1.00	1.99	6/12/15	Pen - Blue	Blue	Blue	0.83	Product	I-130784	P-2101	1.99	OSFA	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00CSWBIGGR	1.00	1.99	6/12/15	Pen - Green	Green	Green	0.81	Product	I-130784	P-2214	1.99	OSFA	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00CSWBIGPS	1.00	1.99	6/12/15	Pen - Pink	Pink	Pink	0.83	Product	I-130784	P-2096	1.99	OSFA	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00CSWBIGPR	1.00	1.99	6/12/15	Pen - Purple	Purple	Purple	0.83	Product	I-130784	P-2024	1.99	OSFA	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDJKDOGBKSM	1.00	9.99	6/12/15	Jake Stuffed Dog - Small	Black	Black	4.72	Product	I-130784	P-2040	9.99	S	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD005380-6A-S	1.00	15.00	6/12/15	Youth Beefy S/S, 6A, S	6A	Wow Pink	2.48	T-Shirt	I-130785	P-3480	15.00	S (6-8)	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD005380-6A-XS	1.00	15.00	6/12/15	Youth Beefy S/S, 6A, XS	6A	Wow Pink	2.41	T-Shirt	I-130785	P-3481	15.00	XS (2-4)	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SP5380PD-NY-S	1.00	12.00	6/12/15	Youth Patriot Dog S/S, NY, S	NY	Navy	3.37	Specialty Prints	I-130785	P-1606	12.00	S (6-8)	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+BW5180SF1C-WH-XL	1.00	10.00	6/12/15	BW Sailfish S/S, WH, XL	WH	White	3.44	Bluewater	I-130785	P-4719	10.00	XL	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SP5180PD-NY-XL	1.00	12.00	6/12/15	Patriot Dog S/S, NY, XL	NY	Navy	3.35	T-Shirt	I-130785	P-1598	12.00	XL	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+689076894470	1.00	5.99	6/12/15	Mini Jake w/ Clip - Black	Jake	Jake	3.79	Product	I-130785	P-2042	5.99	Mini	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD00BKUSNY	1.00	2.99	6/12/15	Key Chain - 3 in 1 - Navy	NY	Navy	1.34	Product	I-130785	P-2173	2.99	OSFA	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD003588-LB-L	1.00	19.00	6/12/15	Women's L/S, LB, L	LB	Light Blue	5.30	T-Shirt	I-130786	P-3156	19.00	L	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD001717-LG-XL	1.00	19.00	6/12/15	Comfort Soft S/S, LG, XL	LG	Light Green	4.23	T-Shirt	I-130786	P-2896	19.00	XL	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD001717-PP-XL	1.00	19.00	6/12/15	Comfort Soft S/S, PP, XL	PP	Pepper	4.10	T-Shirt	I-130786	P-2914	19.00	XL	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SDG7355-Coast-L	1.00	31.20	6/12/15	Hooded - Full Zip Lite, Coast, L (20% OFF Sweatshirts)	Coast	Coast	16.50	Outerwear	I-130786	P-12655	31.20	L	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD003311-RA-2T	1.00	13.00	6/12/15	Toddler T L/S, RA, 2T	RA	Raspberry	2.78	Infant / Toddler	I-130787	P-3114	13.00	2T	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD005180-DM-M	-1.00	-17.00	6/12/15	Hanes Beefy S/S, DM, M	DM	Denim Blue	3.22	T-Shirt	I-130788	P-10827	17.00	M	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	
+SD001717-NY-M	-1.00	-19.00	6/12/15	Comfort Soft S/S, NY, M	NY	Navy	4.10	T-Shirt	I-130788	P-2900	19.00	M	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	
+SD005180-DM-L	1.00	17.00	6/12/15	Hanes Beefy S/S, DM, L	DM	Denim Blue	3.01	T-Shirt	I-130788	P-10826	17.00	L	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	
+SD001717-NY-L	1.00	19.00	6/12/15	Comfort Soft S/S, NY, L	NY	Navy	4.24	T-Shirt	I-130788	P-2899	19.00	L	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	
+SD00T252-NY/WH-M	1.00	25.00	6/12/15	Dri-Balance S/S-Mesh, NY/WH, M	NY/WH	Navy/White	11.00	T-Shirt	I-130789	P-3922	25.00	M	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD001717-BU-S	1.00	19.00	6/12/15	Comfort Soft S/S, BU, S	BU	Butter	4.10	T-Shirt	I-130790	P-2871	19.00	S	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+CW05250-4C-M	1.00	12.00	6/12/15	Color of the Week, 4C, M	4C	Twilight Blue	1.82	T-Shirt	I-130791	P-14020	12.00	M	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDG7355-Coast-XL	1.00	31.20	6/12/15	Hooded - Full Zip Lite, Coast, XL (20% OFF Sweatshirts)	Coast	Coast	16.50	Outerwear	I-130791	P-12652	31.20	XL	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD0M1276CO	1.00	6.99	6/12/15	Bistro Mug - Cobalt - 16 oz	Cobalt	Cobalt	2.71	Product	I-130791	P-2157	6.99	16 oz	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDIPHONE-GR/TQ-6	1.00	15.00	6/12/15	iPhone Cover - GR/TQ - 6	GR/TQ	Green/Light Blue	3.15	Product	I-130792	P-13263	15.00	6	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDC66PD3 - Peri - Adult	1.00	14.99	6/12/15	Visor - Women's Fit - Peri - Adult	Peri	Periwinkle	5.00	Hat	I-130792	P-2699	14.99	Adult	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDORNAMENT-RO-OSFA	1.00	7.99	6/12/15	Christmas Ornament - Logo - Royal	RO	Royal	3.04	Specialty Items	I-130792	P-6304	7.99	OSFA	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD1041DB	1.00	20.00	6/12/15	Book-Pawprints in Heaven	Blue	Blue	9.02	Pet	I-130792	P-2020	20.00	16pg	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDIPHONE-GR/TQ-6	1.00	15.00	6/12/15	iPhone Cover - GR/TQ - 6	GR/TQ	Green/Light Blue	3.15	Product	I-130793	P-13263	15.00	6	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD2000TD-TD-M	1.00	25.00	6/12/15	Tie-Dye L/S, TD, M	TD	Tie Dye	6.25	T-Shirt	I-130794	P-3957	25.00	M	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00831WH	1.00	2.00	6/12/15	Bumper Sticker - White - Lead Dog	White	White	0.11	Product	I-130794	P-4023	2.00	Lead Dog	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00831G	1.00	-2.00	6/12/15	FREE Bumper Sticker - Lead Dog			0.11	Product	I-130794	P-4022	-2.00		The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+433020095	1.00	6.99	6/12/15	Doggie Bites - Peanut Butter - 10.5 oz	Peanut Butter	Peanut Butter	2.74	Pet	I-130794	P-3979	6.99	10.5 oz	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDG7355-Coast-XL	1.00	31.20	6/12/15	Hooded - Full Zip Lite, Coast, XL (20% OFF Sweatshirts)	Coast	Coast	16.50	Outerwear	I-130794	P-12652	31.20	XL	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD3413C-Navy-S	1.00	22.00	6/12/15	Triblend S/S, Navy, S	Navy	Navy	4.61	T-Shirt	I-130794	P-11766	22.00	S	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDETBTSB-RO-L	1.00	17.00	6/12/15	Bamboo S/S, RO, L	RO	Deep Royal	6.55	T-Shirt	I-130794	P-3743	17.00	L	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SPSL04PL-NY-S	1.00	15.00	6/12/15	Women's Plaid Dog, NY, S	NY	Navy	3.50	Specialty Prints	I-130794	P-1804	15.00	S	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SP5180PD-NY-XL	1.00	12.00	6/12/15	Patriot Dog S/S, NY, XL	NY	Navy	3.35	T-Shirt	I-130795	P-1598	12.00	XL	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD005180-WH-XL	1.00	10.00	6/12/15	Hanes Beefy S/S, WH, XL	WH	White	2.95	T-Shirt	I-130795	P-3405	10.00	XL	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SDC47MT2-Khaki-Adult	1.00	16.99	6/12/15	Hat - Classic Fit - Khaki - Adult	Khaki	Khaki	5.12	Hat	I-130795	P-12694	16.99	Adult	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SP5180PD-NY-L	1.00	12.00	6/12/15	Patriot Dog S/S, NY, L	NY	Navy	3.27	T-Shirt	I-130795	P-1645	12.00	L	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD005180-DM-XL	1.00	17.00	6/12/15	Hanes Beefy S/S, DM, XL	DM	Denim Blue	3.22	T-Shirt	I-130795	P-10829	17.00	XL	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+CWLAT6901-AP-L	1.00	12.00	6/12/15	Color of the Week, AP, L	AP	Apple	2.89	T-Shirt	I-130796	P-11531	12.00	L	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD3413C-Navy-L	1.00	22.00	6/12/15	Triblend S/S, Navy, L	Navy	Navy	4.59	T-Shirt	I-130796	P-11763	22.00	L	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD0TAFFYASBG	1.00	6.99	6/12/15	Taffy - Assorted - 12 oz 	Assorted	Assorted	1.85	Product	I-130796	P-2127	6.99	12 oz	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD3413C-Red-L	1.00	22.00	6/12/15	Triblend S/S, Red, L	Red	Red	4.59	T-Shirt	I-130797	P-11937	22.00	L	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SDC66CPD-Charcoal-Adult	1.00	14.99	6/12/15	Visor - Pigment Dyed - Charcoal - Adult	Charcoal	Charcoal	5.13	Hat	I-130797	P-10611	14.99	Adult	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SDE68CMX - Black - Adult	1.00	14.99	6/12/15	Visor - Cool Max - Black - Adult	Black	Black	5.81	Hat	I-130797	P-5575	14.99	Adult	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SDVINYLFAMS	1.00	4.99	6/12/15	Vinyl Family Kit - 6 Piece	White	White	2.35	Product	I-130797	P-2306	4.99	6pc	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD3413C-Green-L	1.00	22.00	6/12/15	Triblend S/S, Green, L	Green	Green	4.59	T-Shirt	I-130798	P-11770	22.00	L	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD0TAFFYASBG	1.00	6.99	6/12/15	Taffy - Assorted - 12 oz 	Assorted	Assorted	1.85	Product	I-130798	P-2127	6.99	12 oz	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD0TAFFYASBG	1.00	6.99	6/12/15	Taffy - Assorted - 12 oz 	Assorted	Assorted	1.85	Product	I-130798	P-2127	6.99	12 oz	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD0TAFFYASBG	1.00	6.99	6/12/15	Taffy - Assorted - 12 oz 	Assorted	Assorted	1.85	Product	I-130799	P-2127	6.99	12 oz	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+CW05250-4C-XL	1.00	12.00	6/12/15	Color of the Week, 4C, XL	4C	Twilight Blue	1.82	T-Shirt	I-130799	P-14022	12.00	XL	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+CW05170-HE-XL	1.00	12.00	6/12/15	Color of the Week, HE, XL	HE	Heather Red	1.79	T-Shirt	I-130799	P-13376	12.00	XL	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SDW508BL	1.00	2.50	6/12/15	Rubber Ball - Blue	Blue	Blue	0.90	Product	I-130799	P-2142	2.50	OSFA	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SDC47MT2-Khaki-Adult	1.00	16.99	6/12/15	Hat - Classic Fit - Khaki - Adult	Khaki	Khaki	5.12	Hat	I-130799	P-12694	16.99	Adult	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SDG0907-Triton	1.00	14.00	6/12/15	Hat - Infant - Triton	Triton	Triton	7.24	Hat	I-130800	P-11114	14.00	OSFA	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SDG0900-Lipstick	1.00	14.00	6/12/15	Hat - Toddler - Lipstick	Lipstick	Lipstick	7.25	Hat	I-130800	P-11116	14.00	OSFA	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD0TAFFYASBG	1.00	6.99	6/12/15	Taffy - Assorted - 12 oz 	Assorted	Assorted	1.85	Product	I-130800	P-2127	6.99	12 oz	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SDYY47MT - Azalea - Youth	1.00	14.00	6/12/15	Hat - Youth 5-12 - Azalea	Azalea	Azalea	5.00	Hat	I-130800	P-10606	14.00	Youth	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+CWG5000-348C-L	1.00	12.00	6/12/15	Color of the Week, 348C, L	348C	Antique Irish Green	2.20	T-Shirt	I-130800	P-13735	12.00	L	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SDTEMPTATT	2.00	0.50	6/12/15	Tattoo - Temporary - Jake			0.08	Product	I-130801	P-5875	0.25		The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SP5180PD-RE-XL	1.00	12.00	6/12/15	Patriot Dog S/S, RE, XL	RE	Red	3.38	T-Shirt	I-130801	P-5810	12.00	XL	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SPSL04PL-AB-L	1.00	15.00	6/12/15	Women's Plaid Dog, AB, L	AB	Aquatic Blue	3.50	Specialty Prints	I-130802	P-1743	15.00	L	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SP2623GL-LW-S	1.00	12.00	6/12/15	Girl's Tank - Love, LW, S	LW	Light Steel	2.06	Specialty Prints	I-130802	P-6220	12.00	S (6-8)	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD00B100-WH-18M	1.00	13.00	6/12/15	Infant Romper, WH, 12-18M	WH	White	4.09	Infant / Toddler	I-130802	P-6257	13.00	12-18M	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SDJK780B-HP-L	1.00	14.00	6/12/15	Youth Big Jake S/S, HP, L	HP	Hot Pink	2.69	Specialty	I-130802	P-12472	14.00	L (14-16)	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD005380-PS-S	1.00	15.00	6/12/15	Youth Beefy S/S, PS, S	PS	Pink	3.15	T-Shirt	I-130802	P-3520	15.00	S (6-8)	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD005380-YO-S	1.00	15.00	6/12/15	Youth Beefy S/S, YO, S	YO	Carolina Blue	2.63	T-Shirt	I-130802	P-3540	15.00	S (6-8)	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD005380-AX-S	1.00	15.00	6/12/15	Youth Beefy S/S, AX, S	AX	Athletic Orange	3.26	T-Shirt	I-130802	P-3484	15.00	S (6-8)	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+CW05250-SH-M	1.00	12.00	6/12/15	Color of the Week, SH, M	SH	Safety Orange	0.91	T-Shirt	I-130802	P-14025	12.00	M	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+CWA980-CA-M	1.00	12.00	6/12/15	Color of the Week, CA, M	CA	Caribbean Blue	2.63	T-Shirt	I-130802	P-12144	12.00	M	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SPSL04PL-6A-M	1.00	15.00	6/12/15	Women's Plaid Dog, 6A, M	6A	Wow Pink	3.50	Specialty Prints	I-130802	P-1782	15.00	M	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD003616-TD-M	1.00	15.00	6/12/15	Junior Fit Tee-Tie Dye, TD, M	WH	Tie Dye	2.60	Specialty Prints	I-130802	P-3187	15.00	M	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SPNL6810-NP-L	1.00	17.00	6/12/15	Women's Slub Tee, NP, L	NP	Neon Pink	3.55	T-Shirt	I-130802	P-12916	17.00	L	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD00070LI	1.00	2.99	6/12/15	Can Holder - Lime	Lime	Lime	0.87	Product	I-130802	P-2249	2.99	OSFA	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD00831G	1.00	-2.00	6/12/15	FREE Bumper Sticker - Lead Dog			0.11	Product	I-130802	P-4022	-2.00		The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD00831WH	1.00	2.00	6/12/15	Bumper Sticker - White - Lead Dog	White	White	0.11	Product	I-130802	P-4023	2.00	Lead Dog	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+Free Party Cup	1.00	-1.25	6/12/15	FREE Party Cup - White			0.26	Markdowns	I-130802	P-4021	-1.25		The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD002202SD	1.00	1.25	6/12/15	Party Cup - White	White	White	0.30	Product	I-130802	P-2027	1.25	16 oz	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SDKOOZIEBL	1.00	2.99	6/12/15	Koozie - Foam - Blue	Blue	Blue	0.79	Product	I-130803	P-5615	2.99	OSFA	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD005186-WH-XL	1.00	20.00	6/12/15	Hanes Beefy L/S, WH, XL	WH	White	5.25	T-Shirt	I-130803	P-3465	20.00	XL	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD00T252-WH/NY-XL	1.00	25.00	6/12/15	Dri-Balance S/S-Mesh, WH/NY, XL	WH/NY	Navy/White	11.00	T-Shirt	I-130803	P-3934	25.00	XL	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SDETBTSB-CH-XL	1.00	17.00	6/12/15	Bamboo S/S, CH, XL	CH	Chill	6.50	T-Shirt	I-130803	P-12857	17.00	XL	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD002214-PI-L	1.00	16.00	6/12/15	Youth L/S, PI, L	PI	Pale Pink	3.57	T-Shirt	I-130804	P-2989	16.00	L (14-16)	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SDC79M - Khaki - L/XL	1.00	18.99	6/12/15	Hat - Sun Hat - Khaki - L/XL	Khaki	Khaki	8.75	Hat	I-130805	P-2657	18.99	L/XL	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SDC79M - Navy - L/XL	1.00	18.99	6/12/15	Hat - Sun Hat - Navy - L/XL	Navy	Navy	8.75	Hat	I-130805	P-2749	18.99	L/XL	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD00831G	1.00	-2.00	6/12/15	FREE Bumper Sticker - Lead Dog			0.11	Product	I-130806	P-4022	-2.00		The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD00831WH	1.00	2.00	6/12/15	Bumper Sticker - White - Lead Dog	White	White	0.11	Product	I-130806	P-4023	2.00	Lead Dog	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD003587-TE-S	1.00	18.00	6/12/15	V-Neck S/S, TE, S	TE	Teal	4.47	T-Shirt	I-130806	P-6003	18.00	S	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD00SL04-NY-S	1.00	17.00	6/12/15	Women's Classic Fit T, NY, S	NY	Navy	3.42	T-Shirt	I-130806	P-3880	17.00	S	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD003588-LB-S	1.00	19.00	6/12/15	Women's L/S, LB, S	LB	Light Blue	5.30	T-Shirt	I-130806	P-3158	19.00	S	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD0882L-AP-S	1.00	15.00	6/12/15	Tank Top - Women's, AP, S	AP	Apple	3.13	T-Shirt	I-130806	P-12757	15.00	S	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SPNL6810-NO-S	1.00	17.00	6/12/15	Women's Slub Tee, NO, S	NO	Neon Orange	3.55	T-Shirt	I-130806	P-12919	17.00	S	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SDIPAD-TD-Mini	1.00	15.00	6/12/15	Salty Dog Ipad Case, TD, Mini	Tie Dye		4.25	Product	I-130806	P-12038	15.00	Mini	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SPSL04PL-AB-2X	1.00	15.00	6/12/15	Women's Plaid Dog, AB, 2X	AB	Aquatic Blue	3.54	Specialty Prints	I-130807	P-1720	15.00	2X	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+BW5180SF1C-NY-2X	1.00	10.00	6/12/15	BW Sailfish S/S, NY, 2X	NY	Navy	3.22	Bluewater	I-130807	P-4725	10.00	2X	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SPSL04PL-6A-L	1.00	15.00	6/12/15	Women's Plaid Dog, 6A, L	6A	Wow Pink	3.50	Specialty Prints	I-130807	P-1663	15.00	L	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SDETBTSB-CH-M	1.00	17.00	6/12/15	Bamboo S/S, CH, M	CH	Chill	6.50	T-Shirt	I-130807	P-12859	17.00	M	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+689076894777	1.00	8.95	6/12/15	Story Book - Legend of Jake the Salty Dog	Hardcover	Hardcover	2.07	Product	I-130807	P-2322	8.95	32pg	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD00SL04-RO-L	1.00	17.00	6/12/15	Women's Classic Fit T, RO, L	RO	Deep Royal	3.45	T-Shirt	I-130808	P-3893	17.00	L	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SP3522VC-BK-L/XL	1.00	18.00	6/12/15	V-Neck Beach Cover-Up, BK, L/XL	BK	Black	6.20	Specialty Prints	I-130808	P-9018	18.00	L/XL	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD00B100-WH-6M	1.00	13.00	6/12/15	Infant Romper, WH, 3-6M	WH	White	4.04	Infant / Toddler	I-130808	P-6256	13.00	3-6M	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SP3522VC-HP-L/XL	1.00	18.00	6/12/15	V-Neck Beach Cover-Up, HP, L/XL	HP	Hot Pink	6.20	Specialty Prints	I-130808	P-9015	18.00	L/XL	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SDG7355-Coast-M	1.00	31.20	6/12/15	Hooded - Full Zip Lite, Coast, M (20% OFF Sweatshirts)	Coast	Coast	16.50	Outerwear	I-130809	P-12653	31.20	M	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00B807-HL-S	-1.00	-25.60	6/12/15	Jacket-Ladies Full-Zip, HL, S (20% OFF Sweatshirts)	HL	Heather	12.82	Outerwear	I-130809	P-3706	25.60	S	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD005012SC	1.00	5.99	6/12/15	License Plate - SC	White	White	1.33	Product	I-130810	P-2264	5.99	OSFA	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDE29MS1 - White - Adult	1.00	18.99	6/12/15	Hat - Performance - White - Adult	White	White	6.96	Hat	I-130810	P-2648	18.99	Adult	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDC79M - Khaki - S/M	1.00	18.99	6/12/15	Hat - Sun Hat - Khaki - S/M	Khaki	Khaki	8.76	Hat	I-130810	P-2716	18.99	S/M	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD004200-CA-L	1.00	5.00	6/12/15	Bandana - Camo	Camo	Camo	1.65	Specialty Items	I-130810	P-3229	5.00	L	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SP5180PD-RE-XL	1.00	12.00	6/12/15	Patriot Dog S/S, RE, XL	RE	Red	3.38	T-Shirt	I-130810	P-5810	12.00	XL	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD005180-AX-XL	1.00	17.00	6/12/15	Hanes Beefy S/S, AX, XL	AX	Athletic Orange	3.33	T-Shirt	I-130810	P-3295	17.00	XL	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD005180-YE-M	1.00	17.00	6/12/15	Hanes Beefy S/S, YE, M	YE	Yellow	3.40	T-Shirt	I-130810	P-3409	17.00	M	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD005180-YO-M	1.00	17.00	6/12/15	Hanes Beefy S/S, YO, M	YO	Carolina Blue	3.22	T-Shirt	I-130810	P-3415	17.00	M	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD000F19-RO-M	1.00	24.00	6/12/15	Flannel Pants, RO, M	RO	Royal/Gold	9.64	Shorts/Pants	I-130810	P-6440	24.00	M	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SP5180PD-RE-L	1.00	12.00	6/12/15	Patriot Dog S/S, RE, L	RE	Red	3.39	T-Shirt	I-130810	P-5813	12.00	L	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SP5180PD-RE-2X	1.00	12.00	6/12/15	Patriot Dog S/S, RE, 2X	RE	Red	5.09	T-Shirt	I-130810	P-5814	12.00	2X	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD2000TD-TD-2X	1.00	25.00	6/12/15	Tie-Dye L/S, TD, 2X	TD	Tie Dye	6.25	T-Shirt	I-130810	P-1925	25.00	2X	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00F260-NY-2X	1.00	24.00	6/12/15	Sweatshirt-Adult Crew, NY, 2X (20% OFF Sweatshirts)	NY	Navy	9.77	Sweatshirt	I-130810	P-3778	24.00	2X	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDETBTSB-CH-2X	1.00	17.00	6/12/15	Bamboo S/S, CH, 2X	CH	Chill	6.50	T-Shirt	I-130810	P-12861	17.00	2X	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00831G	1.00	-2.00	6/12/15	FREE Bumper Sticker - Lead Dog			0.11	Product	I-130810	P-4022	-2.00		The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00831WH	1.00	2.00	6/12/15	Bumper Sticker - White - Lead Dog	White	White	0.11	Product	I-130810	P-4023	2.00	Lead Dog	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+Free Party Cup	1.00	-1.25	6/12/15	FREE Party Cup - White			0.26	Markdowns	I-130810	P-4021	-1.25		The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD002202SD	1.00	1.25	6/12/15	Party Cup - White	White	White	0.30	Product	I-130810	P-2027	1.25	16 oz	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD005180-PR-XL	1.00	17.00	6/12/15	Hanes Beefy S/S, PR, XL	PR	Purple	3.41	T-Shirt	I-130811	P-3357	17.00	XL	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDC71PD5 - Navy - L/XL	1.00	15.99	6/12/15	Hat - Bucket - Navy - L/XL	Navy	Navy	5.92	Hat	I-130811	P-2725	15.99	L/XL	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDETBTSB-CH-XL	1.00	17.00	6/12/15	Bamboo S/S, CH, XL	CH	Chill	6.50	T-Shirt	I-130811	P-12857	17.00	XL	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD005180-RE-XL	1.00	17.00	6/12/15	Hanes Beefy S/S, RE, XL	RE	Red	3.40	T-Shirt	I-130811	P-3370	17.00	XL	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD005180-YO-XL	1.00	17.00	6/12/15	Hanes Beefy S/S, YO, XL	YO	Carolina Blue	3.46	T-Shirt	I-130811	P-3417	17.00	XL	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00F170-RE-2X	1.00	26.40	6/12/15	Hooded-Adult Hanes, RE, 2X (20% OFF Sweatshirts)	RE	Red	12.66	Sweatshirt	I-130812	P-3761	26.40	2X	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD2700-RE-2X	1.00	16.00	6/12/15	Tank Top-Shooter, RE, 2X	RE	Red	5.49	Tank Top	I-130812	P-11781	16.00	2X	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDORNAMENT-RO-OSFA	1.00	7.99	6/12/15	Christmas Ornament - Logo - Royal	RO	Royal	3.04	Specialty Items	I-130812	P-6304	7.99	OSFA	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00T252-WH/NY-2X	1.00	25.00	6/12/15	Dri-Balance S/S-Mesh, WH/NY, 2X	WH/NY	Navy/White	12.00	T-Shirt	I-130812	P-3930	25.00	2X	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDC71PD5 - Navy - L/XL	1.00	15.99	6/12/15	Hat - Bucket - Navy - L/XL	Navy	Navy	5.92	Hat	I-130812	P-2725	15.99	L/XL	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00CRCUSWI	1.00	4.99	6/12/15	Croakies - Wine	Wine	Wine	1.35	Product	I-130812	P-2307	4.99	OSFA	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD03099-SF-XL	1.00	19.00	6/12/15	Comfort Soft V-Neck, SF, XL	SF	Seafoam	4.55	T-Shirt	I-130812	P-13183	19.00	XL	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00831G	1.00	-2.00	6/12/15	FREE Bumper Sticker - Lead Dog			0.11	Product	I-130812	P-4022	-2.00		The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00831WH	1.00	2.00	6/12/15	Bumper Sticker - White - Lead Dog	White	White	0.11	Product	I-130812	P-4023	2.00	Lead Dog	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD001717-RC-XL	1.00	19.00	6/12/15	Comfort Soft S/S, RC, XL	RC	Royal Caribbean	4.21	T-Shirt	I-130813	P-2920	19.00	XL	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD000SN7-Water-$1	1.00	1.00	6/12/15	Snack, Water, $1	Water	Water	0.00	Misc	I-130814	P-13241	1.00	$1	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00255-Red-OSFA	1.00	2.50	6/12/15	Poker Chip, Red	Red	Red	0.85	Product	I-130815	P-13068	2.50	OSFA	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDC47PD4 - Bone/Black - Adult	1.00	16.99	6/12/15	Hat - Pigment Dyed - Bone/Black - Adult	Bone/Black	Bone/Black	5.00	Hat	I-130815	P-2704	16.99	Adult	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD0882L-HP-S	1.00	15.00	6/12/15	Tank Top - Women's, HP, S	HP	Hot Pink	3.13	T-Shirt	I-130815	P-12752	15.00	S	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00255-Blue-OSFA	1.00	2.50	6/12/15	Poker Chip, Blue	Blue	Blue	0.85	Product	I-130815	P-13067	2.50	OSFA	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+729173901197	1.00	3.99	6/12/15	Magnet - my Grand Dogs			1.25	Pet	I-130816	P-2154	3.99		The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDETBTSB-CH-M	1.00	17.00	6/12/15	Bamboo S/S, CH, M	CH	Chill	6.50	T-Shirt	I-130816	P-12859	17.00	M	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD005180-YE-S	1.00	17.00	6/12/15	Hanes Beefy S/S, YE, S	YE	Yellow	3.33	T-Shirt	I-130816	P-3410	17.00	S	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+BW5180TU-NY-L	1.00	12.00	6/12/15	BW Tuna S/S, NY, L	NY	Navy	3.38	Bluewater	I-130816	P-4667	12.00	L	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SP5180PD-NY-S	1.00	12.00	6/12/15	Patriot Dog S/S, NY, S	NY	Navy	3.39	T-Shirt	I-130817	P-1646	12.00	S	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00FF32-Yellow-OSFA	1.00	2.49	6/12/15	Key Chain - Floating Foam - Yellow	Yellow	Yellow	0.57	Product	I-130817	P-12478	2.49	OSFA	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+689076894272	1.00	19.99	6/12/15	Jake Stuffed Dog - Large	Black	Black	11.00	Product	I-130818	P-2188	19.99	L	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDC47PD4 - Sage - Adult	1.00	16.99	6/12/15	Hat - Pigment Dyed - Sage - Adult	Sage	Sage	5.01	Hat	I-130819	P-2705	16.99	Adult	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SP5380PD-RE-L	1.00	12.00	6/12/15	Youth Patriot Dog S/S, RE, L	RE	Red	3.11	Specialty Prints	I-130820	P-5855	12.00	L (14-16)	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SP5180PD-NY-M	1.00	12.00	6/12/15	Patriot Dog S/S, NY, M	NY	Navy	3.29	T-Shirt	I-130820	P-1792	12.00	M	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SP5180PD-RE-XL	1.00	12.00	6/12/15	Patriot Dog S/S, RE, XL	RE	Red	3.38	T-Shirt	I-130821	P-5810	12.00	XL	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SDG0907-Lipstick	1.00	14.00	6/12/15	Hat - Infant - Lipstick	Lipstick	Lipstick	7.19	Hat	I-130821	P-11115	14.00	OSFA	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+689076894777	1.00	8.95	6/12/15	Story Book - Legend of Jake the Salty Dog	Hardcover	Hardcover	2.07	Product	I-130821	P-2322	8.95	32pg	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+93597003004	1.00	12.99	6/12/15	Tervis - 16 oz Tumbler - SD Logo	Clear	Clear	7.73	Product	I-130821	P-2140	12.99	16 oz	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD0030176ON	1.00	2.50	6/12/15	Fridge Clip - Orange	Orange	Orange	1.05	Product	I-130821	P-2319	2.50	OSFA	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD0M1276CO	1.00	6.99	6/12/15	Bistro Mug - Cobalt - 16 oz	Cobalt	Cobalt	2.71	Product	I-130821	P-2157	6.99	16 oz	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD003607-Heather-XL	1.00	18.00	6/12/15	V-Neck S/S Junior Fit,, Heather, XL	Heather	Heather	3.09	T-Shirt	I-130822	P-5657	18.00	XL	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDETBTSB-CH-S	1.00	17.00	6/12/15	Bamboo S/S, CH, S	CH	Chill	6.50	T-Shirt	I-130822	P-12858	17.00	S	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00T042BL-BL-OSFA	1.00	3.99	6/12/15	Playing Cards, Blue	Blue	Blue	1.97	Product	I-130823	P-2326	3.99	OSFA	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+CW05250-LB-XL	1.00	12.00	6/12/15	Color of the Week, LB, XL	LB	Light Blue	4.14	T-Shirt	I-130823	P-13760	12.00	XL	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+BW5180SFC-LW-XL	1.00	12.00	6/12/15	BW Sailfish Chart S/S, LW, XL	LW	Light Steel	3.23	Bluewater	I-130823	P-12367	12.00	XL	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+CWG5000-184C-XL	1.00	12.00	6/12/15	Color of the Week, 184C, XL	184C	Coral Silk	1.76	T-Shirt	I-130823	P-13819	12.00	XL	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+CWG5000-7706C-2X	1.00	12.00	6/12/15	Color of the Week, 7706C, 2X	7706C	Antique Saphire	3.44	T-Shirt	I-130823	P-13739	12.00	2X	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+BW6901SFC-CH-2X	1.00	12.00	6/12/15	BW Sailfish Chart S/S, CH, 2X	CH	Chill	3.75	Bluewater	I-130823	P-12376	12.00	2X	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD3001C-TE-S	1.00	12.00	6/12/15	Color of the Week, Teal, S	Teal	Teal	2.89	T-Shirt	I-130824	P-12971	12.00	S	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+CWA980-KL-S	1.00	12.00	6/12/15	Color of the Week, KL, S	KL		2.64	T-Shirt	I-130824	P-12798	12.00	S	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD005180-CD-XL	1.00	17.00	6/12/15	Hanes Beefy S/S, CD, XL	CD	Cardinal	3.38	T-Shirt	I-130824	P-3308	17.00	XL	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+CW05250-PF-XL	1.00	12.00	6/12/15	Color of the Week, PF, XL	PF	Palace Blue	1.36	T-Shirt	I-130825	P-13371	12.00	XL	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD003587-IR-M	1.00	18.00	6/12/15	V-Neck S/S, IR, M	IR	Iris	4.47	T-Shirt	I-130825	P-5999	18.00	M	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD005380-RO-S	1.00	15.00	6/12/15	Youth Beefy S/S, RO, S	RO	Deep Royal	3.29	T-Shirt	I-130825	P-3528	15.00	S (6-8)	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD005380-RO-M	1.00	15.00	6/12/15	Youth Beefy S/S, RO, M	RO	Deep Royal	3.15	T-Shirt	I-130825	P-3527	15.00	M (10-12)	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD005180-PS-L	1.00	17.00	6/12/15	Hanes Beefy S/S, PS, L	PS	Pink	3.33	T-Shirt	I-130826	P-3360	17.00	L	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD005180-RO-M	1.00	17.00	6/12/15	Hanes Beefy S/S, RO, M	RO	Deep Royal	3.38	T-Shirt	I-130826	P-3376	17.00	M	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+BW5180SF4C-WH-M	1.00	12.00	6/12/15	BW Sailfish 4C S/S, WH, M	WH	White	2.50	Bluewater	I-130826	P-4621	12.00	M	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD005180-RE-M	1.00	17.00	6/12/15	Hanes Beefy S/S, RE, M	RE	Red	3.31	T-Shirt	I-130826	P-3368	17.00	M	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+BW5180AL-WE-2X	1.00	12.00	6/12/15	BW Alligator S/S, WE, 2X	WE	Stonewashed Green	5.49	Bluewater	I-130827	P-6151	12.00	2X	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SP5380PD-NY-XS	1.00	12.00	6/12/15	Youth Patriot Dog S/S, NY, XS	NY	Navy	3.37	Specialty Prints	I-130827	P-1767	12.00	XS (2-4)	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SP5380PD-NY-S	1.00	12.00	6/12/15	Youth Patriot Dog S/S, NY, S	NY	Navy	3.37	Specialty Prints	I-130827	P-1606	12.00	S (6-8)	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+BW5180SFC-LW-2X	1.00	12.00	6/12/15	BW Sailfish Chart S/S, LW, 2X	LW	Light Steel	4.85	Bluewater	I-130827	P-12371	12.00	2X	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+BW5186SF1C-RE-2X	1.00	17.00	6/12/15	BW Sailfish L/S, RE, 2X	RE	Red	7.01	Bluewater	I-130827	P-4754	17.00	2X	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD002202SD	6.00	6.78	6/12/15	Party Cup - White (10% OFF Drinkware)	White	White	0.30	Product	I-130827	P-2027	1.13	16 oz	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00831G	1.00	-2.00	6/12/15	FREE Bumper Sticker - Lead Dog			0.11	Product	I-130828	P-4022	-2.00		The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00831WH	1.00	2.00	6/12/15	Bumper Sticker - White - Lead Dog	White	White	0.11	Product	I-130828	P-4023	2.00	Lead Dog	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+CWA980-CA-2X	1.00	12.00	6/12/15	Color of the Week, CA, 2X	CA	Caribbean Blue	4.93	T-Shirt	I-130828	P-12147	12.00	2X	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+CWG5000-184C-2X	1.00	12.00	6/12/15	Color of the Week, 184C, 2X	184C	Coral Silk	3.44	T-Shirt	I-130828	P-13820	12.00	2X	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+37355001956	1.00	6.99	6/12/15	Cookbook - Lighthouse			2.80	Product	I-130828	P-2238	6.99		The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+729173900954	1.00	3.99	6/12/15	Magnet - Goldens			1.25	Pet	I-130828	P-2211	3.99		The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+729173900954	1.00	3.99	6/12/15	Magnet - Goldens			1.25	Pet	I-130828	P-2211	3.99		The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+433020095	1.00	6.99	6/12/15	Doggie Bites - Peanut Butter - 10.5 oz	Peanut Butter	Peanut Butter	2.74	Pet	I-130828	P-3979	6.99	10.5 oz	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD2700-NY-2X	1.00	16.00	6/12/15	Tank Top-Shooter, NY, 2X	NY	Navy	5.41	Tank Top	I-130828	P-11789	16.00	2X	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDDAKOTA-TD-2X	1.00	29.00	6/12/15	Dakota Rae Tie Dye S/S, TD, 2X	TD	Tie Dye	15.40	T-Shirt	I-130828	P-14009	29.00	2X	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDJFI03R-Navy-Adult	1.00	16.99	6/12/15	Hat - Polyester Mesh - Navy - Adult	Navy	Navy	3.48	Hat	I-130828	P-12967	16.99	Adult	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00T252-RO/WH-2X	1.00	25.00	6/12/15	Dri-Balance S/S-Mesh, RO/WH, 2X	RO/WH	Roya/WH	12.00	T-Shirt	I-130829	P-3925	25.00	2X	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDKOOZIERE	1.00	2.99	6/12/15	Koozie - Foam - Red	Red	Red	0.80	Product	I-130829	P-5616	2.99	OSFA	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDKOOZIEBL	1.00	2.99	6/12/15	Koozie - Foam - Blue	Blue	Blue	0.79	Product	I-130829	P-5615	2.99	OSFA	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00IFR3BL	5.00	8.95	6/12/15	Coaster - Blue Neoprene (10% OFF Drinkware)	Blue	Blue	0.57	Product	I-130830	P-2134	1.79	OSFA	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD001023SBL	5.00	15.75	6/12/15	Bubble Cup - Blue - 12 oz (10% OFF Drinkware)	Blue	Blue	1.32	Product	I-130830	P-2064	3.15	12 oz	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD0TAFFYASBG	1.00	6.99	6/12/15	Taffy - Assorted - 12 oz 	Assorted	Assorted	1.85	Product	I-130830	P-2127	6.99	12 oz	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD008TCALL	1.00	1.99	6/12/15	Lip Balm - Tropical	Tropical	Tropical	0.40	Product	I-130830	P-2276	1.99	OSFA	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDG7355-Coast-XL	1.00	31.20	6/12/15	Hooded - Full Zip Lite, Coast, XL (20% OFF Sweatshirts)	Coast	Coast	16.50	Outerwear	I-130830	P-12652	31.20	XL	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD0TAFFYASBG	1.00	6.99	6/12/15	Taffy - Assorted - 12 oz 	Assorted	Assorted	1.85	Product	I-130830	P-2127	6.99	12 oz	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+BW5180SK-DM-M	-1.00	-12.00	6/12/15	BW Shark S/S, DM, M	DM	Denim	3.30	Bluewater	I-130831	P-4655	12.00	M	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SP5180LY-LW-L	1.00	15.00	6/12/15	Loyal Forever S/S, LW, L	LW	Light Steel	3.12	Specialty Prints	I-130831	P-1639	15.00	L	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDC47PD4 - Sage - Adult	1.00	16.99	6/12/15	Hat - Pigment Dyed - Sage - Adult	Sage	Sage	5.01	Hat	I-130832	P-2705	16.99	Adult	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00SL04-NY-L	1.00	17.00	6/12/15	Women's Classic Fit T, NY, L	NY	Navy	3.41	T-Shirt	I-130832	P-3878	17.00	L	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00T139	1.00	4.99	6/12/15	Pint Glass - 16oz	Clear	Clear	0.82	Product	I-130833	P-2071	4.99	16 oz	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD000775-GR-S	1.00	5.00	6/12/15	Bandana - Small - Green	Green	Green	0.53	Specialty Items	I-130833	P-3587	5.00	S	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SPNL6810-NO-M	1.00	17.00	6/12/15	Women's Slub Tee, NO, M	NO	Neon Orange	3.55	T-Shirt	I-130834	P-12920	17.00	M	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD006030-IR-S	1.00	19.00	6/12/15	Comfort Soft S/S-Pocket, IR, S	IR	Island Reef	4.78	T-Shirt	I-130835	P-12903	19.00	S	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+CWA980-CA-L	1.00	12.00	6/12/15	Color of the Week, CA, L	CA	Caribbean Blue	2.60	T-Shirt	I-130836	P-12145	12.00	L	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+CWG5000-348C-L	1.00	12.00	6/12/15	Color of the Week, 348C, L	348C	Antique Irish Green	2.20	T-Shirt	I-130836	P-13735	12.00	L	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SP5380PD-NY-M	1.00	12.00	6/12/15	Youth Patriot Dog S/S, NY, M	NY	Navy	3.37	Specialty Prints	I-130836	P-1768	12.00	M (10-12)	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD005380-6A-L	1.00	15.00	6/12/15	Youth Beefy S/S, 6A, L	6A	Wow Pink	2.62	T-Shirt	I-130836	P-3478	15.00	L (14-16)	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD00070RE	1.00	2.99	6/12/15	Can Holder - Red	Red	Red	0.74	Product	I-130836	P-2165	2.99	OSFA	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD00070KG	1.00	2.99	6/12/15	Can Holder - Kelly Green	Kelly Green	Kelly Green	0.85	Product	I-130836	P-6018	2.99	OSFA	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+04918202	1.00	0.93	6/12/15	Beverage - 8 oz, Coke			0.51	Bluewater	I-130837	P-4862	0.93		The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SP5180PD-NY-L	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.27	T-Shirt	I-130839	P-1645	12.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD006014-LG-2X	1.00	22.00	6/12/15	Comfort Soft L/S, LG, 2X	LG	Light Green	8.42	T-Shirt	I-130840	P-3551	22.00	2X	The Salty Dog - HHI, SC	Mackenzie M.	Arrow Road 1	6/12/15
+SD00024STK	1.00	1.00	6/12/15	Salty Dog Decal Sticker, 3in, Clear	Clear	Clear	0.25	Product	I-130840	P-12933	1.00	3in	The Salty Dog - HHI, SC	Mackenzie M.	Arrow Road 1	6/12/15
+SD00832WHDLL	1.00	0.99	6/12/15	Sticker - Heart - Large	Heart	Heart	0.69	Product	I-130840	P-2360	0.99	OSFA	The Salty Dog - HHI, SC	Mackenzie M.	Arrow Road 1	6/12/15
+SDDD2135-RO-OSFA	1.00	6.99	6/12/15	Drawstring Duffle - Royal	Royal	Royal	2.70	Product	I-130840	P-6375	6.99	OSFA	The Salty Dog - HHI, SC	Mackenzie M.	Arrow Road 1	6/12/15
+SPNL6810-NO-S	1.00	17.00	6/12/15	Women's Slub Tee, NO, S	NO	Neon Orange	3.55	T-Shirt	I-130840	P-12919	17.00	S	The Salty Dog - HHI, SC	Mackenzie M.	Arrow Road 1	6/12/15
+SP3522VC-HP-2X/3X	1.00	18.00	6/12/15	V-Neck Beach Cover-Up, HP, 2X/3X	HP	Hot Pink	7.00	Specialty Prints	I-130840	P-9016	18.00	2X/3X	The Salty Dog - HHI, SC	Mackenzie M.	Arrow Road 1	6/12/15
+SD005180-WH-XL	1.00	10.00	6/12/15	Hanes Beefy S/S, WH, XL	WH	White	2.95	T-Shirt	I-130841	P-3405	10.00	XL	The Salty Dog - HHI, SC	Mackenzie M.	Arrow Road 1	6/12/15
+CW05250-PF-XL	1.00	12.00	6/12/15	Color of the Week, PF, XL	PF	Palace Blue	1.36	T-Shirt	I-130841	P-13371	12.00	XL	The Salty Dog - HHI, SC	Mackenzie M.	Arrow Road 1	6/12/15
+SD005180-WH-L	1.00	10.00	6/12/15	Hanes Beefy S/S, WH, L	WH	White	2.55	T-Shirt	I-130841	P-3402	10.00	L	The Salty Dog - HHI, SC	Mackenzie M.	Arrow Road 1	6/12/15
+SD005186-PI-M	1.00	20.00	6/12/15	Hanes Beefy L/S, PI, M	PI	Pale Pink	6.32	T-Shirt	I-130841	P-3445	20.00	M	The Salty Dog - HHI, SC	Mackenzie M.	Arrow Road 1	6/12/15
+CW05250-PF-XL	1.00	12.00	6/12/15	Color of the Week, PF, XL	PF	Palace Blue	1.36	T-Shirt	I-130841	P-13371	12.00	XL	The Salty Dog - HHI, SC	Mackenzie M.	Arrow Road 1	6/12/15
+SP5180PD-RE-M	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	3.21	T-Shirt	I-130842	P-5812	12.00	M	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180SP-KG-M	1.00	15.00	6/12/15	St. Patty's Dog S/S	KG	Kelly Green	3.52	T-Shirt	I-130842	P-1583	15.00	M	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD00CRCUSRO	1.00	4.99	6/12/15	Croakies - Royal	Royal	Royal	1.35	Product	I-130843	P-2250	4.99	OSFA	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00CRCUSBK	1.00	4.99	6/12/15	Croakies - Black	Black	Black	1.34	Product	I-130843	P-2072	4.99	OSFA	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00CRCUSWI	1.00	4.99	6/12/15	Croakies - Wine	Wine	Wine	1.35	Product	I-130843	P-2307	4.99	OSFA	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+008764105139	1.00	3.99	6/12/15	Magnet - my Crazy Dogs			1.25	Pet	I-130843	P-10670	3.99		The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00CRCUSRO	1.00	4.99	6/12/15	Croakies - Royal	Royal	Royal	1.35	Product	I-130843	P-2250	4.99	OSFA	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SD00CRCUSRE	1.00	4.99	6/12/15	Croakies - Red	Red	Red	1.35	Product	I-130843	P-2057	4.99	OSFA	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SP5380PD-NY-L	1.00	12.00	6/12/15	Youth Patriot Dog S/S, NY, L	NY	Navy	3.37	Specialty Prints	I-130844	P-1465	12.00	L (14-16)	The Salty Dog - HHI, SC	Mackenzie M.	Arrow Road 1	6/12/15
+SD002202-St. Pattys-16 oz	4.00	4.52	6/12/15	Party Cup, St. Pattys, 16 oz (10% OFF Drinkware)	St. Pattys	St. Pattys	0.30	Product	I-130844	P-13365	1.13	16 oz	The Salty Dog - HHI, SC	Mackenzie M.	Arrow Road 1	6/12/15
+SD0STCKRCO	1.00	2.99	6/12/15	Sticker - Cut Out - HHI	Hilton Head	Hilton Head	1.50	Product	I-130844	P-12613	2.99		The Salty Dog - HHI, SC	Mackenzie M.	Arrow Road 1	6/12/15
+SD00070NY	1.00	2.99	6/12/15	Can Holder - Navy	Navy	Navy	0.84	Product	I-130844	P-2155	2.99	OSFA	The Salty Dog - HHI, SC	Mackenzie M.	Arrow Road 1	6/12/15
+SP5180PD-RE-XL	1.00	12.00	6/12/15	Patriot Dog S/S, RE, XL	RE	Red	3.38	T-Shirt	I-130844	P-5810	12.00	XL	The Salty Dog - HHI, SC	Mackenzie M.	Arrow Road 1	6/12/15
+SP5180PD-NY-L	1.00	12.00	6/12/15	Patriot Dog S/S, NY, L	NY	Navy	3.27	T-Shirt	I-130844	P-1645	12.00	L	The Salty Dog - HHI, SC	Mackenzie M.	Arrow Road 1	6/12/15
+SD33099-MB-S	1.00	19.00	6/12/15	Women's Comfort Soft V-Neck, MB, S	MB	Mystic Blue	2.54	T-Shirt	I-130845	P-13983	19.00	S	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD3001C-TE-S	1.00	12.00	6/12/15	Color of the Week, Teal, S	Teal	Teal	2.89	T-Shirt	I-130846	P-12971	12.00	S	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SDETBTSB-RO-S	1.00	17.00	6/12/15	Bamboo S/S, RO, S	RO	Deep Royal	7.12	T-Shirt	I-130846	P-3745	17.00	S	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SDJKDOGBKSM	1.00	9.99	6/12/15	Jake Stuffed Dog - Small	Black	Black	4.72	Product	I-130847	P-2040	9.99	S	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD00SL04-TE-S	1.00	17.00	6/12/15	Women's Classic Fit T, TE, S	TE	Teal	3.23	T-Shirt	I-130847	P-11402	17.00	S	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD00DFDRE	1.00	3.99	6/12/15	Dog Bowl - Red - Plastic	Red	Red	1.15	Pet	I-130847	P-2210	3.99	OSFA	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SPNL6810-TQ-M	-1.00	-17.00	6/12/15	Women's Slub Tee, TQ, M	TQ	Turquoise	3.55	T-Shirt	I-130848	P-12909	17.00	M	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	
+SPNL6810-TQ-L	1.00	17.00	6/12/15	Women's Slub Tee, TQ, L	TQ	Turquoise	3.55	T-Shirt	I-130848	P-12910	17.00	L	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	
+SDJKDOGBKSM	1.00	9.99	6/12/15	Jake Stuffed Dog - Small	Black	Black	4.72	Product	I-130849	P-2040	9.99	S	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+660048182009	1.00	10.99	6/12/15	Chuck It - Boomerang		Boomerang	5.63	Pet	I-130849	P-2432	10.99		The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SDW508WH	1.00	2.50	6/12/15	Rubber Ball - White	White	White	0.90	Product	I-130849	P-2287	2.50	OSFA	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SPSL04PL-6A-2X	1.00	15.00	6/12/15	Women's Plaid Dog, 6A, 2X	6A	Wow Pink	3.51	Specialty Prints	I-130850	P-1783	15.00	2X	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD00831G	1.00	-2.00	6/12/15	FREE Bumper Sticker - Lead Dog			0.11	Product	I-130850	P-4022	-2.00		The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD02296-NY-M	1.00	16.80	6/12/15	Youth - Hooded Pullover, NY, M (20% OFF Sweatshirts)	NY	Navy	6.90	Sweatshirt	I-130850	P-10734	16.80	M (10-12)	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD00831WH	1.00	2.00	6/12/15	Bumper Sticker - White - Lead Dog	White	White	0.11	Product	I-130850	P-4023	2.00	Lead Dog	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SDDAKOTA-TD-2X	1.00	29.00	6/12/15	Dakota Rae Tie Dye S/S, TD, 2X	TD	Tie Dye	15.40	T-Shirt	I-130850	P-14009	29.00	2X	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD1000YTD-BJ-S	1.00	20.00	6/12/15	Youth Tie Dye S/S, BJ, S	BJ	Blue Jerry	4.25	T-Shirt	I-130850	P-2797	20.00	S (6-8)	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD00SL04-RE-2X	1.00	17.00	6/12/15	Women's Classic Fit T, RE, 2X	RE	Red	4.58	T-Shirt	I-130850	P-3887	17.00	2X	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SDDAKOTA-TD-XL	1.00	29.00	6/12/15	Dakota Rae Tie Dye S/S, TD, XL	TD	Tie Dye	14.04	T-Shirt	I-130850	P-14008	29.00	XL	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+KW5180CB-NY-XL	1.00	15.00	6/12/15	Key West - Cuba S/S, NY, XL	NY	Navy	3.22	Wholesale	I-130851	P-12611	15.00	XL	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SDDAKOTA-TD-L	1.00	29.00	6/12/15	Dakota Rae Tie Dye S/S, TD, L	TD	Tie Dye	14.04	T-Shirt	I-130851	P-14007	29.00	L	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD006014-LG-2X	1.00	22.00	6/12/15	Comfort Soft L/S, LG, 2X	LG	Light Green	8.42	T-Shirt	I-130852	P-3551	22.00	2X	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD003588-BK-XL	1.00	19.00	6/12/15	Women's L/S, BK, XL	BK	Black	5.23	T-Shirt	I-130852	P-3139	19.00	XL	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD33099-MG-XL	1.00	19.00	6/12/15	Women's Comfort Soft V-Neck, MG, XL	MG	Mango	4.40	T-Shirt	I-130852	P-13198	19.00	XL	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SP9030LE-BL-2X	1.00	15.00	6/12/15	Land's End S/S, BL, 2X	BL	Blue	5.19	T-Shirt	I-130852	P-12766	15.00	2X	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SDETBTSB-ON-L	-1.00	-17.00	6/12/15	Bamboo S/S, ON, L	ON	Orange	7.00	T-Shirt	I-130853	P-12074	17.00	L	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	
+SDETBTSB-ON-XL	1.00	17.00	6/12/15	Bamboo S/S, ON, XL	ON	Orange	7.12	T-Shirt	I-130853	P-12075	17.00	XL	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	
+SD00P360-WH-M	1.00	14.40	6/12/15	Youth Sweatshirt, WH, M (20% OFF Sweatshirts)	WH	White	5.06	Sweatshirt	I-130854	P-3847	14.40	M (10-12)	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD0A986-NY-M	1.00	15.00	6/12/15	Tank Top - Men's, NY, M	NY	Navy	4.00	T-Shirt	I-130854	P-12626	15.00	M	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD00SL04-WH-S	1.00	10.00	6/12/15	Women's Classic Fit T, WH, S	WH	White	2.86	T-Shirt	I-130854	P-3900	10.00	S	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD004200-ON-L	1.00	5.00	6/12/15	Bandana - Large - Orange	Orange	Orange	0.86	Specialty Items	I-130854	P-3232	5.00	L	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD006030-CY-L	1.00	19.00	6/12/15	Comfort Soft S/S-Pocket, CY, L	CY	Chambray	4.78	T-Shirt	I-130854	P-11662	19.00	L	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+CWG2000-431C-S	1.00	12.00	6/12/15	Color of the Week, 431C, S	431C	Heather Indigo	0.92	T-Shirt	I-130855	P-13821	12.00	S	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD081V-Black/Blue-M	1.00	18.00	6/12/15	SOFFE - Athletic Shorts, Black/Pink/Blue, M	Black/Pink/Blue	Black/Pink/Blue	5.18	Shorts/Pants	I-130855	P-11409	18.00	M	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD8872HZ-RO-S	1.00	28.80	6/12/15	Hooded-Full Zip, RO, S (20% OFF Sweatshirts)	RO	Royal	11.84	Sweatshirt	I-130855	P-6289	28.80	S	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SP5380PD-NY-L	1.00	12.00	6/12/15	Youth Patriot Dog S/S, NY, L	NY	Navy	3.37	Specialty Prints	I-130855	P-1465	12.00	L (14-16)	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD005180-WH-S	1.00	10.00	6/12/15	Hanes Beefy S/S, WH, S	WH	White	2.58	T-Shirt	I-130855	P-3404	10.00	S	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD08836-Neon Pink-M	1.00	30.40	6/12/15	Women's V Hoody, Neon Pink, M (20% OFF Sweatshirts)	Neon Pink	Neon Pink	15.40	Sweatshirt	I-130855	P-13287	30.40	M	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+CWA980-KL-S	1.00	12.00	6/12/15	Color of the Week, KL, S	KL		2.64	T-Shirt	I-130855	P-12798	12.00	S	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD00831G	1.00	-2.00	6/12/15	FREE Bumper Sticker - Lead Dog			0.11	Product	I-130855	P-4022	-2.00		The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD00831WH	1.00	2.00	6/12/15	Bumper Sticker - White - Lead Dog	White	White	0.11	Product	I-130855	P-4023	2.00	Lead Dog	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SDT114SBBL	1.00	3.99	6/12/15	Shotglass - Clear/Blue - 1 3/4 oz	Clear/Blue	Clear/Blue	1.50	Product	I-130856	P-2025	3.99	1 3/4 oz	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD003587-KL-2X	1.00	18.00	6/12/15	V-Neck S/S, KL, 2X	KL	Key Lime	5.47	T-Shirt	I-130856	P-3130	18.00	2X	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD00T120BBL	1.00	3.99	6/12/15	Shotglass - Blue	Blue	Blue	2.00	Product	I-130856	P-2149	3.99	1 3/4 oz	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD00T120BBL	1.00	3.99	6/12/15	Shotglass - Blue	Blue	Blue	2.00	Product	I-130856	P-2149	3.99	1 3/4 oz	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD0882L-AP-XL	1.00	15.00	6/12/15	Tank Top - Women's, AP, XL	AP	Apple	0.88	T-Shirt	I-130856	P-12756	15.00	XL	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SDNTRTAD-NB-XL	1.00	15.00	6/12/15	Tank Top - Simple Dog, NB, XL	NB	Neon Blue	4.89	Tank Top	I-130856	P-13996	15.00	XL	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD00FF32-Yellow-OSFA	1.00	2.49	6/12/15	Key Chain - Floating Foam - Yellow	Yellow	Yellow	0.57	Product	I-130856	P-12478	2.49	OSFA	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SDMGCS30LOGO	1.00	1.50	6/12/15	Magnet - Logo - Logo			0.36	Product	I-130856	P-2074	1.50		The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SP3480-TE-XL	1.00	15.00	6/12/15	Tank Top - Dog Days of Summer, TE, XL	TE	Teal	3.79	Specialty	I-130856	P-12814	15.00	XL	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD002202RE	1.00	1.13	6/12/15	Party Cup - Red (10% OFF Drinkware)	Red	Red	0.27	Product	I-130857	P-2208	1.13	16 oz	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD004200-GR-L	1.00	5.00	6/12/15	Bandana - Large - Green	Green	Green	0.78	Specialty Items	I-130857	P-3230	5.00	L	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD001023SBL	1.00	3.15	6/12/15	Bubble Cup - Blue - 12 oz (10% OFF Drinkware)	Blue	Blue	1.32	Product	I-130857	P-2064	3.15	12 oz	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD001023SBL	1.00	3.15	6/12/15	Bubble Cup - Blue - 12 oz (10% OFF Drinkware)	Blue	Blue	1.32	Product	I-130857	P-2064	3.15	12 oz	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD001023SBL	1.00	3.15	6/12/15	Bubble Cup - Blue - 12 oz (10% OFF Drinkware)	Blue	Blue	1.32	Product	I-130857	P-2064	3.15	12 oz	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD002202-St. Pattys-16 oz	1.00	1.13	6/12/15	Party Cup, St. Pattys, 16 oz (10% OFF Drinkware)	St. Pattys	St. Pattys	0.30	Product	I-130857	P-13365	1.13	16 oz	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD002202-St. Pattys-16 oz	1.00	1.13	6/12/15	Party Cup, St. Pattys, 16 oz (10% OFF Drinkware)	St. Pattys	St. Pattys	0.30	Product	I-130857	P-13365	1.13	16 oz	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD00SL04-YO-M	1.00	17.00	6/12/15	Women's Classic Fit T, YO, M	YO	Carolina Blue	3.33	T-Shirt	I-130858	P-3904	17.00	M	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD0015277BL	1.00	9.99	6/12/15	Playground Ball - Blue	Blue	Blue	5.40	Product	I-130858	P-2038	9.99	OSFA	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD0015277BL	1.00	9.99	6/12/15	Playground Ball - Blue	Blue	Blue	5.40	Product	I-130858	P-2038	9.99	OSFA	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD0882L-HP-M	1.00	15.00	6/12/15	Tank Top - Women's, HP, M	HP	Hot Pink	3.13	T-Shirt	I-130858	P-12753	15.00	M	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD00CRCUSRO	1.00	4.99	6/12/15	Croakies - Royal	Royal	Royal	1.35	Product	I-130859	P-2250	4.99	OSFA	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SDW508BL	1.00	2.50	6/12/15	Rubber Ball - Blue	Blue	Blue	0.90	Product	I-130859	P-2142	2.50	OSFA	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SDTEMPTATT	4.00	1.00	6/12/15	Tattoo - Temporary - Jake			0.08	Product	I-130859	P-5875	0.25		The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SP5180RD-WH-XL	1.00	15.00	6/12/15	Retro Dog S/S	WH	White	2.35	T-Shirt	I-130860	P-1486	15.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-XL	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	3.38	T-Shirt	I-130860	P-5810	12.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD005180-FT-XL	1.00	17.00	6/12/15	Hanes Beefy S/S	FT	Fatigue Green	2.96	T-Shirt	I-130860	P-10824	17.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD005180-AX-XL	1.00	17.00	6/12/15	Hanes Beefy S/S	AX	Athletic Orange	3.33	T-Shirt	I-130861	P-3295	17.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD005180-YO-XL	1.00	17.00	6/12/15	Hanes Beefy S/S	YO	Carolina Blue	3.46	T-Shirt	I-130861	P-3417	17.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+CW05250-4C-XL	1.00	12.00	6/12/15	Color of the Week, 4C, XL	4C	Twilight Blue	1.82	T-Shirt	I-130862	P-14022	12.00	XL	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+689076894470	1.00	5.99	6/12/15	Mini Jake w/ Clip - Black	Jake	Jake	3.79	Product	I-130862	P-2042	5.99	Mini	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD0015277BL	1.00	9.99	6/12/15	Playground Ball - Blue	Blue	Blue	5.40	Product	I-130862	P-2038	9.99	OSFA	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+689076894777	1.00	8.95	6/12/15	Story Book - Legend of Jake the Salty Dog	Hardcover	Hardcover	2.07	Product	I-130862	P-2322	8.95	32pg	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD005180-LW-XL	1.00	17.00	6/12/15	Hanes Beefy S/S	LW	Light Steel	3.22	T-Shirt	I-130863	P-3339	17.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SDDOGGIE5	1.00	5.00	6/12/15	Doggie Deal			0.00	Markdowns	I-130864	P-4263	5.00		The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD001717-RC-S	1.00	19.00	6/12/15	Comfort Soft S/S	RC	Royal Caribbean	4.10	T-Shirt	I-130865	P-2919	19.00	S	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-S	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.39	T-Shirt	I-130866	P-1646	12.00	S	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-XL	1.00	12.00	6/12/15	Patriot Dog S/S, RE, XL	RE	Red	3.38	T-Shirt	I-130868	P-5810	12.00	XL	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD005180-PS-M	1.00	17.00	6/12/15	Hanes Beefy S/S	PS	Pink	3.38	T-Shirt	I-130869	P-3361	17.00	M	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD005180-WH-XL	1.00	17.00	6/12/15	Hanes Beefy S/S	WH	White	2.95	T-Shirt	I-130869	P-3405	17.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD005180-AB-XL	1.00	17.00	6/12/15	Hanes Beefy S/S	AB	Aquatic Blue	3.39	T-Shirt	I-130869	P-3288	17.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-S	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.39	T-Shirt	I-130870	P-1646	12.00	S	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-S	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	3.38	T-Shirt	I-130870	P-5811	12.00	S	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+8498420745	2.00	5.98	6/12/15	Golf Ball - White	White	White	0.96	Product	I-130871	P-2301	2.99	OSFA	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD000522BL	2.00	5.98	6/12/15	Bracelet - HHI - Glitter		Blue	0.82	Product	I-130871	P-4066	2.99		The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SDETBTSB-CH-M	1.00	17.00	6/12/15	Bamboo S/S, CH, M	CH	Chill	6.50	T-Shirt	I-130872	P-12859	17.00	M	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SDETBTSB-RO-L	1.00	17.00	6/12/15	Bamboo S/S, RO, L	RO	Deep Royal	6.55	T-Shirt	I-130872	P-3743	17.00	L	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD003587-CO-2X	1.00	18.00	6/12/15	V-Neck S/S	CO	Coral	5.32	T-Shirt	I-130873	P-3125	18.00	2X	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-2X	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	5.09	T-Shirt	I-130873	P-5814	12.00	2X	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP3522VC-BK-2X/3X	1.00	18.00	6/12/15	V-Neck Beach Cover-Up	BK	Black	7.00	Specialty Prints	I-130873	P-9019	18.00	2X/3X	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD005180-LW-3X	1.00	17.00	6/12/15	Hanes Beefy S/S	LW	Light Steel	5.15	T-Shirt	I-130874	P-3334	17.00	3X	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SDNTRTAD-NB-S	1.00	15.00	6/12/15	Tank Top - Simple Dog, NB, S	NB	Neon Blue	4.89	Tank Top	I-130875	P-13993	15.00	S	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD0A986-WH-L	1.00	15.00	6/12/15	Tank Top - Men's, WH, L	WH	White	3.25	T-Shirt	I-130875	P-12619	15.00	L	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD005180-TE-XL	1.00	17.00	6/12/15	Hanes Beefy S/S	TE	Teal	3.36	T-Shirt	I-130876	P-3386	17.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-M	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	3.21	T-Shirt	I-130876	P-5812	12.00	M	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD005180-NY-L	1.00	17.00	6/12/15	Hanes Beefy S/S	NY	Navy	3.23	T-Shirt	I-130877	P-3343	17.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD005180-DM-2X	1.00	17.00	6/12/15	Hanes Beefy S/S	DM	Denim Blue	4.23	T-Shirt	I-130877	P-10825	17.00	2X	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD004200-BK-L	1.00	5.00	6/12/15	Bandana - Large - Black	Black	Black	0.90	Specialty Items	I-130878	P-3226	5.00	L	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SDETBTSB-CH-L	1.00	17.00	6/12/15	Bamboo S/S, CH, L	CH	Chill	6.50	T-Shirt	I-130878	P-12860	17.00	L	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD006014-PP-M	1.00	22.00	6/12/15	Comfort Soft L/S, PP, M	PP	Pepper	6.70	T-Shirt	I-130878	P-3568	22.00	M	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SDETBTSB-RE-M	1.00	17.00	6/12/15	Bamboo S/S, RE, M	RE	Red	7.01	T-Shirt	I-130878	P-3739	17.00	M	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD00831G	1.00	-2.00	6/12/15	FREE Bumper Sticker - Lead Dog			0.11	Product	I-130878	P-4022	-2.00		The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD00831WH	1.00	2.00	6/12/15	Bumper Sticker - White - Lead Dog	White	White	0.11	Product	I-130878	P-4023	2.00	Lead Dog	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD001717-CR-XL	1.00	19.00	6/12/15	Comfort Soft S/S, CR, XL	CR	Crimson	4.18	T-Shirt	I-130878	P-2878	19.00	XL	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD006014-PP-M	1.00	22.00	6/12/15	Comfort Soft L/S, PP, M	PP	Pepper	6.70	T-Shirt	I-130878	P-3568	22.00	M	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SDHSIS6OZ	1.00	4.99	6/12/15	Pepper Sauce - Island Spice - 6 oz	Island Spice	Island Spice	2.75	Product	I-130878	P-2355	4.99	6 OZ	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SDSSF4315WH	1.00	2.99	6/12/15	License Plate Frame - White	White	White	1.35	Product	I-130879	P-2299	2.99	OSFA	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD00070NY	1.00	2.99	6/12/15	Can Holder - Navy	Navy	Navy	0.84	Product	I-130880	P-2155	2.99	OSFA	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SDE47MT2 - Bone - Adult	1.00	16.99	6/12/15	Hat - Extreme Fit - Bone - Adult	Bone	Bone	5.87	Hat	I-130881	P-2729	16.99	Adult	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD006014-FL-S	-1.00	-22.00	6/12/15	Comfort Soft L/S, FL, S	FL	Flo Blue	6.65	T-Shirt	I-130882	P-12447	22.00	S	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	
+SD006014-FL-M	1.00	22.00	6/12/15	Comfort Soft L/S, FL, M	FL	Flo Blue	6.75	T-Shirt	I-130882	P-12448	22.00	M	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	
+SP5180PD-RE-L	1.00	12.00	6/12/15	Patriot Dog S/S, RE, L	RE	Red	3.39	T-Shirt	I-130883	P-5813	12.00	L	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SDOFAT-Navy/Scarlet-Adult	1.00	18.00	6/12/15	Hat - Old Favorite Trucker, Navy/Scarlet, Adult	Navy/Scarlet	Navy/Scarlet	10.40	Hat	I-130883	P-14035	18.00	Adult	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SDG0907-Lipstick	1.00	14.00	6/12/15	Hat - Infant - Lipstick	Lipstick	Lipstick	7.19	Hat	I-130883	P-11115	14.00	OSFA	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD003301-RA-2T	1.00	13.00	6/12/15	Toddler T S/S, RA, 2T	RA	Raspberry	1.94	Infant / Toddler	I-130883	P-3100	13.00	2T	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SP5180PD-NY-S	1.00	12.00	6/12/15	Patriot Dog S/S, NY, S	NY	Navy	3.39	T-Shirt	I-130883	P-1646	12.00	S	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SP5180PD-RE-2X	1.00	12.00	6/12/15	Patriot Dog S/S, RE, 2X	RE	Red	5.09	T-Shirt	I-130883	P-5814	12.00	2X	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SP3522VC-BK-2X/3X	1.00	18.00	6/12/15	V-Neck Beach Cover-Up, BK, 2X/3X	BK	Black	7.00	Specialty Prints	I-130883	P-9019	18.00	2X/3X	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SP5180PD-RE-L	1.00	12.00	6/12/15	Patriot Dog S/S, RE, L	RE	Red	3.39	T-Shirt	I-130883	P-5813	12.00	L	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SP5180PD-NY-S	1.00	12.00	6/12/15	Patriot Dog S/S, NY, S	NY	Navy	3.39	T-Shirt	I-130883	P-1646	12.00	S	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SP5180PD-NY-L	1.00	12.00	6/12/15	Patriot Dog S/S, NY, L	NY	Navy	3.27	T-Shirt	I-130883	P-1645	12.00	L	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD00831G	1.00	-2.00	6/12/15	FREE Bumper Sticker - Lead Dog			0.11	Product	I-130883	P-4022	-2.00		The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD00831WH	1.00	2.00	6/12/15	Bumper Sticker - White - Lead Dog	White	White	0.11	Product	I-130883	P-4023	2.00	Lead Dog	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD005180-NY-XL	1.00	17.00	6/12/15	Hanes Beefy S/S, NY, XL	NY	Navy	3.25	T-Shirt	I-130884	P-3346	17.00	XL	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD005180-HL-XL	1.00	17.00	6/12/15	Hanes Beefy S/S, HL, XL	HL	Heather	3.42	T-Shirt	I-130884	P-3320	17.00	XL	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD3001C-TE-S	1.00	12.00	6/12/15	Color of the Week, Teal, S	Teal	Teal	2.89	T-Shirt	I-130885	P-12971	12.00	S	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD0882L-HP-S	1.00	15.00	6/12/15	Tank Top - Women's, HP, S	HP	Hot Pink	3.13	T-Shirt	I-130885	P-12752	15.00	S	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD006030-IR-M	1.00	19.00	6/12/15	Comfort Soft S/S-Pocket, IR, M	IR	Island Reef	4.78	T-Shirt	I-130886	P-12904	19.00	M	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SDIPHONE-PS/PS-4CI	1.00	4.00	6/12/15	iPhone Cover, PS/PS, 4CI	Pink/Pink	Pink/Pink	6.22	Product	I-130886	P-11368	4.00	iPhone 4 Card Insert	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+BW5186SF1C-RE-2X	1.00	17.00	6/12/15	BW Sailfish L/S, RE, 2X	RE	Red	7.01	Bluewater	I-130887	P-4754	17.00	2X	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+BW5186SF1C-WH-XL	1.00	17.00	6/12/15	BW Sailfish L/S, WH, XL	WH	White	6.58	Bluewater	I-130887	P-4750	17.00	XL	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD0TAFFYKLBG	1.00	6.99	6/12/15	Taffy - Key Lime - 12oz	Key Lime	Key Lime	2.50	Family	I-130888	P-12614	6.99	12 oz	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SP5180PD-NY-S	-1.00	-12.00	6/12/15	Patriot Dog S/S, NY, S	NY	Navy	3.39	T-Shirt	I-130889	P-1646	12.00	S	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SP5180PD-RE-L	1.00	12.00	6/12/15	Patriot Dog S/S, RE, L	RE	Red	3.39	T-Shirt	I-130889	P-5813	12.00	L	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SP5180PD-RE-XL	1.00	12.00	6/12/15	Patriot Dog S/S, RE, XL	RE	Red	3.38	T-Shirt	I-130889	P-5810	12.00	XL	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SP5180PD-NY-M	1.00	12.00	6/12/15	Patriot Dog S/S, NY, M	NY	Navy	3.29	T-Shirt	I-130889	P-1792	12.00	M	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD003607-BK-2X	1.00	18.00	6/12/15	V-Neck S/S Junior Fit, BK, 2X	BK	Black	4.09	T-Shirt	I-130889	P-3170	18.00	2X	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SP5180PD-RE-2X	-1.00	-12.00	6/12/15	Patriot Dog S/S, RE, 2X	RE	Red	5.09	T-Shirt	I-130889	P-5814	12.00	2X	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SP5180PD-NY-S	-1.00	-12.00	6/12/15	Patriot Dog S/S, NY, S	NY	Navy	3.39	T-Shirt	I-130889	P-1646	12.00	S	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD001566-FL-S	1.00	28.00	6/12/15	Sweatshirt-Stonewash, FL, S (20% OFF Sweatshirts)	FL	Flo Blue	12.98	Sweatshirt	I-130890	P-2819	28.00	S	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD005180-6A-M	1.00	17.00	6/12/15	Hanes Beefy S/S, 6A, M	6A	Wow Pink	3.22	T-Shirt	I-130891	P-3276	17.00	M	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SD005380-PS-S	1.00	15.00	6/12/15	Youth Beefy S/S, PS, S	PS	Pink	3.15	T-Shirt	I-130891	P-3520	15.00	S (6-8)	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SD003588-PI-2X	1.00	19.00	6/12/15	Women's L/S, PI, 2X	PI	Pale Pink	6.72	T-Shirt	I-130892	P-3160	19.00	2X	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD006030-WA-L	1.00	19.00	6/12/15	Comfort Soft S/S-Pocket, WA, L	WA	Watermelon	4.78	T-Shirt	I-130893	P-11336	19.00	L	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD3001C-TE-XL	1.00	12.00	6/12/15	Color of the Week, Teal, XL	Teal	Teal	2.89	T-Shirt	I-130893	P-12970	12.00	XL	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+CW05170-HE-XL	1.00	12.00	6/12/15	Color of the Week, HE, XL	HE	Heather Red	1.79	T-Shirt	I-130893	P-13376	12.00	XL	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+BW5180TU-NY-M	1.00	12.00	6/12/15	BW Tuna S/S, NY, M	NY	Navy	3.30	Bluewater	I-130893	P-4674	12.00	M	The Salty Dog - HHI, SC	Ron W	Arrow Road 1	6/12/15
+SD001566-CR-XL	1.00	35.00	6/12/15	Sweatshirt-Stonewash	CR	Crimson	12.88	Sweatshirt	I-130894	P-2815	35.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD00070NY	1.00	2.99	6/12/15	Can Holder - Navy	Navy	Navy	0.84	Product	I-130895	P-2155	2.99	OSFA	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SDC71PD5 - Navy - L/XL	1.00	15.99	6/12/15	Hat - Bucket - Navy - L/XL	Navy	Navy	5.92	Hat	I-130895	P-2725	15.99	L/XL	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD003587-BA-XL	1.00	18.00	6/12/15	V-Neck S/S, BA, XL	BA	Banana	4.47	T-Shirt	I-130896	P-3124	18.00	XL	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+CW05170-HE-L	1.00	12.00	6/12/15	Color of the Week, HE, L	HE	Heather Red	1.79	T-Shirt	I-130896	P-13375	12.00	L	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD3413C-Red-2X	1.00	22.00	6/12/15	Triblend S/S, Red, 2X	Red	Red	6.10	T-Shirt	I-130897	P-11939	22.00	2X	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+689076894074	1.00	4.50	6/12/15	Bottle Suit - Red	Red	Red	1.57	Product	I-130897	P-2164	4.50	OSFA	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+689076894777	1.00	8.95	6/12/15	Story Book - Legend of Jake the Salty Dog	Hardcover	Hardcover	2.07	Product	I-130898	P-2322	8.95	32pg	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+689076894470	1.00	5.99	6/12/15	Mini Jake w/ Clip - Black	Jake	Jake	3.79	Product	I-130898	P-2042	5.99	Mini	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+CSTMTDY-WH-S	1.00	20.00	6/12/15	Custom Tie-Dye - Youth S/S, WH, S	WH		2.30	T-Shirt	I-130899	P-5757	20.00	S	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD003607-BK-2X	1.00	18.00	6/12/15	V-Neck S/S Junior Fit, BK, 2X	BK	Black	4.09	T-Shirt	I-130899	P-3170	18.00	2X	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+CWG2000-431C-S	1.00	12.00	6/12/15	Color of the Week, 431C, S	431C	Heather Indigo	0.92	T-Shirt	I-130899	P-13821	12.00	S	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+ECOTOTE-Free - Lime-12x13x8	1.00	-1.75	6/12/15	Eco Tote, Free - Lime, 12x13x8	Free - Lime	Free - Lime	0.59	Product	I-130899	P-11737	-1.75	12x13x8	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	6/12/15	Eco Tote, Lime, 12x13x8	Lime	Lime	0.59	Product	I-130899	P-11735	1.75	12x13x8	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SDSJS6OZ	1.00	7.00	6/12/15	Jake Shake - 6 oz	Original	Orange	3.00	Product	I-130900	P-2225	7.00	6 oz	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SDSJS6OZ	1.00	7.00	6/12/15	Jake Shake - 6 oz	Original	Orange	3.00	Product	I-130900	P-2225	7.00	6 oz	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD00255-Orange-OSFA	1.00	2.50	6/12/15	Poker Chip, Orange	Orange	Orange	0.85	Product	I-130900	P-13204	2.50	OSFA	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SDSJS4OZ	1.00	5.75	6/12/15	Jake Shake - 4 oz	Original	Orange	2.25	Product	I-130901	P-2224	5.75	4 oz	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SDSJS4OZ	1.00	5.75	6/12/15	Jake Shake - 4 oz	Original	Orange	2.25	Product	I-130901	P-2224	5.75	4 oz	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD005180-YE-XL	1.00	17.00	6/12/15	Hanes Beefy S/S	YE	Yellow	3.32	T-Shirt	I-130902	P-3411	17.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD0TAFFYASBG	1.00	6.99	6/12/15	Taffy - Assorted - 12 oz 	Assorted	Assorted	1.85	Product	I-130903	P-2127	6.99	12 oz	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SDNTRTAD-NB-2X	1.00	15.00	6/12/15	Tank Top - Simple Dog, NB, 2X	NB	Neon Blue	5.85	Tank Top	I-130903	P-13997	15.00	2X	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD33099-RA-M	1.00	19.00	6/12/15	Women's Comfort Soft V-Neck, RA, M	RA	Raspberry	4.40	T-Shirt	I-130904	P-13969	19.00	M	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SDK42WTH - White/Bubblegum	1.00	16.99	6/12/15	Hat - Women's Fit - White/Bubblegum - Adult	White/Bubblegum	White/Bubblegum	5.78	Hat	I-130904	P-4482	16.99	Adult	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD33099-BL-L	1.00	19.00	6/12/15	Women's Comfort Soft V-Neck, BL, L	BL	Blossom	4.40	T-Shirt	I-130904	P-13185	19.00	L	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SP5180PD-NY-L	1.00	12.00	6/12/15	Patriot Dog S/S, NY, L	NY	Navy	3.21	T-Shirt	I-130904	P-1645	12.00	L	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SPNL6810-NP-M	1.00	17.00	6/12/15	Women's Slub Tee, NP, M	NP	Neon Pink	3.55	T-Shirt	I-130905	P-12915	17.00	M	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD0TAFFYASBG	1.00	6.99	6/12/15	Taffy - Assorted - 12 oz 	Assorted	Assorted	1.85	Product	I-130905	P-2127	6.99	12 oz	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SP5180RD-WH-L	1.00	15.00	6/12/15	Retro Dog S/S	WH	White	2.35	T-Shirt	I-130906	P-1579	15.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180LY-LW-L	1.00	15.00	6/12/15	Loyal Forever S/S	LW	Light Steel	3.12	Specialty Prints	I-130906	P-1639	15.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD0TAFFYASBG	1.00	6.99	6/12/15	Taffy - Assorted - 12 oz 	Assorted	Assorted	1.85	Product	I-130907	P-2127	6.99	12 oz	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD33099-MB-2X	1.00	19.00	6/12/15	Women's Comfort Soft V-Neck, MB, 2X	MB	Mystic Blue	2.54	T-Shirt	I-130907	P-13987	19.00	2X	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD0882L-HP-S	1.00	15.00	6/12/15	Tank Top - Women's	HP	Hot Pink	3.13	T-Shirt	I-130908	P-12752	15.00	S	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD00SL04-YO-S	1.00	17.00	6/12/15	Women's Classic Fit T	YO	Carolina Blue	3.36	T-Shirt	I-130909	P-3905	17.00	S	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD001717-LG-L	1.00	19.00	6/12/15	Comfort Soft S/S	LG	Light Green	4.25	T-Shirt	I-130909	P-2893	19.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD00SL04-RE-S	1.00	17.00	6/12/15	Women's Classic Fit T	RE	Red	3.41	T-Shirt	I-130909	P-3890	17.00	S	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-M	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	3.22	T-Shirt	I-130910	P-5812	12.00	M	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD0A986-WH-S	1.00	15.00	6/12/15	Tank Top - Men's	WH	White	3.25	T-Shirt	I-130911	P-12617	15.00	S	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD006030-IR-M	1.00	14.25	6/12/15	Comfort Soft S/S-Pocket, IR, M	IR	Island Reef	4.78	T-Shirt	I-130912	P-12904	14.25	M	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SDK45CA4 - Spray - Adult	1.00	16.99	6/12/15	Hat - Women's Fit - Spray - Adult	Spray	Spray	5.78	Hat	I-130913	P-2764	16.99	Adult	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SDC47PD4 - Bone/Black - Adult	1.00	16.99	6/12/15	Hat - Pigment Dyed - Bone/Black - Adult	Bone/Black	Bone/Black	5.00	Hat	I-130913	P-2704	16.99	Adult	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SDG0900-Lipstick	1.00	14.00	6/12/15	Hat - Toddler - Lipstick	Lipstick	Lipstick	7.25	Hat	I-130913	P-11116	14.00	OSFA	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SD00831WH	1.00	2.00	6/12/15	Bumper Sticker - White - Lead Dog	White	White	0.11	Product	I-130914	P-4023	2.00	Lead Dog	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD3413C-Navy-M	1.00	22.00	6/12/15	Triblend S/S, Navy, M	Navy	Navy	4.59	T-Shirt	I-130914	P-11768	22.00	M	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD002202SD	1.00	1.25	6/12/15	Party Cup - White	White	White	0.30	Product	I-130914	P-2027	1.25	16 oz	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD00357-SA-XL	1.00	39.00	6/12/15	Ladies S/S Polo - SA - XL	SA	Salmon	16.97	Polos	I-130914	P-13148	39.00	XL	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD33099-BL-L	1.00	19.00	6/12/15	Women's Comfort Soft V-Neck, BL, L	BL	Blossom	4.40	T-Shirt	I-130914	P-13185	19.00	L	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+CWA980-CA-L	1.00	12.00	6/12/15	Color of the Week, CA, L	CA	Caribbean Blue	2.60	T-Shirt	I-130914	P-12145	12.00	L	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD9309285YE	1.00	6.99	6/12/15	Baseball - Blue/Yellow	Blue/Yellow	Blue & Yellow	3.24	Product	I-130914	P-5614	6.99	OSFA	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SDMG5250BL	1.00	9.99	6/12/15	Football - Blue/Yellow - Rubber	Blue/Yellow	Blue & Yellow	3.85	Product	I-130914	P-2036	9.99	OSFA	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SP5180RC-DM-2X	1.00	15.00	6/12/15	Racer Dog S/S, DM, 2X	DM	Denim Blue	5.28	Specialty Prints	I-130914	P-12455	15.00	2X	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD003607-KL-M	1.00	18.00	6/12/15	V-Neck S/S Junior Fit,, KL, M	KL	Key Lime	3.09	T-Shirt	I-130914	P-5649	18.00	M	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD00SL04-8I-M	1.00	17.00	6/12/15	Women's Classic Fit T, 8I, M	8I	Winter Berry	3.40	T-Shirt	I-130914	P-3826	17.00	M	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD00831G	1.00	-2.00	6/12/15	FREE Bumper Sticker - Lead Dog			0.11	Product	I-130914	P-4022	-2.00		The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+Free Party Cup	1.00	-1.25	6/12/15	FREE Party Cup - White			0.26	Markdowns	I-130914	P-4021	-1.25		The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD005186-RO-M	1.00	20.00	6/12/15	Hanes Beefy L/S, RO, M	RO	Deep Royal	6.28	T-Shirt	I-130915	P-3457	20.00	M	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+CWLAT6901-AP-M	1.00	12.00	6/12/15	Color of the Week, AP, M	AP	Apple	2.83	T-Shirt	I-130915	P-11530	12.00	M	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+CW05250-PF-XL	1.00	12.00	6/12/15	Color of the Week, PF, XL	PF	Palace Blue	1.36	T-Shirt	I-130915	P-13371	12.00	XL	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+CWA980-CA-S	1.00	12.00	6/12/15	Color of the Week, CA, S	CA	Caribbean Blue	2.65	T-Shirt	I-130915	P-12143	12.00	S	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SP5180PD-RE-XL	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	3.22	T-Shirt	I-130916	P-5810	12.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD00SL04-NY-2X	1.00	17.00	6/12/15	Women's Classic Fit T	NY	Navy	4.64	T-Shirt	I-130917	P-3877	17.00	2X	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SDT114SBBL	1.00	3.99	6/12/15	Shotglass - Clear/Blue - 1 3/4 oz	Clear/Blue	Clear/Blue	1.50	Product	I-130918	P-2025	3.99	1 3/4 oz	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+BW5180CR-WH-XL	1.00	12.00	6/12/15	BW Crab S/S, WH, XL	WH	White	2.70	Bluewater	I-130918	P-4653	12.00	XL	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+CWA980-CA-L	1.00	12.00	6/12/15	Color of the Week, CA, L	CA	Caribbean Blue	2.60	T-Shirt	I-130918	P-12145	12.00	L	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD6524005SI	1.00	2.99	6/12/15	Key Chain - Aluminum - Silver	Silver	Silver	0.53	Product	I-130918	P-3978	2.99	OSFA	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SP5180PD-RE-M	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	3.22	T-Shirt	I-130919	P-5812	12.00	M	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-XL	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	3.22	T-Shirt	I-130919	P-5810	12.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SDETBTSB-CH-XL	1.00	17.00	6/12/15	Bamboo S/S, CH, XL	CH	Chill	6.50	T-Shirt	I-130920	P-12857	17.00	XL	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+CWG5000-7706C-M	1.00	12.00	6/12/15	Color of the Week, 7706C, M	7706C	Antique Saphire	1.76	T-Shirt	I-130921	P-13741	12.00	M	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+CWG5000-348C-L	1.00	12.00	6/12/15	Color of the Week, 348C, L	348C	Antique Irish Green	2.20	T-Shirt	I-130921	P-13735	12.00	L	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SDJKDOGBKSM	1.00	9.99	6/12/15	Jake Stuffed Dog - Small	Black	Black	4.72	Product	I-130922	P-2040	9.99	S	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD005380-PR-S	1.00	15.00	6/12/15	Youth Beefy S/S, PR, S	PR	Purple	3.26	T-Shirt	I-130922	P-3516	15.00	S (6-8)	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+CW05170-HE-M	1.00	12.00	6/12/15	Color of the Week, HE, M	HE	Heather Red	1.79	T-Shirt	I-130923	P-13374	12.00	M	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SP5180PD-RE-M	2.00	24.00	6/12/15	Patriot Dog S/S	RE	Red	3.22	T-Shirt	I-130924	P-5812	12.00	M	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD006014-FL-S	1.00	22.00	6/12/15	Comfort Soft L/S, FL, S	FL	Flo Blue	6.65	T-Shirt	I-130925	P-12447	22.00	S	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD006014-NY-S	1.00	22.00	6/12/15	Comfort Soft L/S	NY	Navy	6.65	T-Shirt	I-130926	P-3559	22.00	S	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD005180-AB-XL	1.00	17.00	6/12/15	Hanes Beefy S/S	AB	Aquatic Blue	3.39	T-Shirt	I-130926	P-3288	17.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD005186-PI-S	1.00	20.00	6/12/15	Hanes Beefy L/S	PI	Pale Pink	6.40	T-Shirt	I-130926	P-3446	20.00	S	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD003588-LA-XL	1.00	19.00	6/12/15	Women's L/S	LA	Lavender	5.23	T-Shirt	I-130926	P-3154	19.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SDOFAT-Navy/Scarlet-Adult	1.00	18.00	6/12/15	Hat - Old Favorite Trucker, Navy/Scarlet, Adult	Navy/Scarlet	Navy/Scarlet	10.40	Hat	I-130927	P-14035	18.00	Adult	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD001009	1.00	3.00	6/12/15	Card - Fine Wine			1.51	1: F	I-130927	P-12497	3.00		The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+689076894678	1.00	4.99	6/12/15	Coffee Mug - Navy - 15 oz	Navy	Navy	1.60	Product	I-130928	P-2112	4.99	15 oz	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SD00070PS	1.00	2.99	6/12/15	Can Holder - Magenta	Magenta	Magenta	0.84	Product	I-130928	P-2183	2.99	OSFA	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SD00070NY	1.00	2.99	6/12/15	Can Holder - Navy	Navy	Navy	0.84	Product	I-130928	P-2155	2.99	OSFA	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+689076893978	1.00	4.50	6/12/15	Bottle Suit - Navy	Navy	Navy	1.56	Product	I-130928	P-2021	4.50	OSFA	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SP5180LG-IY-L	1.00	15.00	6/12/15	Lager Dog S/S, IY, L	IY	Ice Gray	3.44	T-Shirt	I-130928	P-1561	15.00	L	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SP5380PD-NY-M	1.00	12.00	6/12/15	Youth Patriot Dog S/S	NY	Navy	3.37	Specialty Prints	I-130929	P-1768	12.00	M (10-12)	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+5180-YE-S	17.00	136.00	6/12/15	5180 S/S, YE, S	YE	Yellow	3.47	Wholesale	I-130930	P-6716	8.00	S	The Salty Dog - HHI, SC	Steve H.	Wholesale	
+5380-YE-M	12.00	96.00	6/12/15	5380 S/S, YE, M	YE	Yellow	3.37	Wholesale	I-130930	P-9112	8.00	M	The Salty Dog - HHI, SC	Steve H.	Wholesale	
+5180-YE-L	3.00	24.00	6/12/15	5180 S/S, YE, L	YE	Yellow	3.47	Wholesale	I-130930	P-6802	8.00	L	The Salty Dog - HHI, SC	Steve H.	Wholesale	
+5380-YE-S	2.00	16.00	6/12/15	5380 S/S, YE, S	YE	Yellow	3.37	Wholesale	I-130930	P-9089	8.00	S	The Salty Dog - HHI, SC	Steve H.	Wholesale	
+5180-YE-M	11.00	88.00	6/12/15	5180 S/S, YE, M	YE	Yellow	3.47	Wholesale	I-130930	P-6759	8.00	M	The Salty Dog - HHI, SC	Steve H.	Wholesale	
+5380-YE-L	13.00	104.00	6/12/15	5380 S/S, YE, L	YE	Yellow	3.37	Wholesale	I-130930	P-9135	8.00	L	The Salty Dog - HHI, SC	Steve H.	Wholesale	
+5380-YE-XL	2.00	16.00	6/12/15	5380 S/S, YE, XL	YE	Yellow	3.37	Wholesale	I-130930	P-9158	8.00	XL	The Salty Dog - HHI, SC	Steve H.	Wholesale	
+SDI2015-Tan-Adult	1.00	16.99	6/12/15	Hat - Digital Camo - Tan - Adult	Tan	Tan	3.98	Hat	I-130931	P-12421	16.99	Adult	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD001567 -CR-XL	1.00	28.80	6/12/15	Hooded-Stonewash, CR, XL (20% OFF Sweatshirts)	CR	Crimson	17.49	Sweatshirt	I-130931	P-2839	28.80	XL	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD001717-LG-3X	1.00	19.00	6/12/15	Comfort Soft S/S, LG, 3X	LG	Light Green	5.22	T-Shirt	I-130932	P-2892	19.00	3X	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD003588-TQ-S	1.00	19.00	6/12/15	Women's L/S, TQ, S	TQ	Turquoise	5.26	T-Shirt	I-130932	P-10694	19.00	S	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD00SL04-AB-S	1.00	17.00	6/12/15	Women's Classic Fit T, AB, S	AB	Aquatic Blue	3.32	T-Shirt	I-130932	P-3865	17.00	S	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD001566-FL-XL	1.00	28.00	6/12/15	Sweatshirt-Stonewash, FL, XL (20% OFF Sweatshirts)	FL	Flo Blue	12.88	Sweatshirt	I-130932	P-2820	28.00	XL	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD00CSWBIGBL	1.00	1.99	6/12/15	Pen - Blue	Blue	Blue	0.83	Product	I-130932	P-2101	1.99	OSFA	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+CWA980-CA-S	1.00	12.00	6/12/15	Color of the Week, CA, S	CA	Caribbean Blue	2.65	T-Shirt	I-130933	P-12143	12.00	S	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SP5180PD-RE-2X	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	5.43	T-Shirt	I-130934	P-5814	12.00	2X	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-2X	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	5.43	T-Shirt	I-130935	P-5814	12.00	2X	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SPNL6810-TQ-M	1.00	17.00	6/12/15	Women's Slub Tee, TQ, M	TQ	Turquoise	3.55	T-Shirt	I-130936	P-12909	17.00	M	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SDETBTSB-RO-S	1.00	17.00	6/12/15	Bamboo S/S, RO, S	RO	Deep Royal	7.12	T-Shirt	I-130936	P-3745	17.00	S	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SPNL6810-NP-M	1.00	17.00	6/12/15	Women's Slub Tee, NP, M	NP	Neon Pink	3.55	T-Shirt	I-130936	P-12915	17.00	M	The Salty Dog - HHI, SC	Whitney C.	FactoryRetailRegister1	6/12/15
+SP5180PD-NY-S	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.22	T-Shirt	I-130937	P-1646	12.00	S	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SDG7355-Spring-S	1.00	31.20	6/12/15	Hooded - Full Zip Lite, Spring, S (20% OFF Sweatshirts)	Spring	Spring	16.50	Outerwear	I-130938	P-12657	31.20	S	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD8872HZ-BK-L	1.00	28.80	6/12/15	Hooded-Full Zip, BK, L (20% OFF Sweatshirts)	BK	Black	11.97	Sweatshirt	I-130938	P-6296	28.80	L	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD00B100-PI-18M	1.00	13.00	6/12/15	Infant Romper, PI, 12-18M	PI	Pale Pink	4.05	Infant / Toddler	I-130939	P-6260	13.00	12-18M	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD005186-WH-2X	1.00	20.00	6/12/15	Hanes Beefy L/S, WH, 2X	WH	White	6.80	T-Shirt	I-130939	P-3460	20.00	2X	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD008TCALL	1.00	1.99	6/12/15	Lip Balm - Tropical	Tropical	Tropical	0.40	Product	I-130939	P-2276	1.99	OSFA	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD002202RE	1.00	1.13	6/12/15	Party Cup - Red (10% OFF Drinkware)	Red	Red	0.27	Product	I-130939	P-2208	1.13	16 oz	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD00BKUSNY	1.00	2.99	6/12/15	Key Chain - 3 in 1 - Navy	NY	Navy	1.34	Product	I-130939	P-2173	2.99	OSFA	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD002202RE	1.00	1.13	6/12/15	Party Cup - Red (10% OFF Drinkware)	Red	Red	0.27	Product	I-130939	P-2208	1.13	16 oz	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD002202RE	1.00	1.13	6/12/15	Party Cup - Red (10% OFF Drinkware)	Red	Red	0.27	Product	I-130939	P-2208	1.13	16 oz	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD002202RE	1.00	1.13	6/12/15	Party Cup - Red (10% OFF Drinkware)	Red	Red	0.27	Product	I-130939	P-2208	1.13	16 oz	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD002202RE	1.00	1.13	6/12/15	Party Cup - Red (10% OFF Drinkware)	Red	Red	0.27	Product	I-130939	P-2208	1.13	16 oz	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD002202RE	1.00	1.13	6/12/15	Party Cup - Red (10% OFF Drinkware)	Red	Red	0.27	Product	I-130939	P-2208	1.13	16 oz	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD00939-Camo-S	1.00	17.00	6/12/15	Camo S/S, Camo, S	Camo	Camo	6.60	T-Shirt	I-130939	P-1944	17.00	S	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SP5180RC-DM-2X	1.00	15.00	6/12/15	Racer Dog S/S, DM, 2X	DM	Denim Blue	5.28	Specialty Prints	I-130939	P-12455	15.00	2X	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD005180-YO-L	1.00	17.00	6/12/15	Hanes Beefy S/S, YO, L	YO	Carolina Blue	3.45	T-Shirt	I-130940	P-3414	17.00	L	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SD002214-PI-M	1.00	16.00	6/12/15	Youth L/S, PI, M	PI	Pale Pink	3.50	T-Shirt	I-130941	P-2990	16.00	M (10-12)	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SD00SL04-TE-S	1.00	17.00	6/12/15	Women's Classic Fit T, TE, S	TE	Teal	3.23	T-Shirt	I-130941	P-11402	17.00	S	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SD006030-WA-S	1.00	19.00	6/12/15	Comfort Soft S/S-Pocket, WA, S	WA	Watermelon	4.78	T-Shirt	I-130941	P-11334	19.00	S	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SD002202-St. Pattys-16 oz	3.00	3.75	6/12/15	Party Cup, St. Pattys, 16 oz	St. Pattys	St. Pattys	0.30	Product	I-130942	P-13365	1.25	16 oz	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD005186-LW-M	1.00	20.00	6/12/15	Hanes Beefy L/S, LW, M	LW	Light Steel	6.10	T-Shirt	I-130942	P-3427	20.00	M	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD0A986-NY-L	1.00	15.00	6/12/15	Tank Top - Men's, NY, L	NY	Navy	4.00	T-Shirt	I-130942	P-12627	15.00	L	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+053768008146	1.00	1.99	6/12/15	Sticker - HHI - Mini			1.00	Product	I-130942	P-5807	1.99		The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD00311RES	1.00	19.99	6/12/15	Kolder Bag - Red - 12 Pack	Red	Red	7.02	Product	I-130943	P-2091	19.99	12 pk	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+053768008146	1.00	1.99	6/12/15	Sticker - HHI - Mini			1.00	Product	I-130944	P-5807	1.99		The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD006030-NY-L	1.00	19.00	6/12/15	Comfort Soft S/S-Pocket, NY, L	NY	Navy	4.78	T-Shirt	I-130944	P-3577	19.00	L	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD00024STK	1.00	1.00	6/12/15	Salty Dog Decal Sticker, 3in, Clear	Clear	Clear	0.25	Product	I-130944	P-12933	1.00	3in	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD2700-NY-2X	1.00	16.00	6/12/15	Tank Top-Shooter, NY, 2X	NY	Navy	5.41	Tank Top	I-130945	P-11789	16.00	2X	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+053768008146	1.00	1.99	6/12/15	Sticker - HHI - Mini			1.00	Product	I-130945	P-5807	1.99		The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD035PRPP	1.00	1.50	6/12/15	Sticker - Parking Permit	Parking Permit	Parking Permit	0.22	Product	I-130945	P-2075	1.50	3 x 4 inch	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD1000TD-BJ-L	1.00	20.00	6/12/15	Tie-Dye S/S, BJ, L	BJ	Blue Jerry	4.25	T-Shirt	I-130946	P-3947	20.00	L	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+BW5180SF1C-LW-2X	1.00	10.00	6/12/15	BW Sailfish S/S, LW, 2X	LW	Light Steel	3.79	Bluewater	I-130946	P-4727	10.00	2X	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SP5180PD-NY-2X	1.00	12.00	6/12/15	Patriot Dog S/S, NY, 2X	NY	Navy	5.52	T-Shirt	I-130946	P-1732	12.00	2X	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD001023SBL	1.00	3.50	6/12/15	Bubble Cup - Blue - 12 oz	Blue	Blue	1.32	Product	I-130947	P-2064	3.50	12 oz	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD005180-BK-3X	1.00	17.00	6/12/15	Hanes Beefy S/S, BK, 3X	BK	Black	5.78	T-Shirt	I-130947	P-3297	17.00	3X	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD001023SBL	1.00	3.50	6/12/15	Bubble Cup - Blue - 12 oz	Blue	Blue	1.32	Product	I-130947	P-2064	3.50	12 oz	The Salty Dog - HHI, SC	Ron W	FactoryRetailRegister1	6/12/15
+SD2700-NY-XL	1.00	16.00	6/12/15	Tank Top-Shooter, NY, XL	NY	Navy	3.76	Tank Top	I-130948	P-11785	16.00	XL	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD000755-RE-L	1.00	39.00	6/12/15	Men's S/S Polo - RE - L	RE	Red	16.97	Polos	I-130948	P-13130	39.00	L	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD005380-TE-M	1.00	15.00	6/12/15	Youth Beefy S/S	TE	Teal	3.14	T-Shirt	I-130949	P-3531	15.00	M (10-12)	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD005180-LI-S	1.00	17.00	6/12/15	Hanes Beefy S/S	LI	Lime	3.46	T-Shirt	I-130949	P-3331	17.00	S	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD005180-RO-S	1.00	17.00	6/12/15	Hanes Beefy S/S	RO	Deep Royal	3.43	T-Shirt	I-130949	P-3378	17.00	S	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-XL	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.22	T-Shirt	I-130950	P-1598	12.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-XL	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	3.22	T-Shirt	I-130950	P-5810	12.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-M	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.21	T-Shirt	I-130951	P-1792	12.00	M	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD005380-TE-S	1.00	15.00	6/12/15	Youth Beefy S/S	TE	Teal	3.17	T-Shirt	I-130952	P-3532	15.00	S (6-8)	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-S	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	3.24	T-Shirt	I-130952	P-5811	12.00	S	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-M	2.00	24.00	6/12/15	Patriot Dog S/S	NY	Navy	3.21	T-Shirt	I-130952	P-1792	12.00	M	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-S	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	3.24	T-Shirt	I-130953	P-5811	12.00	S	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-L	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.21	T-Shirt	I-130953	P-1645	12.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-S	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.22	T-Shirt	I-130953	P-1646	12.00	S	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD3413C-Purple-L	1.00	22.00	6/12/15	Triblend S/S, Purple, L	Purple	Purple	4.59	T-Shirt	I-130954	P-11957	22.00	L	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD008TCALL	1.00	1.99	6/12/15	Lip Balm - Tropical	Tropical	Tropical	0.40	Product	I-130954	P-2276	1.99	OSFA	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SDE47MT2 - Navy - Adult	1.00	16.99	6/12/15	Hat - Extreme Fit - Navy - Adult	Navy	Navy	5.84	Hat	I-130954	P-2646	16.99	Adult	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD008TCALL	1.00	1.99	6/12/15	Lip Balm - Tropical	Tropical	Tropical	0.40	Product	I-130955	P-2276	1.99	OSFA	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD008TCALL	1.00	1.99	6/12/15	Lip Balm - Tropical	Tropical	Tropical	0.40	Product	I-130955	P-2276	1.99	OSFA	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SDETBTSB-CH-XL	1.00	17.00	6/12/15	Bamboo S/S, CH, XL	CH	Chill	6.50	T-Shirt	I-130955	P-12857	17.00	XL	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD00T242BL-Red-OSFA	1.00	3.99	6/12/15	Playing Cards, Red	Red	Red	1.97	Product	I-130955	P-13279	3.99	OSFA	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD008TCALL	1.00	1.99	6/12/15	Lip Balm - Tropical	Tropical	Tropical	0.40	Product	I-130955	P-2276	1.99	OSFA	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD005180-HL-M	1.00	17.00	6/12/15	Hanes Beefy S/S, HL, M	HL	Heather	3.46	T-Shirt	I-130956	P-3318	17.00	M	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SP5180PD-NY-M	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.21	T-Shirt	I-130957	P-1792	12.00	M	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180RD-WH-M	1.00	15.00	6/12/15	Retro Dog S/S	WH	White	2.35	T-Shirt	I-130957	P-1796	15.00	M	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-L	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.21	T-Shirt	I-130958	P-1645	12.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-M	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	3.22	T-Shirt	I-130959	P-5812	12.00	M	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD0M1276CO	2.00	13.98	6/12/15	Bistro Mug	Cobalt	Cobalt	2.71	Product	I-130960	P-2157	6.99	16 oz	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-2X	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	5.52	T-Shirt	I-130961	P-1732	12.00	2X	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-M	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.21	T-Shirt	I-130961	P-1792	12.00	M	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+PAIDOUT	-1.00	-90.00	6/12/15	Paidout			0.00	Misc	I-130962	P-4307	90.00		The Salty Dog - HHI, SC	Mackenzie M.	FactoryRetailRegister1	6/12/15
+SD00SL04-RE-L	1.00	17.00	6/12/15	Women's Classic Fit T	RE	Red	3.34	T-Shirt	I-130963	P-3888	17.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD00SL04-8I-L	1.00	17.00	6/12/15	Women's Classic Fit T	8I	Winter Berry	3.39	T-Shirt	I-130963	P-3825	17.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD00SL04-RO-L	1.00	17.00	6/12/15	Women's Classic Fit T	RO	Deep Royal	3.45	T-Shirt	I-130963	P-3893	17.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD005186-WH-M	1.00	20.00	6/12/15	Hanes Beefy L/S	WH	White	5.25	T-Shirt	I-130964	P-3463	20.00	M	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD005180-WH-S	1.00	10.00	6/12/15	Hanes Beefy S/S, WH, S	WH	White	2.58	T-Shirt	I-130965	P-3404	10.00	S	The Salty Dog - HHI, SC	Mackenzie M.	FactoryRetailRegister1	6/12/15
+689076893978	1.00	4.50	6/12/15	Bottle Suit - Navy	Navy	Navy	1.56	Product	I-130965	P-2021	4.50	OSFA	The Salty Dog - HHI, SC	Mackenzie M.	FactoryRetailRegister1	6/12/15
+SD001566-IR-S	1.00	28.00	6/12/15	Sweatshirt-Stonewash, IR, S (20% OFF Sweatshirts)	IR	Island Reef	11.59	Sweatshirt	I-130965	P-13765	28.00	S	The Salty Dog - HHI, SC	Mackenzie M.	FactoryRetailRegister1	6/12/15
+CW05250-4C-2X	1.00	12.00	6/12/15	Color of the Week, 4C, 2X	4C	Twilight Blue	3.99	T-Shirt	I-130965	P-14023	12.00	2X	The Salty Dog - HHI, SC	Mackenzie M.	FactoryRetailRegister1	6/12/15
+SD005180-RO-M	1.00	17.00	6/12/15	Hanes Beefy S/S, RO, M	RO	Deep Royal	3.38	T-Shirt	I-130965	P-3376	17.00	M	The Salty Dog - HHI, SC	Mackenzie M.	FactoryRetailRegister1	6/12/15
+SD00831WH	1.00	2.00	6/12/15	Bumper Sticker - White - Lead Dog	White	White	0.11	Product	I-130965	P-4023	2.00	Lead Dog	The Salty Dog - HHI, SC	Mackenzie M.	FactoryRetailRegister1	6/12/15
+SD00F170-NY-M	1.00	26.40	6/12/15	Hooded-Adult Hanes, NY, M (20% OFF Sweatshirts)	NY	Navy	12.62	Sweatshirt	I-130965	P-3758	26.40	M	The Salty Dog - HHI, SC	Mackenzie M.	FactoryRetailRegister1	6/12/15
+SD00831G	1.00	-2.00	6/12/15	FREE Bumper Sticker - Lead Dog			0.11	Product	I-130965	P-4022	-2.00		The Salty Dog - HHI, SC	Mackenzie M.	FactoryRetailRegister1	6/12/15
+SD0882L-HP-L	1.00	15.00	6/12/15	Tank Top - Women's	HP	Hot Pink	3.13	T-Shirt	I-130966	P-12754	15.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+UPSOPEN	1.00	42.74	6/12/15	UPS Open Shipping			0.00	Misc	I-130966	P-4478	42.74		The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-M	2.00	24.00	6/12/15	Patriot Dog S/S	NY	Navy	3.21	T-Shirt	I-130967	P-1792	12.00	M	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-S	2.00	24.00	6/12/15	Patriot Dog S/S	NY	Navy	3.22	T-Shirt	I-130967	P-1646	12.00	S	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-L	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	3.22	T-Shirt	I-130967	P-5813	12.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-M	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	3.22	T-Shirt	I-130967	P-5812	12.00	M	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5380PD-NY-M	1.00	12.00	6/12/15	Youth Patriot Dog S/S, NY, M	NY	Navy	3.37	Specialty Prints	I-130968	P-1768	12.00	M (10-12)	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD00SL04-TE-S	1.00	17.00	6/12/15	Women's Classic Fit T, TE, S	TE	Teal	3.23	T-Shirt	I-130968	P-11402	17.00	S	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SDJKDOGBKSM	1.00	9.99	6/12/15	Jake Stuffed Dog - Small	Black	Black	4.72	Product	I-130968	P-2040	9.99	S	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SP5180PD-NY-M	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.21	T-Shirt	I-130969	P-1792	12.00	M	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-XL	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	3.22	T-Shirt	I-130969	P-5810	12.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD3413C-Aqua-2X	1.00	22.00	6/12/15	Triblend S/S, Aqua, 2X	Aqua	Aqua	5.81	T-Shirt	I-130970	P-12596	22.00	2X	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD00SL04-6A-XL	1.00	17.00	6/12/15	Women's Classic Fit T, 6A, XL	6A	Wow Pink	3.46	T-Shirt	I-130970	P-3861	17.00	XL	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SDETBTSB-CH-XL	-1.00	-17.00	6/12/15	Bamboo S/S, CH, XL	CH	Chill	6.50	T-Shirt	I-130970	P-12857	17.00	XL	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SDETBTSB-CH-XL	1.00	17.00	6/12/15	Bamboo S/S, CH, XL	CH	Chill	6.50	T-Shirt	I-130971	P-12857	17.00	XL	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SDETBTSB-CH-2X	1.00	17.00	6/12/15	Bamboo S/S, CH, 2X	CH	Chill	6.50	T-Shirt	I-130971	P-12861	17.00	2X	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SD00SL04-6A-2X	1.00	17.00	6/12/15	Women's Classic Fit T, 6A, 2X	6A	Wow Pink	4.64	T-Shirt	I-130971	P-3857	17.00	2X	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SD00311RES	3.00	59.97	6/12/15	Kolder Bag - Red - 12 Pack	Red	Red	7.02	Product	I-130972	P-2091	19.99	12 pk	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+649392149999	1.00	4.99	6/12/15	Vinyl Logo, 3.5in, White	White	White	2.25	Product	I-130973	P-2320	4.99	3.5in	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SP5180LG-GN-2X	1.00	15.00	6/12/15	Lager Dog S/S, GN, 2X	GN	Gold Nugget	5.67	T-Shirt	I-130973	P-1570	15.00	2X	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD00P4A3A100	3.00	9.75	6/12/15	Sticky Note	Sticky Note	Sticky Note	0.91	Product	I-130973	P-2332	3.25	OSFA	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SP5180PD-RE-L	1.00	12.00	6/12/15	Patriot Dog S/S, RE, L	RE	Red	3.22	T-Shirt	I-130973	P-5813	12.00	L	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+689076894777	1.00	8.95	6/12/15	Story Book - Legend of Jake the Salty Dog	Hardcover	Hardcover	2.07	Product	I-130973	P-2322	8.95	32pg	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD002206-PC-XS	1.00	15.00	6/12/15	Youth Camo S/S, PC, XS	PC	Pink Camo	4.93	T-Shirt	I-130973	P-2984	15.00	XS (2-4)	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SP5186FD-ON-XL	1.00	20.00	6/12/15	Football Dog L/S, ON, XL	ON	Orange	6.41	T-Shirt	I-130974	P-1635	20.00	XL	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SP5180PD-RE-XL	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	3.22	T-Shirt	I-130975	P-5810	12.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5380PD-NY-S	1.00	12.00	6/12/15	Youth Patriot Dog S/S	NY	Navy	3.37	Specialty Prints	I-130975	P-1606	12.00	S (6-8)	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5380PD-RE-S	2.00	24.00	6/12/15	Youth Patriot Dog S/S	RE	Red	2.99	Specialty Prints	I-130975	P-5853	12.00	S (6-8)	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD005180-YO-3X	1.00	17.00	6/12/15	Hanes Beefy S/S, YO, 3X	YO	Carolina Blue	5.79	T-Shirt	I-130976	P-3413	17.00	3X	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD3413C-Navy-2X	-1.00	-22.00	6/12/15	Triblend S/S, Navy, 2X	Navy	Navy	6.14	T-Shirt	I-130976	P-11769	22.00	2X	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SP5180PD-NY-L	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.21	T-Shirt	I-130977	P-1645	12.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-XL	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	3.22	T-Shirt	I-130977	P-5810	12.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD005180-YO-L	1.00	17.00	6/12/15	Hanes Beefy S/S	YO	Carolina Blue	3.45	T-Shirt	I-130978	P-3414	17.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-M	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.21	T-Shirt	I-130978	P-1792	12.00	M	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-XL	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	3.22	T-Shirt	I-130978	P-5810	12.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-L	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	3.22	T-Shirt	I-130978	P-5813	12.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-L	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.21	T-Shirt	I-130978	P-1645	12.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD005180-TE-XL	1.00	17.00	6/12/15	Hanes Beefy S/S	TE	Teal	3.36	T-Shirt	I-130978	P-3386	17.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-L	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	3.22	T-Shirt	I-130979	P-5813	12.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-2X	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	5.52	T-Shirt	I-130979	P-1732	12.00	2X	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-L	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	3.22	T-Shirt	I-130980	P-5813	12.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-M	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	3.22	T-Shirt	I-130981	P-5812	12.00	M	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-L	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.21	T-Shirt	I-130981	P-1645	12.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-XL	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.22	T-Shirt	I-130982	P-1598	12.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180SP-KG-M	1.00	15.00	6/12/15	St. Patty's Dog S/S, KG, M	KG	Kelly Green	3.52	T-Shirt	I-130983	P-1583	15.00	M	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SP5380PD-RE-M	1.00	12.00	6/12/15	Youth Patriot Dog S/S, RE, M	RE	Red	3.00	Specialty Prints	I-130983	P-5854	12.00	M (10-12)	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SP5380PD-NY-S	1.00	12.00	6/12/15	Youth Patriot Dog S/S, NY, S	NY	Navy	3.37	Specialty Prints	I-130983	P-1606	12.00	S (6-8)	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SP5180PD-NY-L	1.00	12.00	6/12/15	Patriot Dog S/S, NY, L	NY	Navy	3.21	T-Shirt	I-130983	P-1645	12.00	L	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SP5180PD-NY-S	1.00	12.00	6/12/15	Patriot Dog S/S, NY, S	NY	Navy	3.22	T-Shirt	I-130983	P-1646	12.00	S	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SP5180PD-NY-S	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.22	T-Shirt	I-130984	P-1646	12.00	S	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD005180-NY-XL	1.00	17.00	6/12/15	Hanes Beefy S/S	NY	Navy	3.25	T-Shirt	I-130985	P-3346	17.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD0TAFFYKLBG	1.00	6.99	6/12/15	Taffy - Key Lime - 12oz	Key Lime	Key Lime	2.50	Family	I-130986	P-12614	6.99	12 oz	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SP5180PD-NY-XL	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.22	T-Shirt	I-130987	P-1598	12.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5380PD-RE-M	1.00	12.00	6/12/15	Youth Patriot Dog S/S	RE	Red	3.00	Specialty Prints	I-130987	P-5854	12.00	M (10-12)	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-L	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.21	T-Shirt	I-130988	P-1645	12.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SDJKDOGBKSM	1.00	9.99	6/12/15	Jake Stuffed Dog - Small	Black	Black	4.72	Product	I-130989	P-2040	9.99	S	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD005380-RE-S	1.00	15.00	6/12/15	Youth Beefy S/S	RE	Red	3.25	T-Shirt	I-130991	P-3524	15.00	S (6-8)	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+UPSOPEN	1.00	16.88	6/12/15	UPS Open Shipping			0.00	Misc	I-130991	P-4478	16.88		The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD005380-PS-S	1.00	15.00	6/12/15	Youth Beefy S/S	PS	Pink	3.15	T-Shirt	I-130991	P-3520	15.00	S (6-8)	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD001717-CR-L	1.00	19.00	6/12/15	Comfort Soft S/S	CR	Crimson	4.14	T-Shirt	I-130991	P-2875	19.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD001717-FL-M	1.00	19.00	6/12/15	Comfort Soft S/S	FL	Flo Blue	4.17	T-Shirt	I-130991	P-2882	19.00	M	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-XL	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.22	T-Shirt	I-130992	P-1598	12.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD002202RE	1.00	1.25	6/12/15	Party Cup	Red	Red	0.27	Product	I-130993	P-2208	1.25	16 oz	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-2X	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	5.52	T-Shirt	I-130993	P-1732	12.00	2X	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180LG-IY-L	1.00	15.00	6/12/15	Lager Dog S/S	IY	Ice Gray	3.44	T-Shirt	I-130994	P-1561	15.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD0395OV	1.00	1.50	6/12/15	Sticker - Oval	Oval	Orange	0.30	Product	I-130994	P-2346	1.50	4 x 6 inch	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-L	2.00	24.00	6/12/15	Patriot Dog S/S	NY	Navy	3.21	T-Shirt	I-130994	P-1645	12.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-L	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.21	T-Shirt	I-130995	P-1645	12.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-L	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	3.22	T-Shirt	I-130995	P-5813	12.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD001717-BE-3X	1.00	19.00	6/12/15	Comfort Soft S/S	BE	Berry	6.47	T-Shirt	I-130996	P-2862	19.00	3X	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-2X	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	5.43	T-Shirt	I-130997	P-5814	12.00	2X	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-2X	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	5.52	T-Shirt	I-130997	P-1732	12.00	2X	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-M	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.21	T-Shirt	I-130998	P-1792	12.00	M	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-L	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.21	T-Shirt	I-130998	P-1645	12.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD0395OV	2.00	3.00	6/12/15	Sticker - Oval	Oval	Orange	0.30	Product	I-130999	P-2346	1.50	4 x 6 inch	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-XL	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.22	T-Shirt	I-130999	P-1598	12.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD002202RE	2.00	2.50	6/12/15	Party Cup	Red	Red	0.27	Product	I-130999	P-2208	1.25	16 oz	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-2X	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	5.43	T-Shirt	I-130999	P-5814	12.00	2X	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5380PD-RE-M	1.00	12.00	6/12/15	Youth Patriot Dog S/S	RE	Red	3.00	Specialty Prints	I-131000	P-5854	12.00	M (10-12)	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5380PD-NY-XS	1.00	12.00	6/12/15	Youth Patriot Dog S/S	NY	Navy	3.37	Specialty Prints	I-131000	P-1767	12.00	XS (2-4)	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SDC47MT2-Khaki-Adult	1.00	16.99	6/12/15	Hat - Classic Fit	Khaki	Khaki	5.12	Hat	I-131001	P-12694	16.99	Adult	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD005180-YO-XL	1.00	17.00	6/12/15	Hanes Beefy S/S	YO	Carolina Blue	3.46	T-Shirt	I-131001	P-3417	17.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD00DCTL3REM	1.00	21.99	6/12/15	Collar - Red	Red	Red	11.50	Pet	I-131002	P-2240	21.99	M (14-18")	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD001717-LG-XL	1.00	19.00	6/12/15	Comfort Soft S/S	LG	Light Green	4.23	T-Shirt	I-131002	P-2896	19.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD00SL04-RO-XL	1.00	17.00	6/12/15	Women's Classic Fit T	RO	Deep Royal	3.44	T-Shirt	I-131003	P-3896	17.00	XL	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-L	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	3.22	T-Shirt	I-131003	P-5813	12.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-2X	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	5.52	T-Shirt	I-131004	P-1732	12.00	2X	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+ECOTOTE-Lime-12x13x8	1.00	1.75	6/12/15	Eco Tote	Lime	Lime	0.59	Product	I-131004	P-11735	1.75	12x13x8	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD004200-NY-L	1.00	5.00	6/12/15	Bandana - Large	Navy	Navy	0.96	Specialty Items	I-131004	P-3231	5.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD005180-CD-S	1.00	17.00	6/12/15	Hanes Beefy S/S, CD, S	CD	Cardinal	3.36	T-Shirt	I-131005	P-3307	17.00	S	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+CW05250-PF-XL	1.00	12.00	6/12/15	Color of the Week, PF, XL	PF	Palace Blue	1.36	T-Shirt	I-131006	P-13371	12.00	XL	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD003665-PC-M	1.00	17.00	6/12/15	Women's Camo S/S, PC, M	PC	Pink Camo	6.68	Specialty Prints	I-131006	P-3192	17.00	M	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SP5180PD-RE-S	1.00	12.00	6/12/15	Patriot Dog S/S	RE	Red	3.24	T-Shirt	I-131007	P-5811	12.00	S	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+BW5190SF4C-WH-L	1.00	12.00	6/12/15	BW Pocket Sailfish 4C S/S	WH	White	3.46	Bluewater	I-131007	P-4627	12.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD001717-LG-L	1.00	19.00	6/12/15	Comfort Soft S/S	LG	Light Green	4.25	T-Shirt	I-131007	P-2893	19.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-2X	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	5.52	T-Shirt	I-131008	P-1732	12.00	2X	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+689076894173	1.00	4.50	6/12/15	Bottle Suit - Lime	Lime	Lime	1.56	Product	I-131010	P-2033	4.50	OSFA	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SDSIPCUP9OZ	1.00	3.99	6/12/15	Sippy Cup - 9 oz	Clear/Blue	Clear/Blue	1.12	Product	I-131010	P-2593	3.99	9 oz	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SPNL6810-NP-S	1.00	17.00	6/12/15	Women's Slub Tee, NP, S	NP	Neon Pink	3.55	T-Shirt	I-131010	P-12912	17.00	S	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD003301-NY-3T	1.00	13.00	6/12/15	Toddler T S/S, NY, 3T	NY	Navy	1.97	Infant / Toddler	I-131010	P-3095	13.00	3T	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD03401-Light Blue-12M	1.00	13.00	6/12/15	Infant Tee - Light Blue, 12M	Light Blue	Light Blue	1.97	T-Shirt	I-131010	P-10815	13.00	12M	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD002206-PC-S	1.00	15.00	6/12/15	Youth Camo S/S, PC, S	PC	Pink Camo	4.93	T-Shirt	I-131010	P-2983	15.00	S (6-8)	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD9018DD-NY-XS	1.00	14.00	6/12/15	Youth Dog Did It S/S, NY, XS	NY	Navy	3.85	T-Shirt	I-131010	P-3651	14.00	XS (2-4)	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD005100BL	1.00	5.99	6/12/15	Luggage Tag	Blue	Blue	0.50	Product	I-131011	P-2120	5.99	OSFA	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SDC47MT2-Navy-Adult	1.00	16.99	6/12/15	Hat - Classic Fit	Navy	Navy	4.97	Hat	I-131012	P-12692	16.99	Adult	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SDC47MT2-White-Adult	1.00	16.99	6/12/15	Hat - Classic Fit	White	White	4.97	Hat	I-131012	P-12691	16.99	Adult	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SDC47MT2-Lime-Adult	1.00	16.99	6/12/15	Hat - Classic Fit	Lime	Lime	5.33	Hat	I-131012	P-12693	16.99	Adult	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SDSAUCE-RB-6OZ	1.00	4.99	6/12/15	Buffalo Sauce	RB	Royal	2.99	Product	I-131013	P-11792	4.99	6OZ	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SDHSIS6OZ	2.00	9.98	6/12/15	Pepper Sauce - Island Spice - 6 oz	Island Spice	Island Spice	2.75	Product	I-131013	P-2355	4.99	6 OZ	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD0030176BL	1.00	2.50	6/12/15	Fridge Clip - Blue	Blue	Blue	1.05	Product	I-131014	P-2345	2.50	OSFA	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD0C8008CL	6.00	37.74	6/12/15	Wineglass - Clear - Classic (10% OFF Drinkware)	Classic	Classic	1.67	Product	I-131014	P-2366	6.29	OSFA	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SDWBH2GO-Red	1.00	8.99	6/12/15	Waterbottle - H2GO - Red	Red	Red	3.44	Product	I-131014	P-6395	8.99	OSFA	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SDWBH2GO-Red	1.00	8.99	6/12/15	Waterbottle - H2GO - Red	Red	Red	3.44	Product	I-131014	P-6395	8.99	OSFA	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SP5180PD-NY-2X	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	5.52	T-Shirt	I-131015	P-1732	12.00	2X	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD005180-CD-L	1.00	17.00	6/12/15	Hanes Beefy S/S	CD	Cardinal	3.37	T-Shirt	I-131016	P-3305	17.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-NY-L	1.00	12.00	6/12/15	Patriot Dog S/S	NY	Navy	3.21	T-Shirt	I-131016	P-1645	12.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SDY66WT2- Azalea - Youth	1.00	12.99	6/12/15	Visor - Youth	Azalea	Azalea	5.00	Hat	I-131017	P-10649	12.99	Youth	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SD001717-LG-L	1.00	19.00	6/12/15	Comfort Soft S/S	LG	Light Green	4.25	T-Shirt	I-131017	P-2893	19.00	L	The Salty Dog - HHI, SC	Web Order / Patricia J.	ArrowInternet	6/12/15
+SP5180PD-RE-L	1.00	12.00	6/12/15	Patriot Dog S/S, RE, L	RE	Red	3.22	T-Shirt	I-131018	P-5813	12.00	L	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD006030-IR-M	1.00	19.00	6/12/15	Comfort Soft S/S-Pocket, IR, M	IR	Island Reef	4.78	T-Shirt	I-131019	P-12904	19.00	M	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD00070NY	1.00	2.99	6/12/15	Can Holder - Navy	Navy	Navy	0.84	Product	I-131020	P-2155	2.99	OSFA	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD001566-IR-L	1.00	28.00	6/12/15	Sweatshirt-Stonewash, IR, L (20% OFF Sweatshirts)	IR	Island Reef	6.56	Sweatshirt	I-131020	P-13767	28.00	L	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD002202RE	1.00	1.25	6/12/15	Party Cup - Red	Red	Red	0.27	Product	I-131020	P-2208	1.25	16 oz	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD00070KG	1.00	2.99	6/12/15	Can Holder - Kelly Green	Kelly Green	Kelly Green	0.85	Product	I-131020	P-6018	2.99	OSFA	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD005180-NY-L	1.00	17.00	6/12/15	Hanes Beefy S/S, NY, L	NY	Navy	3.23	T-Shirt	I-131021	P-3343	17.00	L	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+690100044303	1.00	7.99	6/12/15	Dermagic - Rose/Lav Shampoo Bar - 3.75 oz			5.18	Pet	I-131022	P-2601	7.99		The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+891732001010	1.00	3.00	6/12/15	Card - Sympathy Paw			1.50	1: S	I-131022	P-2281	3.00		The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SDTEMPTATT	1.00	0.25	6/12/15	Tattoo - Temporary - Jake			0.08	Product	I-131022	P-5875	0.25		The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SDETBTSB-RE-2X	1.00	17.00	6/12/15	Bamboo S/S, RE, 2X	RE	Red	7.14	T-Shirt	I-131023	P-3944	17.00	2X	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SP5180PD-NY-2X	1.00	12.00	6/12/15	Patriot Dog S/S, NY, 2X	NY	Navy	5.52	T-Shirt	I-131023	P-1732	12.00	2X	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD03099-MY-XL	-1.00	-19.00	6/12/15	Comfort Soft V-Neck, MY, XL	MY	Mystic Blue	4.55	T-Shirt	I-131024	P-13178	19.00	XL	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	
+SD006030-IR-L	1.00	19.00	6/12/15	Comfort Soft S/S-Pocket, IR, L	IR	Island Reef	4.78	T-Shirt	I-131024	P-12905	19.00	L	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	
+SD00T120BBL	1.00	3.99	6/12/15	Shotglass - Blue	Blue	Blue	2.00	Product	I-131025	P-2149	3.99	1 3/4 oz	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD6524005SI	1.00	2.99	6/12/15	Key Chain - Aluminum - Silver	Silver	Silver	0.53	Product	I-131025	P-3978	2.99	OSFA	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD03401-Light Blue-12M	1.00	13.00	6/12/15	Infant Tee - Light Blue, 12M	Light Blue	Light Blue	1.97	T-Shirt	I-131025	P-10815	13.00	12M	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD101009-Blue-OSFA	1.00	2.99	6/12/15	Coffee Sleeve, Blue	Blue	Blue	0.56	Product	I-131025	P-13278	2.99	OSFA	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+689076893978	1.00	4.50	6/12/15	Bottle Suit - Navy	Navy	Navy	1.56	Product	I-131025	P-2021	4.50	OSFA	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD00IFR3BL	4.00	7.16	6/12/15	Coaster - Blue Neoprene (10% OFF Drinkware)	Blue	Blue	0.57	Product	I-131025	P-2134	1.79	OSFA	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SP5180PD-NY-S	1.00	12.00	6/12/15	Patriot Dog S/S, NY, S	NY	Navy	3.22	T-Shirt	I-131026	P-1646	12.00	S	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SDTEMPTATT	2.00	0.50	6/12/15	Tattoo - Temporary - Jake			0.08	Product	I-131027	P-5875	0.25		The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+BW6901SFC-CH-M	1.00	12.00	6/12/15	BW Sailfish Chart S/S, CH, M	CH	Chill	2.85	Bluewater	I-131027	P-12374	12.00	M	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SP5380PD-NY-S	1.00	12.00	6/12/15	Youth Patriot Dog S/S, NY, S	NY	Navy	3.37	Specialty Prints	I-131027	P-1606	12.00	S (6-8)	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SD3001C-TE-S	1.00	12.00	6/12/15	Color of the Week, Teal, S	Teal	Teal	2.89	T-Shirt	I-131028	P-12971	12.00	S	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SD001566-NY-2X	1.00	28.00	6/12/15	Sweatshirt-Stonewash, NY, 2X (20% OFF Sweatshirts)	NY	Navy	12.97	Sweatshirt	I-131028	P-2826	28.00	2X	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SD000003MA	1.00	4.50	6/12/15	Bottle Suit - Magenta	Magenta	Magenta	1.56	Product	I-131028	P-2352	4.50	OSFA	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SD0G1092-NY-S	1.00	31.20	6/12/15	Sweatshirt-College, NY, S (20% OFF Sweatshirts)	NY	Navy	22.50	Sweatshirt	I-131028	P-3803	31.20	S	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+CWLAT6901-AP-M	1.00	12.00	6/12/15	Color of the Week, AP, M	AP	Apple	2.83	T-Shirt	I-131029	P-11530	12.00	M	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+CWA980-CA-XL	1.00	12.00	6/12/15	Color of the Week, CA, XL	CA	Caribbean Blue	2.67	T-Shirt	I-131029	P-12146	12.00	XL	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SD005180-BK-S	1.00	17.00	6/12/15	Hanes Beefy S/S, BK, S	BK	Black	3.31	T-Shirt	I-131030	P-3301	17.00	S	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SD001717-LG-M	1.00	19.00	6/12/15	Comfort Soft S/S, LG, M	LG	Light Green	4.10	T-Shirt	I-131030	P-2894	19.00	M	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SDG0900-Lipstick	1.00	14.00	6/12/15	Hat - Toddler - Lipstick	Lipstick	Lipstick	7.25	Hat	I-131031	P-11116	14.00	OSFA	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SD9018DD-CB-XS	1.00	14.00	6/12/15	Youth Dog Did It S/S, CB, XS	CB	Crunch Berry	3.79	T-Shirt	I-131031	P-3639	14.00	XS (2-4)	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SD003301-RA-3T	1.00	13.00	6/12/15	Toddler T S/S, RA, 3T	RA	Raspberry	1.94	Infant / Toddler	I-131031	P-3101	13.00	3T	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SD005380-NY-M	1.00	15.00	6/12/15	Youth Beefy S/S, NY, M	NY	Navy	3.24	T-Shirt	I-131031	P-3507	15.00	M (10-12)	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SD9018DD-NY-M	1.00	14.00	6/12/15	Youth Dog Did It S/S, NY, M	NY	Navy	3.85	T-Shirt	I-131031	P-3649	14.00	M (10-12)	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	6/12/15
+SD00SL04-YO-M	-1.00	-17.00	6/12/15	Women's Classic Fit T, YO, M	YO	Carolina Blue	3.33	T-Shirt	I-131032	P-3904	17.00	M	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD001566-FL-S	-1.00	-28.00	6/12/15	Sweatshirt-Stonewash, FL, S (20% OFF Sweatshirts)	FL	Flo Blue	12.98	Sweatshirt	I-131032	P-2819	28.00	S	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SPSL04PL-6A-L	1.00	15.00	6/12/15	Women's Plaid Dog, 6A, L	6A	Wow Pink	3.50	Specialty Prints	I-131032	P-1663	15.00	L	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD33099-LI-L	1.00	19.00	6/12/15	Women's Comfort Soft V-Neck, LI, L	LI	Lime	4.40	T-Shirt	I-131032	P-13975	19.00	L	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SPSL04PL-NY-L	1.00	15.00	6/12/15	Women's Plaid Dog, NY, L	NY	Navy	3.50	Specialty Prints	I-131032	P-1665	15.00	L	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+689076894074	-1.00	-4.50	6/12/15	Bottle Suit - Red	Red	Red	1.57	Product	I-131033	P-2164	4.50	OSFA	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD00070RE	1.00	2.99	6/12/15	Can Holder - Red	Red	Red	0.74	Product	I-131033	P-2165	2.99	OSFA	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD33099-MG-XL	-1.00	-19.00	6/12/15	Women's Comfort Soft V-Neck, MG, XL	MG	Mango	4.40	T-Shirt	I-131034	P-13198	19.00	XL	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	
+SD33099-MG-XL	1.00	19.00	6/12/15	Women's Comfort Soft V-Neck, MG, XL	MG	Mango	4.40	T-Shirt	I-131034	P-13198	19.00	XL	The Salty Dog - HHI, SC	Taylor W.	Arrow Road 1	
+SD000003MA	1.00	4.50	6/12/15	Bottle Suit - Magenta	Magenta	Magenta	1.56	Product	I-131035	P-2352	4.50	OSFA	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+689076894173	1.00	4.50	6/12/15	Bottle Suit - Lime	Lime	Lime	1.56	Product	I-131035	P-2033	4.50	OSFA	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SP5380PD-RE-M	1.00	12.00	6/12/15	Youth Patriot Dog S/S, RE, M	RE	Red	3.00	Specialty Prints	I-131036	P-5854	12.00	M (10-12)	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+CW05250-4C-S	1.00	12.00	6/12/15	Color of the Week, 4C, S	4C	Twilight Blue	1.82	T-Shirt	I-131036	P-14019	12.00	S	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD2000TD-TD-L	1.00	25.00	6/12/15	Tie-Dye L/S, TD, L	TD	Tie Dye	6.25	T-Shirt	I-131037	P-3956	25.00	L	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SDMGCS30LOGO	1.00	1.50	6/12/15	Magnet - Logo - Logo			0.36	Product	I-131037	P-2074	1.50		The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD00357-SA-L	1.00	39.00	6/12/15	Ladies S/S Polo - SA - L	SA	Salmon	16.97	Polos	I-131038	P-13145	39.00	L	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SDC66CPD-Royal-Adult	1.00	14.99	6/12/15	Visor - Pigment Dyed - Royal - Adult	Royal	Royal	5.22	Hat	I-131038	P-10610	14.99	Adult	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SP5380PD-NY-XS	1.00	12.00	6/12/15	Youth Patriot Dog S/S, NY, XS	NY	Navy	3.37	Specialty Prints	I-131039	P-1767	12.00	XS (2-4)	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SDETBTSB-RE-2X	1.00	17.00	6/12/15	Bamboo S/S, RE, 2X	RE	Red	7.14	T-Shirt	I-131039	P-3944	17.00	2X	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD3413C-Aqua-L	1.00	22.00	6/12/15	Triblend S/S, Aqua, L	Aqua	Aqua	4.59	T-Shirt	I-131039	P-12595	22.00	L	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD006014-PP-M	1.00	22.00	6/12/15	Comfort Soft L/S, PP, M	PP	Pepper	6.70	T-Shirt	I-131040	P-3568	22.00	M	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD00F170-LW-S	1.00	26.40	6/12/15	Hooded-Adult Hanes, LW, S (20% OFF Sweatshirts)	LW	Light Steel	11.37	Sweatshirt	I-131041	P-3754	26.40	S	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD00F170-LW-M	1.00	26.40	6/12/15	Hooded-Adult Hanes, LW, M (20% OFF Sweatshirts)	LW	Light Steel	11.37	Sweatshirt	I-131041	P-3753	26.40	M	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SDNTRTAD-NB-S	1.00	15.00	6/12/15	Tank Top - Simple Dog, NB, S	NB	Neon Blue	4.89	Tank Top	I-131042	P-13993	15.00	S	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD001566-FL-L	1.00	28.00	6/12/15	Sweatshirt-Stonewash, FL, L (20% OFF Sweatshirts)	FL	Flo Blue	13.20	Sweatshirt	I-131042	P-2817	28.00	L	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD0TAFFYASBG	1.00	6.99	6/12/15	Taffy - Assorted - 12 oz 	Assorted	Assorted	1.85	Product	I-131042	P-2127	6.99	12 oz	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD00P360-PI-L	1.00	14.40	6/12/15	Youth Sweatshirt, PI, L (20% OFF Sweatshirts)	PI	Pale Pink	5.56	Sweatshirt	I-131043	P-3838	14.40	L (14-16)	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD00024STK	1.00	1.00	6/12/15	Salty Dog Decal Sticker, 3in, Clear	Clear	Clear	0.29	Product	I-131043	P-12933	1.00	3in	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD001717-PP-S	1.00	19.00	6/12/15	Comfort Soft S/S, PP, S	PP	Pepper	4.10	T-Shirt	I-131043	P-2913	19.00	S	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD006030-CY-M	1.00	19.00	6/12/15	Comfort Soft S/S-Pocket, CY, M	CY	Chambray	4.78	T-Shirt	I-131043	P-11663	19.00	M	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SDT114SBBL	1.00	3.99	6/12/15	Shotglass - Clear/Blue - 1 3/4 oz	Clear/Blue	Clear/Blue	1.50	Product	I-131044	P-2025	3.99	1 3/4 oz	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD00070NY	1.00	2.99	6/12/15	Can Holder - Navy	Navy	Navy	0.84	Product	I-131044	P-2155	2.99	OSFA	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SD000SN7-Coke-$1	1.00	0.75	6/12/15	Snack, Coke, $1	Coke	Coke	0.00	Misc	I-131045	P-13238	0.75	$1	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+TERVIS24OZ-Blue-24OZ	1.00	24.99	6/12/15	Tervis - 24 oz Tumbler With Top, Blue, 24OZ	Blue	Blue	11.53	Product	I-131046	P-13330	24.99	24OZ	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SDKOOZIEBL	1.00	2.99	6/12/15	Koozie - Foam - Blue	Blue	Blue	0.79	Product	I-131046	P-5615	2.99	OSFA	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+CWLAT6901-AP-L	1.00	12.00	6/12/15	Color of the Week, AP, L	AP	Apple	2.89	T-Shirt	I-131047	P-11531	12.00	L	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SDKOOZIERE	1.00	2.99	6/12/15	Koozie - Foam - Red	Red	Red	0.80	Product	I-131047	P-5616	2.99	OSFA	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD00070LI	1.00	2.99	6/12/15	Can Holder - Lime	Lime	Lime	0.85	Product	I-131047	P-2249	2.99	OSFA	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SDYY47MT - Green - Youth	1.00	14.00	6/12/15	Hat - Youth 5-12 - Green	Green	Green	5.00	Hat	I-131048	P-2767	14.00	Youth	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD005380-LI-S	1.00	15.00	6/12/15	Youth Beefy S/S, LI, S	LI	Lime	3.21	T-Shirt	I-131048	P-3496	15.00	S (6-8)	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+BW6901SFC-CH-L	1.00	12.00	6/12/15	BW Sailfish Chart S/S, CH, L	CH	Chill	2.85	Bluewater	I-131048	P-12375	12.00	L	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+CW05170-HE-M	1.00	12.00	6/12/15	Color of the Week, HE, M	HE	Heather Red	1.79	T-Shirt	I-131048	P-13374	12.00	M	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+CWG5000-348C-M	1.00	12.00	6/12/15	Color of the Week, 348C, M	348C	Antique Irish Green	2.21	T-Shirt	I-131048	P-13736	12.00	M	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD1000YTD-TD-M	1.00	20.00	6/12/15	Youth Tie Dye S/S, TD, M	TD	Tie Dye	4.25	T-Shirt	I-131048	P-2800	20.00	M (10-12)	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SDWBH2GO-Aqua	2.00	17.98	6/12/15	Waterbottle - H2GO - Aqua	Aquatic Blue		3.44	Product	I-131049	P-11534	8.99	24OZ	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD005186-WH-S	1.00	20.00	6/12/15	Hanes Beefy L/S, WH, S	WH	White	5.25	T-Shirt	I-131050	P-3464	20.00	S	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SDTRLIDBLU	1.00	3.99	6/12/15	Travel Lid - Small, Blue, 16oz	Blue	Blue	1.90	Product	I-131050	P-2583	3.99	16OZ	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+93597003004	1.00	12.99	6/12/15	Tervis - 16 oz Tumbler - SD Logo	Clear	Clear	7.73	Product	I-131050	P-2140	12.99	16 oz	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD0M1276CO	1.00	6.99	6/12/15	Bistro Mug - Cobalt - 16 oz	Cobalt	Cobalt	2.71	Product	I-131050	P-2157	6.99	16 oz	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD000003MA	1.00	4.50	6/12/15	Bottle Suit - Magenta	Magenta	Magenta	1.56	Product	I-131050	P-2352	4.50	OSFA	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD00T120BBL	1.00	3.99	6/12/15	Shotglass - Blue	Blue	Blue	2.00	Product	I-131050	P-2149	3.99	1 3/4 oz	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+CWLAT6901-AP-XL	1.00	12.00	6/12/15	Color of the Week, AP, XL	AP	Apple	2.84	T-Shirt	I-131051	P-11528	12.00	XL	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+CW05250-SH-XL	1.00	12.00	6/12/15	Color of the Week, SH, XL	SH	Safety Orange	0.78	T-Shirt	I-131052	P-14027	12.00	XL	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+CWG5000-348C-L	1.00	12.00	6/12/15	Color of the Week, 348C, L	348C	Antique Irish Green	2.20	T-Shirt	I-131052	P-13735	12.00	L	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD2000YTD-TD-L	1.00	25.00	6/12/15	Youth Tie Dye L/S, TD, L	TD	Tie Dye	6.25	T-Shirt	I-131052	P-2932	25.00	L (14-16)	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SDWBH2GO-Aqua	1.00	8.99	6/12/15	Waterbottle - H2GO - Aqua	Aquatic Blue		3.44	Product	I-131052	P-11534	8.99	24OZ	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD000003MA	1.00	4.50	6/12/15	Bottle Suit - Magenta	Magenta	Magenta	1.56	Product	I-131053	P-2352	4.50	OSFA	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SPNL6810-NO-L	1.00	17.00	6/12/15	Women's Slub Tee, NO, L	NO	Neon Orange	3.55	T-Shirt	I-131053	P-12921	17.00	L	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD2700-RE-L	1.00	16.00	6/12/15	Tank Top-Shooter, RE, L	RE	Red	3.80	Tank Top	I-131053	P-11784	16.00	L	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD3413C-Aqua-L	-1.00	-22.00	6/12/15	Triblend S/S, Aqua, L	Aqua	Aqua	4.59	T-Shirt	I-131054	P-12595	22.00	L	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	
+SD3413C-Aqua-XL	1.00	22.00	6/12/15	Triblend S/S, Aqua, XL	Aqua	Aqua	4.59	T-Shirt	I-131054	P-12592	22.00	XL	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	
+SD005380-RO-M	-1.00	-15.00	6/12/15	Youth Beefy S/S, RO, M	RO	Deep Royal	3.15	T-Shirt	I-131055	P-3527	15.00	M (10-12)	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+CW05250-PF-XL	-1.00	-12.00	6/12/15	Color of the Week, PF, XL	PF	Palace Blue	1.36	T-Shirt	I-131055	P-13371	12.00	XL	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD003587-IR-M	-1.00	-18.00	6/12/15	V-Neck S/S, IR, M	IR	Iris	4.47	T-Shirt	I-131055	P-5999	18.00	M	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD005380-RO-S	-1.00	-15.00	6/12/15	Youth Beefy S/S, RO, S	RO	Deep Royal	3.29	T-Shirt	I-131055	P-3528	15.00	S (6-8)	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD005380-LI-L	1.00	15.00	6/12/15	Youth Beefy S/S, LI, L	LI	Lime	3.16	T-Shirt	I-131055	P-3494	15.00	L (14-16)	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD005380-LI-M	1.00	15.00	6/12/15	Youth Beefy S/S, LI, M	LI	Lime	3.23	T-Shirt	I-131055	P-3495	15.00	M (10-12)	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SPNL6810-NG-M	1.00	17.00	6/12/15	Women's Slub Tee, NG, M	NG	Neon Green	3.55	T-Shirt	I-131055	P-12925	17.00	M	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+CWLAT6901-AP-XL	1.00	12.00	6/12/15	Color of the Week, AP, XL	AP	Apple	2.84	T-Shirt	I-131055	P-11528	12.00	XL	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SDMGCS30LOGO	2.00	3.00	6/12/15	Magnet - Logo - Logo			0.36	Product	I-131055	P-2074	1.50		The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SPNL6810-NG-L	1.00	17.00	6/12/15	Women's Slub Tee, NG, L	NG	Neon Green	3.55	T-Shirt	I-131056	P-12926	17.00	L	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	
+SPNL6810-NG-M	-1.00	-17.00	6/12/15	Women's Slub Tee, NG, M	NG	Neon Green	3.55	T-Shirt	I-131056	P-12925	17.00	M	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	
+SD006030-WA-L	1.00	19.00	6/12/15	Comfort Soft S/S-Pocket, WA, L	WA	Watermelon	4.78	T-Shirt	I-131057	P-11336	19.00	L	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD5180CD-UG-XL	1.00	15.00	6/12/15	Camo Dog S/S, UG, XL	UG	Pebble	3.28	T-Shirt	I-131058	P-3392	15.00	XL	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SDETBTSB-RO-XL	-1.00	-17.00	6/12/15	Bamboo S/S, RO, XL	RO	Deep Royal	6.50	T-Shirt	I-131058	P-3746	17.00	XL	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD1000TD-TD-XL	1.00	20.00	6/12/15	Tie-Dye S/S, TD, XL	TD	Tie Dye	4.25	T-Shirt	I-131059	P-3955	20.00	XL	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+70330600065	1.00	2.50	6/12/15	Lighter - SD - Navy/Red		Navy/Red	0.95	Product	I-131059	P-2468	2.50		The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD00BKUSNY	1.00	2.99	6/12/15	Key Chain - 3 in 1 - Navy	NY	Navy	1.34	Product	I-131059	P-2173	2.99	OSFA	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+BW5180TU-NY-2X	1.00	12.00	6/12/15	BW Tuna S/S, NY, 2X	NY	Navy	5.04	Bluewater	I-131059	P-4663	12.00	2X	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD0882L-HP-S	1.00	15.00	6/12/15	Tank Top - Women's, HP, S	HP	Hot Pink	3.13	T-Shirt	I-131059	P-12752	15.00	S	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD005180-YO-M	1.00	17.00	6/12/15	Hanes Beefy S/S, YO, M	YO	Carolina Blue	3.22	T-Shirt	I-131059	P-3415	17.00	M	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD3413C-Red-XL	1.00	22.00	6/12/15	Triblend S/S, Red, XL	Red	Red	4.59	T-Shirt	I-131059	P-11938	22.00	XL	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD005180-CD-XL	1.00	17.00	6/12/15	Hanes Beefy S/S, CD, XL	CD	Cardinal	3.38	T-Shirt	I-131059	P-3308	17.00	XL	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD005180-PR-L	1.00	17.00	6/12/15	Hanes Beefy S/S, PR, L	PR	Purple	3.36	T-Shirt	I-131059	P-3354	17.00	L	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+70330600065	1.00	2.50	6/12/15	Lighter - SD - Navy/Red		Navy/Red	0.95	Product	I-131059	P-2468	2.50		The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD00070PS	1.00	2.69	6/12/15	Can Holder - Magenta (10% OFF Drinkware)	Magenta	Magenta	0.83	Product	I-131059	P-2183	2.69	OSFA	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD00070KG	1.00	2.69	6/12/15	Can Holder - Kelly Green (10% OFF Drinkware)	Kelly Green	Kelly Green	0.85	Product	I-131059	P-6018	2.69	OSFA	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+689076893978	1.00	4.05	6/12/15	Bottle Suit - Navy (10% OFF Drinkware)	Navy	Navy	1.56	Product	I-131059	P-2021	4.05	OSFA	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+689076893978	1.00	4.05	6/12/15	Bottle Suit - Navy (10% OFF Drinkware)	Navy	Navy	1.56	Product	I-131059	P-2021	4.05	OSFA	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD00070PS	1.00	2.69	6/12/15	Can Holder - Magenta (10% OFF Drinkware)	Magenta	Magenta	0.83	Product	I-131059	P-2183	2.69	OSFA	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD00070KG	1.00	2.69	6/12/15	Can Holder - Kelly Green (10% OFF Drinkware)	Kelly Green	Kelly Green	0.85	Product	I-131059	P-6018	2.69	OSFA	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD00070NY	1.00	2.69	6/12/15	Can Holder - Navy (10% OFF Drinkware)	Navy	Navy	0.84	Product	I-131059	P-2155	2.69	OSFA	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD00070PS	1.00	2.69	6/12/15	Can Holder - Magenta (10% OFF Drinkware)	Magenta	Magenta	0.83	Product	I-131059	P-2183	2.69	OSFA	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD3413C-Navy-XL	1.00	22.00	6/12/15	Triblend S/S, Navy, XL	Navy	Navy	4.59	T-Shirt	I-131060	P-11765	22.00	XL	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SPSL04PL-NY-L	1.00	15.00	6/12/15	Women's Plaid Dog, NY, L	NY	Navy	3.50	Specialty Prints	I-131060	P-1665	15.00	L	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD3413C-Navy-L	1.00	22.00	6/12/15	Triblend S/S, Navy, L	Navy	Navy	4.59	T-Shirt	I-131060	P-11763	22.00	L	The Salty Dog - HHI, SC	Andrew S	FactoryRetailRegister1	6/12/15
+SD005180-WH-XL	1.00	10.00	6/12/15	Hanes Beefy S/S, WH, XL	WH	White	2.95	T-Shirt	I-131061	P-3405	10.00	XL	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SP5380PD-NY-XS	1.00	12.00	6/12/15	Youth Patriot Dog S/S, NY, XS	NY	Navy	3.37	Specialty Prints	I-131062	P-1767	12.00	XS (2-4)	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SP5380PD-NY-XS	1.00	12.00	6/12/15	Youth Patriot Dog S/S, NY, XS	NY	Navy	3.37	Specialty Prints	I-131062	P-1767	12.00	XS (2-4)	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SP5380PD-NY-XS	1.00	12.00	6/12/15	Youth Patriot Dog S/S, NY, XS	NY	Navy	3.37	Specialty Prints	I-131062	P-1767	12.00	XS (2-4)	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+CW05170-HE-M	1.00	12.00	6/12/15	Color of the Week, HE, M	HE	Heather Red	1.79	T-Shirt	I-131062	P-13374	12.00	M	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15
+SP5180PD-RE-XL	1.00	12.00	6/12/15	Patriot Dog S/S, RE, XL	RE	Red	3.22	T-Shirt	I-131062	P-5810	12.00	XL	The Salty Dog - HHI, SC	Taylor W.	FactoryRetailRegister1	6/12/15

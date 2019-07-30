@@ -1,0 +1,141 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Retail Sales Report</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css" >
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <link rel="stylesheet" href="form.css" >
+        <script src="form.js"></script>
+    </head>
+    <body >
+        <div class="container">
+            <script src='https://www.google.com/recaptcha/api.js'></script>
+            <div class="form-container">
+
+    
+     
+        <h1 >Retail Sales</h1>
+ 
+    
+      <hr>
+      <form method="post" id="reused_form" >
+
+
+
+<label for="Date">Date</label>
+<input id="date" type="text"  name="date" maxlength="50" />
+
+
+
+
+
+
+  <label  for="Location">Location</label>
+
+
+<select  id="location" name="location">
+  <option  value="">- Select -</option>
+  <option  value="TSS">TSS</option>
+  <option  value="Cargo">Cargo</option>
+  <option  value="Tanger Retail">Tanger Retail</option>
+  <option  value="BW">BW</option>
+  <option  value="Arrow">Arrow</option>
+  <option  value="Online Store">Online Store</option>
+   <option  value="Online Store">Bohicket T-shirt</option>
+      <option  value="Online Store">Bohicket BW</option>
+  </select>
+
+
+
+
+
+
+  <label  for="Net Sales">Net Sales</label>
+
+
+<input type="text"  id="Net Sales" name="Net Sales"  />
+
+
+  
+
+
+<label for="AMLead">AM Lead:</label>
+                    <input id="AMLead" type="text" name="AM Lead"  maxlength="50">
+
+
+
+  
+
+                    <label for="PMLead">PM Lead:</label>
+                    <input id="PMLead" type="text" name="PM Lead"  maxlength="50">
+                  
+
+
+
+
+<label for="YourNAME">Your Name:</label>
+<input id="YourName" type="text" name="Your Name"  maxlength="50">
+
+
+
+<label for="shift">Shift</label>
+<select  id="shift" name="shift"   
+    >
+  <option  value="">- Select -</option>
+  <option  value="Mid Day">Mid Day</option>
+  <option  value="End of Day">End of Day</option>
+  </select>
+
+
+
+<label for="RegisterOne">Register One:</label>
+<input id="RegisterOne" type="text" name="Register One"  maxlength="50">
+
+
+<label for="RegisterTwo">Register Two:</label>
+<input id="RegisterTwo" type="text" name="Register Two"  maxlength="50">
+
+<label for="TotalTransations">Total Transations:</label>
+<input id="TotalTransations" type="text" name="Total Transations"  maxlength="50">
+
+
+
+<label for="Notes">Notes:</label>
+<textarea id="Notes" type="text" name="Notes" Kitchen maxlength="500"></textarea>
+<!-- <input id="Notes" type="text" name="Notes" Kitchen maxlength="500"> -->
+
+
+<!-- <div class="g-recaptcha" data-sitekey="6Lckc5YUAAAAAAMHgfCXuvlbeO1FTsCAu4ihH8kx"></div> -->
+
+<div class="form-group">
+  <label for="name"> File Upload:</label>
+  <input type="file" class="form-control" id="image" name="image" required>
+</div>
+<div class="form-group">
+  <label for="name"> File Upload:</label>
+  <input type="file" class="form-control" id="image2" name="image2" required>
+</div>
+<button class="button-primary" type="submit" >Post</button>
+</form>
+<div id="success_message" style="display:none">
+<h3>Submitted  successfully!</h3> 
+<p> Thank you. </p>
+</div>
+<div id="error_message" style="width:100%; height:100%; display:none; "> <h3>Error</h3> Sorry there was an error sending your form. </div>
+</div>
+
+
+
+	
+
+
+
+
+  </body>
+</html>
