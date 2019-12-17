@@ -26,7 +26,7 @@
      <link type="text/css" rel="stylesheet" href="../../headers/mega-header.css">
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.99.0/js/materialize.min.js"></script>
-
+    <link href="css/lightbox.css" rel="stylesheet" />
     <!-- Compiled and minified CSS -->
 
 
@@ -386,6 +386,7 @@
                 // Build urls for the images
                 function handleData(data) {
                     //console.log(data);
+                    console.log(data.photos.photo)
                     data.photos.photo.forEach(function (currentPhoto, index, array) {
                         // Image URL > Will be built and made an link
                         let photoURL = `https://farm${currentPhoto.farm}.static.flickr.com/${currentPhoto.server}/${currentPhoto.id}_${currentPhoto.secret}_b.jpg`;
@@ -403,7 +404,7 @@
                     // Build the HTML element
                     let htmlText =
                         '<div class="image">' +
-                        '<img class="materialboxed" data-caption="' +
+                        '<img class="data-lightbox" "data-title ="' +
                         title +
                         '" src="' +
                         url +
@@ -411,13 +412,13 @@
                         "</div>";
                     imageContainer.append(htmlText);
                     // Add the Materialize functionality to the images
-                    $(".materialboxed").materialbox();
+                    // $(".materialboxed").materialbox();
                 } // END OF pushImages
             })() // end of self self executing anonymous function
         );
 
 
-
-
+</script>
+        <script src="js/lightbox.js">
     </script>
 </body>
